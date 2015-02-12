@@ -5,9 +5,9 @@ Científica con Python se realizará entre los días *20-22 de mayo* en la
 ciudad de *Posadas, Misiones, Argentina*.
 
 SciPy es una comunidad dedicada al avance de la computación científica
-a través de la utilización de Python como herramienta principal para la generación de
-software libre de código abierto con aplicaciones matemáticas, científicas
-y de ingeniería. La conferencia anual SciPy les permite a los participantes de
+a través de la utilización de herramientas de
+software libre y código abierto basadas en Python con aplicación en matemática, ciencias
+e ingeniería. La conferencia anual SciPy les permite a los participantes de
 la academia, de la industria, así como a organizaciones gubernamentales, mostrar
 sus proyectos a la comunidad, aprender de usuarios y desarrolladores avanzados
 y generar una atmósfera propicia para la colaboración en la generación de nuevo código.
