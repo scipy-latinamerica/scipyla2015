@@ -1,8 +1,8 @@
-*Call for Proposals*
+**Call for Proposals**
 
-*SciPy Latin América 2015*, the third annual Scientific Computing with
-Python Conference, will be held this* May 20-22* in *Posadas, Misiones,
-Argentina*.
+**SciPy Latin América 2015**, the third annual Scientific Computing with
+Python Conference, will be held this **May 20-22** in **Posadas, Misiones,
+Argentina**.
 
 SciPy is a community dedicated to the advancement of scientific computing
 through open source Python software for mathematics, science, and
@@ -11,7 +11,7 @@ academic, commercial, and governmental organizations to showcase their
 latest projects, learn from skilled users and developers, and collaborate
 on code development.
 
-*Proposals are now being accepted for SciPy Latin América 2015.*
+**Proposals are now being accepted for SciPy Latin América 2015**.
 
 Presentation content can be at a novice, intermediate or advanced level.
 Talks will run 30-40 min and hands-on tutorials will run 100-120 min. We
@@ -20,18 +20,18 @@ For more information about the different types of proposal, see below
 the "*Different
 types of Communication*" section.
 
-*How to Submit?*
+**How to Submit?**
 
 1. Register for an account on <http://conf.scipyla.org/user/register>
 2. Submit your proposal at <http://conf.scipyla.org/activity/propose>
 
-*Important Dates*
+**Important Dates**
 
-- *April 6th*: Talks, poster, tutorial submission deadline.
-- *April 20th*: Notification Talks / Posters / Tutorial accepted.
-- *May 20th-22nd*: SciPy Latin América 2015.
+- **April 6th**: Talks, poster, tutorial submission deadline.
+- **April 20th**: Notification Talks / Posters / Tutorial accepted.
+- **May 20th-22nd**: SciPy Latin América 2015.
 
-*Different types of Communication*
+**Different types of Communication**
 
 *Talks*: These are the traditional talk sessions given during the main
 conference days. They're mostly 30 minutes long with 5 min for questions.
