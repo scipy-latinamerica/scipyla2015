@@ -1,8 +1,8 @@
-﻿*Llamado a propuestas de actividades*
+﻿**Llamado a propuestas de actividades**
 
-*SciPy Latin América 2015*, la tercera conferencia anual de Computación
-Científica con Python se realizará entre los días *20-22 de mayo* en la
-ciudad de *Posadas, Misiones, Argentina*.
+**SciPy Latin América 2015**, la tercera conferencia anual de Computación
+Científica con Python se realizará entre los días **20-22 de mayo** en la
+ciudad de **Posadas, Misiones, Argentina**.
 
 SciPy es una comunidad dedicada al avance de la computación científica
 a través de la utilización de herramientas de
@@ -12,8 +12,8 @@ la academia, de la industria, así como a organizaciones gubernamentales, mostra
 sus proyectos a la comunidad, aprender de usuarios y desarrolladores avanzados
 y generar una atmósfera propicia para la colaboración en la generación de nuevo código.
 
-*Se encuentra abierto el llamado a propuestas de actividades para SciPy Latin
-América 2015*
+**Se encuentra abierto el llamado a propuestas de actividades para SciPy Latin
+América 2015**.
 
 El nivel en el contenido de las propuestas es libre, pudiéndose presentar
 charlas o tutoriales desde el nivel más básico hasta el más avanzado.
@@ -24,18 +24,18 @@ Para más información acerca de las características de las diferentes tipo de
 actividades (charlas, tutoriales, posters), pueden ver al final del comunicado una breve
 descripción de las mismas (en la sección "*Diferentes tipos de comunicaión*").
 
-*¿Cómo presentar las propuestas?*
+**¿Cómo presentar las propuestas?**
 
 1. Registrarse en el sitio de la conferencia: <http://conf.scipyla.org/user/register>
 2. Escribir la propuesta de actividad en <http://conf.scipyla.org/activity/propose>
 
-*Fechas importantes*
+**Fechas importantes**
 
-- *16 de Abril*: Cierre del llamado a propuestas de actividades.
-- *20 de Abril*: Notificación de las charlas, poster y tutoriales aceptados.
-- *20-22 de Mayo*: SciPy Latin América 2015.
+- **16 de Abril**: Cierre del llamado a propuestas de actividades.
+- **20 de Abril**: Notificación de las charlas, poster y tutoriales aceptados.
+- **20-22 de Mayo**: SciPy Latin América 2015.
 
-*Diferentes tipos de comunicación*
+**Diferentes tipos de comunicación**
 
 *Charlas*: Estas son las charlas tradicionales que se realizan durante los días
 centrales de la conferencia. Normalmente, tienen una duración de 30 minutos y
