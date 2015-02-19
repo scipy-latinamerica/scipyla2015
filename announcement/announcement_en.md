@@ -1,6 +1,6 @@
 **SciPy LA - SciPy Latin America**
 
-SciPy LA is a conference focused on 
+SciPy LA is a conference focused on
 science/technology/engineering/mathematics applications that use Python.
 It follows the examples of other regional conferences on the same topic
 taking place in Europe (EuroSciPy) and India (SciPy India).
@@ -19,4 +19,4 @@ The event will take place on May 20-22 in Posadas - Misiones, Argentina.
 
 **Registration and call for papers are open!**
 
-Check http://conf.scipyla.org/ for more informations.
+Check <http://conf.scipyla.org/> for more informations.

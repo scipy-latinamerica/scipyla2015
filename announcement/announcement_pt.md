@@ -10,4 +10,4 @@ O evento ocorrerá de 20 a 22 de maio em Posadas - Misiones, Argentina.
 
 **As inscrições e chamadas de trabalhos estão abertas!**
 
-Confira em http://conf.scipyla.org/
+Confira em <http://conf.scipyla.org/>
