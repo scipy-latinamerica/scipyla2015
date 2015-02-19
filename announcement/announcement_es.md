@@ -1,13 +1,20 @@
-**SciPy LA - Conferência Latinoamericana de Computação Científica com Python**
+**SciPy LA - Conferencia Latinoamericana de Computación Científica con Python**
 
-A conferência **SciPy LA** é focada em aplicações científicas/numéricas/matemáticas/de engenharias/e afins que utilizam Python, seguindo o exemplo de outras conferências regionais de mesmo tema que ocorrem na Europa (EuroSciPy) e Índia (SciPy India). Esse encontro suscede 2 outros encontros de mesma temática ocorridos na Argentina em 2013 e 2014.
+La conferencia **SciPy LA** esta enfocada en aplicaciones
+científicas/numéricas/de ingeniería y afines que utilizan Python. Siguiendo el
+ejemplo de otras conferencias regionales del tema que ocurren en Europa
+(EuroScipy) e India (SciPy India). Este encuentre continua los esfuerzos de
+SciPy Argentina 2013 y 2014.
 
-O público esperado é composto de estudantes e pesquisadores de universidades e empresas que utilizam ou tem interesse em utilizar Python em suas atividades. Haverão palestras tanto para iniciantes quanto para usuários mais avançados sobre tópicos específicos, bem como minicursos.
+El publico esperado esta compuesto de estudiantes e investigadores de
+universidades y empresas que utilizan o tienen interés en utilizar Python en
+sus actividades. Abran charlas tanto para principiantes y usuarios mas
+avanzados sobre tópicos específicos así como talleres.
 
-**Data e Local**
+**Lugar y fecha**
 
-O evento ocorrerá de 20 a 22 de maio em Posadas - Misiones, Argentina.
+El evento sera del 20 al 22 de mayo en Posadas - Misiones, Argentina.
 
-**As inscrições e chamadas de trabalhos estão abertas!**
+**¡Las inscripciones y llamadas a trabajos están abiertas!**
 
-Confira em http://conf.scipyla.org/
+Para mas información http://conf.scipyla.org/
