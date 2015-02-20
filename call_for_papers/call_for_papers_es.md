@@ -20,7 +20,7 @@ charlas o tutoriales desde el nivel más básico hasta el más avanzado.
 Las charlas tendrán una duración de 30-40 minutos, mientras que los tutoriales
 tendrán una duración de 100-120 minutos. También se reciben propuestas para
 la presentación de posters.
-Para más información acerca de las características de las diferentes tipo de
+Para más información acerca de las características de los diferentes tipos de
 actividades (charlas, tutoriales, posters), pueden ver al final del comunicado una breve
 descripción de las mismas (en la sección "*Diferentes tipos de comunicaión*").
 
@@ -32,7 +32,7 @@ descripción de las mismas (en la sección "*Diferentes tipos de comunicaión*")
 **Fechas importantes**
 
 - **16 de Abril**: Cierre del llamado a propuestas de actividades.
-- **20 de Abril**: Notificación de las charlas, poster y tutoriales aceptados.
+- **20 de Abril**: Notificación de las charlas, posters y tutoriales aceptados.
 - **20-22 de Mayo**: SciPy Latin América 2015.
 
 **Diferentes tipos de comunicación**
