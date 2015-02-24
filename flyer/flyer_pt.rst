@@ -68,8 +68,8 @@ Palestrantes Internacionais
     PyCon España 2014
 
 
-Organização
-^^^^^^^^^^^
+Patrocinadores
+^^^^^^^^^^^^^^
 
 .. image:: img/sponsors.png
     :align: center
