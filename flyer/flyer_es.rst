@@ -27,7 +27,7 @@
     :align: center
     :scale: 90 %
 
-    Universidad Gastón Dachary - Colon y Salta, Posadas, 3300, Argentina
+    Universidad Gastón Dachary - Colón y Salta, Posadas, 3300, Argentina
 
 
 Actividades Programadas:
@@ -35,7 +35,7 @@ Actividades Programadas:
 
 .. class:: center
 
-    Talleres, Charlas, Sessión de Posters y Keynotes
+    Talleres, Charlas, Sesión de posters y Keynotes
 
     **Inscripción Online** http://conf.scipyla.org (cupos limitados)
 
@@ -51,20 +51,20 @@ Conferencias Anteriores
     Puerto Madryn, 2013 - SciPyCon Argentina 2013
 
 
-Exponentes Internacionales
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Ponentes Internacionales
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. class:: center
 
-    **Juan Luis Cano** y **Kiko Correoso** Autores del
-    Blog Científico Pybonacci (http://pybonacci.org)
+    **Juan Luis Cano** y **Kiko Correoso**
+    Autores del Blog Científico Pybonacci (http://pybonacci.org)
 
 
 .. figure:: img/pybonaccis.png
     :align: center
     :scale: 100 %
 
-    Kiko (izquieda) y Juan Luis (derecha) brindando una charla en
+    Kiko (izquierda) y Juan Luis (derecha) brindando una charla en
     PyCon España 2014
 
 
