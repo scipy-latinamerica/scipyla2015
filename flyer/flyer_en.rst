@@ -26,7 +26,7 @@
     :align: center
     :scale: 90 %
 
-    Universidad Gastón Dachary - Colon y Salta, Posadas, 3300, Argentina
+    Universidad Gastón Dachary - Colón y Salta, Posadas, 3300, Argentina
 
 
 Scheduled Activities:
@@ -63,7 +63,7 @@ International Speakers
     :align: center
     :scale: 100 %
 
-    Kiko (left) and Juan Luis (right) joking during a talk at
+    Kiko (left) and Juan Luis (right) giving a talk at
     PyCon España 2014
 
 

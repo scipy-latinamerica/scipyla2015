@@ -27,7 +27,7 @@
     :align: center
     :scale: 90 %
 
-    Universidad Gastón Dachary - Colon y Salta, Posadas, 3300, Argentina
+    Universidad Gastón Dachary - Colón y Salta, Posadas, 3300, Argentina
 
 
 Atividades Programadas:
