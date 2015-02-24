@@ -8,7 +8,7 @@
         :align: center
         :scale: 120 %
 
-    **Latinoamericana Conference of Scientific Computing with Python**
+    **Latinoamerican Conference of Scientific Computing with Python**
 
     http://conf.scipyla.org
 
