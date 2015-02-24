@@ -6,7 +6,7 @@
 
     .. image:: img/head.png
         :align: center
-        :scale: 90 %
+        :scale: 120 %
 
     **Conferencia Latinoamericana de Computación Científica con Python**
 
@@ -25,7 +25,7 @@
 
 .. Figure:: img/map.png
     :align: center
-    :scale: 80 %
+    :scale: 90 %
 
     Universidad Gastón Dachary - Colon y Salta, Posadas, 3300, Argentina
 
@@ -45,7 +45,7 @@ Conferencias Anteriores
 
 .. figure:: img/past.png
     :align: center
-    :scale: 90 %
+    :scale: 180 %
 
     Bahía Blanca, 2014 - SciPyCon Argentina 2014 -
     Puerto Madryn, 2013 - SciPyCon Argentina 2013
@@ -62,7 +62,7 @@ Exponentes Internacionales
 
 .. figure:: img/pybonaccis.png
     :align: center
-    :scale: 80 %
+    :scale: 100 %
 
     Kiko (izquieda) y Juan Luis (derecha) brindando una charla en
     PyCon España 2014
@@ -73,7 +73,7 @@ Organizan
 
 .. image:: img/sponsors.png
     :align: center
-    :scale: 80 %
+    :scale: 100 %
 
 
 

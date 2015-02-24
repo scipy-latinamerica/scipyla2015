@@ -1,13 +1,13 @@
 {
     "pageSetup" : {
         "size": null,
-        "width": "70cm",
-        "height": "100cm",
+        "width": "841mm",
+        "height": "1189mm",
 
-        "margin-top": "5mm",
-        "margin-bottom": "5mm",
-        "margin-left": "5mm",
-        "margin-right": "5mm",
+        "margin-top": "2mm",
+        "margin-bottom": "2mm",
+        "margin-left": "2mm",
+        "margin-right": "2mm",
         "spacing-header": "15mm",
         "spacing-footer": "0mm",
         "margin-gutter": "0cm"
