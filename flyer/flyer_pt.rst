@@ -8,7 +8,7 @@
         :align: center
         :scale: 120 %
 
-    **Conferencia Latinoamericana de Computación Científica con Python**
+    **Conferência Latinoamericana de Computação Científica com Python**
 
     http://conf.scipyla.org
 
@@ -19,9 +19,9 @@
 
 .. class:: center
 
-    **La conferencia está orientada a la divulgación de herramientas y/o**
-    **proyectos realizados con Python en el ámbito científico, académico e**
-    **industrial.**
+    **A conferência objetiva a divulgação de ferramentas e/ou
+    projetos realizados com Python no ambiente científico, acadêmico e
+    industrial.**
 
 .. Figure:: img/map.png
     :align: center
@@ -30,17 +30,17 @@
     Universidad Gastón Dachary - Colon y Salta, Posadas, 3300, Argentina
 
 
-Actividades Programadas:
-^^^^^^^^^^^^^^^^^^^^^^^^
+Atividades Programadas:
+^^^^^^^^^^^^^^^^^^^^^^^
 
 .. class:: center
 
-    Talleres, Charlas, Sessión de Posters y Keynotes
+    Palestras, Tutoriais, Sessão de Poster e Keynotes
 
-    **Inscripción Online** http://conf.scipyla.org (cupos limitados)
+    **Inscrições Online** http://conf.scipyla.org (vagas limitadas)
 
 
-Conferencias Anteriores
+Conferências Anteriores
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: img/past.png
@@ -51,12 +51,12 @@ Conferencias Anteriores
     Puerto Madryn, 2013 - SciPyCon Argentina 2013
 
 
-Exponentes Internacionales
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Palestrantes Internacionais
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. class:: center
 
-    **Juan Luis Cano** y **Kiko Correoso** Autores del
+    **Juan Luis Cano** e **Kiko Correoso** Autores do
     Blog Científico Pybonacci (http://pybonacci.org)
 
 
@@ -64,12 +64,12 @@ Exponentes Internacionales
     :align: center
     :scale: 100 %
 
-    Kiko (izquieda) y Juan Luis (derecha) brindando una charla en
+    Kiko (esquerda) e Juan Luis (direita) brincando em uma tutorial na
     PyCon España 2014
 
 
-Organizan
-^^^^^^^^^
+Organização
+^^^^^^^^^^^
 
 .. image:: img/sponsors.png
     :align: center
