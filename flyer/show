@@ -1,0 +1,3 @@
+tf=$(tempfile);
+rst2pdf poster.rst -s poster.style -o $tf --use-floating-images --fit-background scale;
+evince $tf;

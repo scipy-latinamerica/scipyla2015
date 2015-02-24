@@ -1,0 +1,58 @@
+{
+    "pageSetup" : {
+        "size": null,
+        "width": "70cm",
+        "height": "100cm",
+
+        "margin-top": "5mm",
+        "margin-bottom": "5mm",
+        "margin-left": "5mm",
+        "margin-right": "5mm",
+        "spacing-header": "15mm",
+        "spacing-footer": "0mm",
+        "margin-gutter": "0cm"
+    },
+    "fontsAlias" : {
+        "stdFont": "Courrier",
+        "stdBold": "Helvetica-Bold",
+        "stdItalic": "Helvetica-Oblique",
+        "stdBoldItalic": "Helvetica-BoldOblique",
+        "stdMono": "Courier-Bold",
+        "stdMonoItalic": "Courier-Oblique",
+        "stdMonoBold": "Courier-Bold",
+        "stdMonoBoldItalic": "Courier-BoldOblique",
+        "stdSerif": "Times-Roman"
+    },
+    "linkColor": "#f47a04",
+    "pageTemplates" : {
+        "oneColumn": {
+            "background" : "img/bg.png"
+        }
+    },
+
+    "styles" : {
+        "normal": {
+            "fontSize": 30,
+            "alignment": TA_CENTER
+        },
+        "header": {
+            "fontSize": 40
+        },
+
+        "footer": {
+            "fontSize": 25,
+            "alignment": TA_RIGHT
+        },
+
+        "heading1": {
+            "textColor": "#235377",
+            "alignment": TA_CENTER
+        },
+
+        "heading2": {
+            "textColor": "#39719e"
+        }
+
+    }
+
+}
