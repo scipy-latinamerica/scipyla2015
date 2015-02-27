@@ -51,7 +51,7 @@ inmediatamente.
 Las exhibiciones en el pasillo de exposición, espacios de auspiciantes o
 empresas o actividades similares deberán regirse también por la mencionada
 política de anti-acoso. Especialmente, los expositores no deberían utilizar
-imágenes ,actividades u otro material de contenido sexual. El personal de
+imágenes, actividades u otro material de contenido sexual. El personal de
 exposición (incluyendo voluntarios) no debería usar vestimenta, uniformes o
 indumentaria de tipo sexual, o generar un ambiente sexual de algún modo.
 
