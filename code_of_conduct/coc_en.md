@@ -1,21 +1,21 @@
 **Code of Conduct**
 
-SciPy Latin America (SciPy) is a community conference intended for networking
+SciPy Latin America (SciPyLA) is a community conference intended for networking
 and collaboration in the scientific Python developer community.
 
 We value the participation of each member of this community and want all
 attendees to have an enjoyable and fulfilling experience. Accordingly, all
 attendees are expected to show respect and courtesy to other attendees
 throughout the conference and at all conference events, whether officially
-sponsored by SciPy or not.
+sponsored by SciPyLA or not.
 
 To make clear what is expected, all delegates, speakers, exhibitors and
-volunteers at any SciPy event are required to conform to the following Code of
+volunteers at any SciPyLA event are required to conform to the following Code of
 Conduct. Organizers will enforce this code throughout the event.
 
 **Overview**
 
-SciPy is dedicated to providing a harassment-free conference experience for
+SciPyLA is dedicated to providing a harassment-free conference experience for
 everyone, regardless of gender, sexual orientation, disability, physical
 appearance, body size, race, or religion. We do not tolerate harassment of
 conference participants in any form.
@@ -26,7 +26,7 @@ appropriate for any conference venue, including talks.
 
 Be kind to others. Do not insult or put down other attendees. Behave
 professionally. Remember that harassment and sexist, racist, or exclusionary
-jokes are not appropriate for SciPy.
+jokes are not appropriate for SciPyLA.
 
 Attendees violating these rules may be asked to leave the conference without a
 refund at the sole discretion of the conference organizers.
@@ -52,13 +52,13 @@ or otherwise create a sexualized environment.
 
 Be careful in the words that you choose. Remember that sexist, racist, and
 other exclusionary jokes can be offensive to those around you. Excessive
-swearing and offensive jokes are not appropriate for SciPy.
+swearing and offensive jokes are not appropriate for SciPyLA.
 
 If a participant engages in behavior that violates this code of conduct,
 the conference organizers may take any action they deem appropriate, including
 warning the offender or expulsion from the conference with no refund.
 
-This Code of Conduct was forked the SciPy Code of Conduct, which itself was
+This Code of Conduct was forked the SciPyLA Code of Conduct, which itself was
 forked from the example policy from the Geek Feminism wiki, created by the
 Ada Initiative and other volunteers which is under a Creative Commons Zero
 license.
