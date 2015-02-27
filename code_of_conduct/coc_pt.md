@@ -62,7 +62,7 @@ Se um participante envolver-se em um comportamento que viole esse código de con
 a organização do evento pode tomar qualquer ação que seja adequada,
 incluindo notificar o ofensor ou expulsá-lo da conferência sem reembolso.
 
-Esse código de conduta foi adaptado do SciPY Code of Conduct,
+Esse código de conduta foi adaptado do SciPy Code of Conduct,
 que foi adaptado do exemplo de política do Geek Feminism wiki,
 criado por Ada Initiative e outros voluntários
 sob a Licença Creative Commons Zero.

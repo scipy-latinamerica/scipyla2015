@@ -58,7 +58,7 @@ If a participant engages in behavior that violates this code of conduct,
 the conference organizers may take any action they deem appropriate, including
 warning the offender or expulsion from the conference with no refund.
 
-This Code of Conduct was forked the SciPyLA Code of Conduct, which itself was
+This Code of Conduct was forked the SciPy Code of Conduct, which itself was
 forked from the example policy from the Geek Feminism wiki, created by the
 Ada Initiative and other volunteers which is under a Creative Commons Zero
 license.

@@ -64,7 +64,7 @@ los organizadores de la conferencia podrían tomar las medidas que ellos
 consideren adecuadas, incluyendo el apercibimiento o expulsión de la
 conferencia, sin derecho a reembolso.
 
-Este código de conducta fue extraído del código de conducta de SciPyLA, que a su
+Este código de conducta fue extraído del código de conducta de SciPy, que a su
 vez fue extraído del los ejemplos de políticas de Geek Feminism wiki, creada
 por la Ada Initiative y otros vultarios; y esta bajo una licencia Creative
 Commons Zero.
