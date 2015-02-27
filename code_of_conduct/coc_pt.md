@@ -1,67 +1,71 @@
-**Code of Conduct**
+**Código de Conduta**
 
-SciPy Latin America (SciPy) is a community conference intended for networking
-and collaboration in the scientific Python developer community.
+SciPy América Latina (SciPyLA) é uma conferência direcionada ao networking
+e colaboração da comunidade de desenvolvedores científicos que utilizam Python.
 
-We value the participation of each member of this community and want all
-attendees to have an enjoyable and fulfilling experience. Accordingly, all
-attendees are expected to show respect and courtesy to other attendees
-throughout the conference and at all conference events, whether officially
-sponsored by SciPy or not.
+Valorizamos a participação de cada membro dessa comunidade e desejamos que todos
+os participantes tenham uma experiência agradável e proveitosa. Para isso,
+espera-se de todos os participantes mostrem respeito e educação com os outros
+participantes durante a conferência e em todos os eventos da conferência,
+sendo ou não oficialmente patrocinado pela SciPyLA.
 
-To make clear what is expected, all delegates, speakers, exhibitors and
-volunteers at any SciPy event are required to conform to the following Code of
-Conduct. Organizers will enforce this code throughout the event.
+Para deixar claro o que espera-se, todos os organizadores, palestrantes,
+expositores e voluntários em qualquer evento da SciPyLA devem estar de acordo
+com o seguinte Código de Conduta. Organizadores irão cobrar esse código durante
+todo o evento.
 
-**Overview**
+**Sumário**
 
-SciPy is dedicated to providing a harassment-free conference experience for
-everyone, regardless of gender, sexual orientation, disability, physical
-appearance, body size, race, or religion. We do not tolerate harassment of
-conference participants in any form.
+SciPyLA é dedicada a oferecer um experiência na conferência livre de agressões
+para todos, independentemente do gênero, orientação sexual, necessidades
+especiais, aparência física, tamanho, raça, ou religião. Não será tolerado
+agressão à participantes da conferência em qualquer forma.
 
-All communication should be appropriate for a professional audience including
-people of many different backgrounds. Sexual language and imagery is not
-appropriate for any conference venue, including talks.
+Toda a comunicação deve ser apropriada para uma audiência
+que inclui pessoas de diferentes experiências anteriores.
+Linguagem e imagens sexuais não é apropriada para nenhum espaço da conferência,
+incluindo palestras.
 
-Be kind to others. Do not insult or put down other attendees. Behave
-professionally. Remember that harassment and sexist, racist, or exclusionary
-jokes are not appropriate for SciPy.
+Seja gentil com os outros. Não insulte ou menospreze outros participantes.
+Comporte-se profissionalmente. Lembre-se que piadas agressivas, sexistas,
+racistas ou exclusivas não são apropriadas para a SciPyLA.
 
-Attendees violating these rules may be asked to leave the conference without a
-refund at the sole discretion of the conference organizers.
+Participates que violem essa regra pode ser convidados a deixar a conferência
+de forma discreta pela organização sem receber reembolso.
 
-Thank you for helping make this a welcoming, friendly event for all.
+Abrigado por ajudar em tornar esse evento acolhedor para todos.
 
-**Details**
+**Detalhes**
 
-Harassment includes offensive verbal comments related to gender, sexual
-orientation, disability, physical appearance, body size, race, religion, sexual
-images in public spaces, deliberate intimidation, stalking, following,
-harassing photography or recording, sustained disruption of talks or other
-events, inappropriate physical contact, and unwelcome sexual attention.
+Agressão incluem ofensiva verbal por comentários relacionados com
+gênero, orientação sexual, necessidades especiais, aparência física,
+tamanho, raça, religião, imagens sexuais em espaços públicos,
+intimidação, perseguição, fotografia ou gravação sem permissão,
+interrupção contínua em palestras ou outro evento,
+contato físico inapropriado, e atenção sexual inadequada.
 
-Participants asked to stop any harassing behavior are expected to comply
-immediately.
+Espera-se que participantes parem comportamento agressivo
+assim que notificados.
 
-Exhibitors in the expo hall, sponsor or vendor booths, or similar activities
-are also subject to the anti-harassment policy. In particular, exhibitors
-should not use sexualized images, activities, or other material. Booth staff
-(including volunteers) should not use sexualized clothing/uniforms/costumes,
-or otherwise create a sexualized environment.
+Expositores no salão de exposição, patrocinadores e vendedores
+também estão sujeitos à política anti agressão.
+Em particular, expositores não devem utilizar imagens, atividades ou material
+sexual. Vendedores (incluindo voluntários nessa função) não devem utilizar
+roupas/uniformes/fantasia sexual ou similar.
 
-Be careful in the words that you choose. Remember that sexist, racist, and
-other exclusionary jokes can be offensive to those around you. Excessive
-swearing and offensive jokes are not appropriate for SciPy.
+Seja cuidadoso com as palavras que escolhe.
+Lembre-se que piadas sexistas, racistas e exclusivas
+podem ser ofensivas para aqueles ao seu redor.
+Piadas ofensivas não são apropriadas para o SciPyLA.
 
-If a participant engages in behavior that violates this code of conduct,
-the conference organizers may take any action they deem appropriate, including
-warning the offender or expulsion from the conference with no refund.
+Se um participante envolver-se em um comportamento que viole esse código de conduta,
+a organização do evento pode tomar qualquer ação que seja adequada,
+incluindo notificar o ofensor ou expulsá-lo da conferência sem reembolso.
 
-This Code of Conduct was forked the SciPy Code of Conduct, which itself was
-forked from the example policy from the Geek Feminism wiki, created by the
-Ada Initiative and other volunteers which is under a Creative Commons Zero
-license.
+Esse código de conduta foi adaptado do SciPY Code of Conduct,
+que foi adaptado do exemplo de política do Geek Feminism wiki,
+criado por Ada Initiative e outros voluntários
+sob a Licença Creative Commons Zero.
 
-Conference Code of Conduct is licensed under a Creative Commons Attribution
-3.0 Unported License.
+Guia de Conduta da Conferência está licenciado sob
+a licença Creative Commons Attribution 3.0 Unported.
