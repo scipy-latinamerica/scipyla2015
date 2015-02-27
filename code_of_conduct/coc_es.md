@@ -1,4 +1,4 @@
-**Code of Conduct**
+**Código de conducta**
 
 SciPy Latin America (SciPy) es una conferencia de comunidad que busca mejorar
 la comunicación y colaboración de la comunidad de desarrolladores.
