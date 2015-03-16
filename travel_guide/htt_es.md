@@ -12,7 +12,7 @@ la ciudad.
     <div style="text-align:center">
         <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/ugd.jpg" />
         <small>Universidad Gastón Dachary</small>
-    </div>
+    </div><br>
 
 Para llegar a la ciudad y la universidad se poseen varias alternativas. A
 continuación se listan algunas alternativas de corta, media y larga distancia
