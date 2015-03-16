@@ -176,46 +176,46 @@ Se recomienda la siguiente ruta (la ruta posee peajes):
 
 ###Terminal de ómnibus de larga distancia -\> Universidad Gastón Dachary
 
-**Taxi**
+-   **Taxi**
 
-Pueden tomarse un taxi directamente desde la terminal de ómnibus para llegar a
-la universidad por un costo aproximado de **U\$S 7**.
+    Pueden tomarse un taxi directamente desde la terminal de ómnibus para
+    llegar a la universidad por un costo aproximado de **U\$S 7**.
 
-**Bus Urbano - Línea 14B**
+-   **Bus Urbano - Línea 14B**
 
-Frecuencia: cada X minutos
+    Frecuencia: cada X minutos
 
-Costo: **U\$S 1**
+    Costo: **U\$S 1**
 
-Recorrido: Avda. Sta. Catalina, Avda. Cte. Andresito, Avda. Lavalle, Avda.
-Chacabuco, Avda. F. de Haro, Avda. Mitre, Buenos Aires. Descender en calle
-Tucumán
+    Recorrido: Avda. Sta. Catalina, Avda. Cte. Andresito, Avda. Lavalle, Avda.
+    Chacabuco, Avda. F. de Haro, Avda. Mitre, Buenos Aires. Descender en calle
+    Tucumán
 
-**Bus Urbano - Línea 15A**
+-   **Bus Urbano - Línea 15A**
 
-Frecuencia: cada X minutos
+    Frecuencia: cada X minutos
 
-Costo: **U\$S 1**
+    Costo: **U\$S 1**
 
-Recorrido: Avda. Sta. Catalina, Av Sta. Cruz, Avenida Lavalle, Avenida L. y
-Planes, Avenida Mitre, Ayacucho. Descender en calle Tucumán
+    Recorrido: Avda. Sta. Catalina, Av Sta. Cruz, Avenida Lavalle, Avenida L. y
+    Planes, Avenida Mitre, Ayacucho. Descender en calle Tucumán
 
 Mas información de los Recorridos:
 <http://www.argentino.com.ar/posadas/recorridos+de+colectivos>
 
 ###Aeropuerto -\> Universidad Gastón Dachary
 
-**Taxi**
+-  **Taxi**
 
-Pueden tomarse un taxi directamente desde el aeropuerto  para llegar a la
-universidad por un costo aproximado de **U\$S 10**
+    Pueden tomarse un taxi directamente desde el aeropuerto  para llegar a la
+    universidad por un costo aproximado de **U\$S 10**
 
-**Bus Urbano - Línea 28**
+-   **Bus Urbano - Línea 28**
 
-Frecuencia: cada 30 minutos
-Tarifa: **U\$S 1**
+    Frecuencia: cada 30 minutos
+    Tarifa: **U\$S 1**
 
-Recorrido: Acceso oeste hasta RN 12, Avda. San Martín hasta Avda. Lopez y
-Planes, Avda. Corrientes hasta Santa Fe. Descender en calle San Lorenzo o
-Buenos Aires
+    Recorrido: Acceso oeste hasta RN 12, Avda. San Martín hasta Avda. Lopez y
+    Planes, Avda. Corrientes hasta Santa Fe. Descender en calle San Lorenzo o
+    Buenos Aires
 
