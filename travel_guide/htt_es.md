@@ -11,9 +11,9 @@ la ciudad.
 
     <div style="text-align:center">
         <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/ugd.jpg" />
-
+        <br/>Universidad Gastón Dachary
     </div>
-    Universidad Gastón Dachary
+
     <br/>
 
 Para llegar a la ciudad y la universidad se poseen varias alternativas. A
