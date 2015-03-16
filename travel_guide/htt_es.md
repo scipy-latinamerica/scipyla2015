@@ -9,12 +9,12 @@ La sede de la conferencia será la Universidad Gastón Dachary
 la ciudad.
 
 
-    <div style="text-align:center">
-        <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/ugd.jpg" />
-        <br/>Universidad Gastón Dachary
-    </div>
+<div style="text-align:center">
+    <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/ugd.jpg" />
+    <br/>Universidad Gastón Dachary
+</div>
 
-    <br/>
+
 
 Para llegar a la ciudad y la universidad se poseen varias alternativas. A
 continuación se listan algunas alternativas de corta, media y larga distancia
