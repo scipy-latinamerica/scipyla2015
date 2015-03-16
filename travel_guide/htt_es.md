@@ -1,11 +1,11 @@
 #Consejos al Viajero
 
 SciPy Latin America 2015, la tercera conferencia anual de Computación
-Científica con Python se realizará entre los días 20-22 de mayo en la ciudad
-de Posadas, Misiones, Argentina.
+Científica con Python se realizará entre los días **20-22 de mayo en la ciudad
+de Posadas, Misiones, Argentina.**
 
 La sede de la conferencia será la Universidad Gastón Dachary
-(http://www.ugd.edu.ar/), en la intersección de las calles Salta y Colón de
+(<http://www.ugd.edu.ar/>), en la intersección de las calles Salta y Colón de
 la ciudad.
 
 Para llegar a la ciudad y la universidad se poseen varias alternativas. A
@@ -25,13 +25,14 @@ cambiarias o cambios en itinerario de las empresas.**
 La mejor alternativa: Volar hasta Foz do Iguazú cruzar la frontera y tomar un
 bus desde Pto. Iguazu a Posadas
 
-http://www.decolar.com/ p http://www.despegar.com.ar para ver costos aéreos
+<http://www.decolar.com/> o <http://www.despegar.com.ar> para ver costos aéreos
 
 Existen diversos vuelos diarios que conectan Sao Paulo y Río de Janeiro con
 Foz do Iguassu, distante a unos 300km de la ciudad de Posadas.
 
-Gol Linhas Aereas (http://voegol.com), Azul Linhas Aerea (http://voeazul.com) y
-TAM (http://tam.com.br) son algunas de las aerolíneas que operan esas rutas.
+Gol Linhas Aereas (<http://voegol.com>), Azul Linhas Aerea 
+(<http://voeazul.com>) y TAM (<http://tam.com.br>) son algunas de las
+aerolíneas que operan esas rutas.
 
 Desde el Aeropuerto de Foz de Iguazú es posible tomar un colectivo urbano hasta
 la terminal de dicha ciudad, y allí tomar el ómnibus internacional que realiza
@@ -58,16 +59,16 @@ al trayecto demora alrededor de 5 horas.
 Tengan en cuenta que es importante tomar los colectivos **EXPRESO** o 
 **DIRECTOS** ya  que los otros pueden demorar muchas horas más.
 
-Para más información consultar: http://www.plataforma10.com
+Para más información consultar: <http://www.plataforma10.com>
 
 ###Bus
 
 También existen servicios de ómnibus larga distancia que tienen como destino
 la ciudad de Posadas partiendo desde Sao Paulo, Rio de Janeiro y Florianopolis.
 Se destaca la empresa Crucero del Norte/Sur para estos traslados
-(http://www.crucerodelnorte.com.ar/)
+(<http://www.crucerodelnorte.com.ar/>)
 
-Para más información consultar: http://www.plataforma10.com
+Para más información consultar: <http://www.plataforma10.com>
 
 ##Como llegar desde Buenos Aires a Posadas
 
@@ -77,7 +78,7 @@ Ezeiza. Una ves arribado al País si usted quiere dirigirse a Posadas por Bus
 tendra que dirigirse a la **terminal de ómnibus de Retiro**; y si es por Avion
 tendra que llegar al **Aeropuerto Jorge Newbery (Aeroparque)**. En Ambos caos
 le recomendamos tomar un bus de la empresa Tienda Leon
-(http://www.tiendaleon.com/home/) con un costo de **U\$S 16** para llegar a
+(<http://www.tiendaleon.com/home/>) con un costo de **U\$S 16** para llegar a
 Aeroparque y **U\$S 7** para llegar a Retiro.
 
 ###Vuelos
@@ -85,8 +86,8 @@ Aeroparque y **U\$S 7** para llegar a Retiro.
 Los vuelos con destino a posadas parten del aeropuerto de Jorge Newbery
 (Aeroparque) en varios horarios por un costo aproximado de **U\$S 146**.
 
-Para más información consultar: http://www.despegar.com.ar o
-http://www.decolar.com/
+Para más información consultar: <http://www.despegar.com.ar> o
+<http://www.decolar.com/>
 
 ###Bus
 
@@ -95,7 +96,7 @@ punto mas importante de salida la Estación de Retiro. El costo de un servicio
 cama con comida abordo es de **U\$S** 65 (hay varias alternativas en precio y
 servicio) y tiene una duración aproximada de **12 hs**.
 
-Para más información consultar: http://www.plataforma10.com
+Para más información consultar: <http://www.plataforma10.com>
 
 Automóvil Particular
 --------------------
@@ -119,18 +120,18 @@ de esto el tramo que une Aeroparque con el Aeropuerto Posadas es de pocos
 pasajeros con lo cual su costo es bastante elevado.
 (Aproximadamente **U\$S 250**)
 
-Para más información consultar: http://www.despegar.com.ar o
-http://www.decolar.com/
+Para más información consultar: <http://www.despegar.com.ar> o
+<http://www.decolar.com/>
 
 ##Bus
 
 
 Las empresas mas importantes que unen las dos localidades son Crucero del Norte
-(http://crucerodelnorte.com.ar) y Zinger (http://expresosinger.com.ar/).
+(<http://crucerodelnorte.com.ar>) y Zinger (<http://expresosinger.com.ar/>).
 Ambas empresas cuentan con diferentes servicios de comida a bordo en un
-trayecto que dura unas **16 hs** por un costo de unos **U\$S 115.**
+trayecto que dura unas **16 hs** por un costo de unos **U\$S 115.**
 
-Para más información consultar: http://www.plataforma10.com
+Para más información consultar: <http://www.plataforma10.com>
 
 ##Automóvil Particular
 
@@ -150,13 +151,13 @@ Se recomienda la siguiente ruta (la ruta posee peajes):
 
 Por la distancia es conveniente tomar vuelos directamente desde el Aeropuerto
 Jorge Newbery de Buenos Aires. Para otras alternativas consultar:
-http://www.despegar.com.ar o http://www.decolar.com/
+<http://www.despegar.com.ar> o <http://www.decolar.com/>
 
 ###Bus
 
 **U\$S 92** semi cama y **U\$S 105** el cama x Río Uruguay
 
-Para más información consultar: http://www.plataforma10.com
+Para más información consultar: <http://www.plataforma10.com>
 
 ###Automóvil Particular
 
@@ -200,7 +201,7 @@ Recorrido: Avda. Sta. Catalina, Av Sta. Cruz, Avenida Lavalle, Avenida L. y
 Planes, Avenida Mitre, Ayacucho. Descender en calle Tucumán
 
 Mas información de los Recorridos:
- http://www.argentino.com.ar/posadas/recorridos+de+colectivos
+<http://www.argentino.com.ar/posadas/recorridos+de+colectivos>
 
 ###Aeropuerto -\> Universidad Gastón Dachary
 
