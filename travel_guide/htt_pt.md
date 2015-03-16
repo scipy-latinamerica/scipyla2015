@@ -8,6 +8,13 @@ La sede de la conferencia será la Universidad Gastón Dachary
 (<http://www.ugd.edu.ar/>), en la intersección de las calles Salta y Colón de
 la ciudad.
 
+
+<div style="text-align:center">
+    <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/ugd.jpg" />
+    <br/>Universidad Gastón Dachary
+</div>
+
+
 Para llegar a la ciudad y la universidad se poseen varias alternativas. A
 continuación se listan algunas alternativas de corta, media y larga distancia
 así como transporte urbano para llegar a la conferencia
@@ -88,6 +95,13 @@ Los vuelos con destino a posadas parten del aeropuerto de Jorge Newbery
 
 Para más información consultar: <http://www.despegar.com.ar> o
 <http://www.decolar.com/>
+
+
+<div style="text-align:center">
+    <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/aeroparque.jpg" />
+    <br/>Aeropuerto Jorge Newbery (Aeroparque)
+</div>
+
 
 ###Bus
 
@@ -176,10 +190,22 @@ Se recomienda la siguiente ruta (la ruta posee peajes):
 
 ###Terminal de ómnibus de larga distancia -\> Universidad Gastón Dachary
 
+<div style="text-align:center">
+    <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/posadas_terminal.jpg" />
+    <br/>Terminal de Ómnibus de Posadas
+</div>
+
 -   **Taxi**
 
     Pueden tomarse un taxi directamente desde la terminal de ómnibus para
     llegar a la universidad por un costo aproximado de **U\$S 7**.
+
+
+    <div style="text-align:center">
+        <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/taxi.jpeg" />
+        <br/>Taxi de Posadas
+    </div>
+
 
 -   **Bus Urbano - Línea 14B**
 
@@ -204,6 +230,13 @@ Mas información de los Recorridos:
 <http://www.argentino.com.ar/posadas/recorridos+de+colectivos>
 
 ###Aeropuerto -\> Universidad Gastón Dachary
+
+
+<div style="text-align:center">
+    <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/posadas_airport.jpg" />
+    <br/>Aeropuerto de Posadas
+</div>
+
 
 -  **Taxi**
 
