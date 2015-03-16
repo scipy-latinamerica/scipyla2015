@@ -188,14 +188,12 @@ Se recomienda la siguiente ruta (la ruta posee peajes):
 
 ##Sistema de Transporte Urbano de Posadas
 
+###Terminal de ómnibus de larga distancia -\> Universidad Gastón Dachary
 
 <div style="text-align:center">
     <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/posadas_terminal.jpg" />
     <br/>Terminal de Ómnibus de Posadas
 </div>
-
-
-###Terminal de ómnibus de larga distancia -\> Universidad Gastón Dachary
 
 -   **Taxi**
 
@@ -203,10 +201,10 @@ Se recomienda la siguiente ruta (la ruta posee peajes):
     llegar a la universidad por un costo aproximado de **U\$S 7**.
 
 
-<div style="text-align:center">
-    <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/taxi.jpeg" />
-    <br/>Taxi de Posadas
-</div>
+    <div style="text-align:center">
+        <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/taxi.jpeg" />
+        <br/>Taxi de Posadas
+    </div>
 
 
 -   **Bus Urbano - Línea 14B**
