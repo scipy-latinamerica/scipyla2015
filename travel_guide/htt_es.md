@@ -8,10 +8,12 @@ La sede de la conferencia será la Universidad Gastón Dachary
 (<http://www.ugd.edu.ar/>), en la intersección de las calles Salta y Colón de
 la ciudad.
 
-
-<div style="text-align:center">
+<p style="text-align:center">
+<figure>
     <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/ugd.jpg" />
-</div>
+    <figcaption>Universidad Gastón Dachary</figcaption>
+</figure>
+</p>
 
 Para llegar a la ciudad y la universidad se poseen varias alternativas. A
 continuación se listan algunas alternativas de corta, media y larga distancia
