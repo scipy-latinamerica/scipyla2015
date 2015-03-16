@@ -60,7 +60,7 @@ la ciudad).
 Tras cruzar la frontera, el colectivo internacional llega hasta la Terminal de
 Ómnibus de Puerto Iguazú, Misiones, Argentina. En el mismo lugar es posible
 tomar un colectivo de media distancia hacia la ciudad de Posadas por un costo
-aproximado de **U\$S 18**, capital de la provincia. Dependiendo de la empresa,
+aproximado de **U$S 18**, capital de la provincia. Dependiendo de la empresa,
 al trayecto demora alrededor de 5 horas.
 
 Tengan en cuenta que es importante tomar los colectivos **EXPRESO** o 
@@ -85,13 +85,13 @@ Ezeiza. Una ves arribado al País si usted quiere dirigirse a Posadas por Bus
 tendra que dirigirse a la **terminal de ómnibus de Retiro**; y si es por Avion
 tendra que llegar al **Aeropuerto Jorge Newbery (Aeroparque)**. En Ambos caos
 le recomendamos tomar un bus de la empresa Tienda Leon
-(<http://www.tiendaleon.com/home/>) con un costo de **U\$S 16** para llegar a
-Aeroparque y **U\$S 7** para llegar a Retiro.
+(<http://www.tiendaleon.com/home/>) con un costo de **U$S 16** para llegar a
+Aeroparque y **U$S 7** para llegar a Retiro.
 
 ###Vuelos
 
 Los vuelos con destino a posadas parten del aeropuerto de Jorge Newbery
-(Aeroparque) en varios horarios por un costo aproximado de **U\$S 146**.
+(Aeroparque) en varios horarios por un costo aproximado de **U$S 146**.
 
 Para más información consultar: <http://www.despegar.com.ar> o
 <http://www.decolar.com/>
@@ -107,7 +107,7 @@ Para más información consultar: <http://www.despegar.com.ar> o
 
 Hay muchas alternativas para viajar desde Buenos Aires a Posadas, siendo el
 punto mas importante de salida la Estación de Retiro. El costo de un servicio
-cama con comida abordo es de **U\$S** 65 (hay varias alternativas en precio y
+cama con comida abordo es de **U$S** 65 (hay varias alternativas en precio y
 servicio) y tiene una duración aproximada de **12 hs**.
 
 Para más información consultar: <http://www.plataforma10.com>
@@ -132,7 +132,7 @@ Los vuelos que unen las localidades de Córdoba y Posadas tienen una conexión e
 el Aeropuerto Jorge Newbery de la ciudad de Buenos Aires (Aeroparque). Además
 de esto el tramo que une Aeroparque con el Aeropuerto Posadas es de pocos
 pasajeros con lo cual su costo es bastante elevado.
-(Aproximadamente **U\$S 250**)
+(Aproximadamente **U$S 250**)
 
 Para más información consultar: <http://www.despegar.com.ar> o
 <http://www.decolar.com/>
@@ -143,7 +143,7 @@ Para más información consultar: <http://www.despegar.com.ar> o
 Las empresas mas importantes que unen las dos localidades son Crucero del Norte
 (<http://crucerodelnorte.com.ar>) y Zinger (<http://expresosinger.com.ar/>).
 Ambas empresas cuentan con diferentes servicios de comida a bordo en un
-trayecto que dura unas **16 hs** por un costo de unos **U\$S 115.**
+trayecto que dura unas **16 hs** por un costo de unos **U$S 115.**
 
 Para más información consultar: <http://www.plataforma10.com>
 
@@ -169,7 +169,7 @@ Jorge Newbery de Buenos Aires. Para otras alternativas consultar:
 
 ###Bus
 
-**U\$S 92** semi cama y **U\$S 105** el cama x Río Uruguay
+**U$S 92** semi cama y **U$S 105** el cama x Río Uruguay
 
 Para más información consultar: <http://www.plataforma10.com>
 
@@ -198,7 +198,7 @@ Se recomienda la siguiente ruta (la ruta posee peajes):
 -   **Taxi**
 
     Pueden tomarse un taxi directamente desde la terminal de ómnibus para
-    llegar a la universidad por un costo aproximado de **U\$S 7**.
+    llegar a la universidad por un costo aproximado de **U$S 7**.
 
 
     <div style="text-align:center">
@@ -211,7 +211,7 @@ Se recomienda la siguiente ruta (la ruta posee peajes):
 
     Frecuencia: cada X minutos
 
-    Costo: **U\$S 1**
+    Costo: **U$S 1**
 
     Recorrido: Avda. Sta. Catalina, Avda. Cte. Andresito, Avda. Lavalle, Avda.
     Chacabuco, Avda. F. de Haro, Avda. Mitre, Buenos Aires. Descender en calle
@@ -221,7 +221,7 @@ Se recomienda la siguiente ruta (la ruta posee peajes):
 
     Frecuencia: cada X minutos
 
-    Costo: **U\$S 1**
+    Costo: **U$S 1**
 
     Recorrido: Avda. Sta. Catalina, Av Sta. Cruz, Avenida Lavalle, Avenida L. y
     Planes, Avenida Mitre, Ayacucho. Descender en calle Tucumán
@@ -241,12 +241,12 @@ Mas información de los Recorridos:
 -  **Taxi**
 
     Pueden tomarse un taxi directamente desde el aeropuerto  para llegar a la
-    universidad por un costo aproximado de **U\$S 10**
+    universidad por un costo aproximado de **U$S 10**
 
 -   **Bus Urbano - Línea 28**
 
     Frecuencia: cada 30 minutos
-    Tarifa: **U\$S 1**
+    Tarifa: **U$S 1**
 
     Recorrido: Acceso oeste hasta RN 12, Avda. San Martín hasta Avda. Lopez y
     Planes, Avda. Corrientes hasta Santa Fe. Descender en calle San Lorenzo o
