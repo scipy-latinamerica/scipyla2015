@@ -210,3 +210,113 @@ Condiciones generales:
 
 -   **Horario Check In:** A partir de las 14 hs.
 -   **Horario Check out:** Hasta las 10 hs.
+
+### 3 Estrellas - Hotel Posadas – 10% descuento para asistentes
+
+-   **Dirección:** Bolivar 2176, N3300AHT Posadas, Argentina.
+-   **HomePage:** <http://alvarezarguelles.com/urbano>
+-   **Distancia de SciPy LA 2015:** 800 mts.
+
+<div style="text-align:center">
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/posadas_hotel.jpg" />
+</div>
+
+
+El hotel Posadas ofrece alojamiento moderno con conexión Wi-Fi gratuita y se
+encuentra en el centro de Posadas, junto a la plaza 9 de julio y la Catedral.
+
+Las habitaciones del Hotel Posadas son cómodas, presentan una decoración
+moderna con muebles de madera, aire acondicionado, TV por cable, minibar y
+secador de pelo.
+
+<table cellspacing="0" cellpadding="7" width="100%">
+    <colgroup><col width="81">
+    <col width="80">
+    <col width="81">
+    </colgroup><tbody>
+        <tr>
+            <td width="270" valign="top" height="2" style="border-top: 1.00pt solid #808080; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm" colspan="3">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Tarifas
+                por habitación</b></font></font></font></p>
+            </td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr valign="top">
+            <td bgcolor="#d3dfee" width="81" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91">&nbsp;</font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="80" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">STANDARD</font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="81" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">SUPERIOR</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="81" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Single</b></font></font></font></p>
+            </td>
+            <td width="80" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$630</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$567</font></font></font></p>
+            </td>
+            <td width="81" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$795</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$716</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td bgcolor="#d3dfee" width="81" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Doble</b></font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="80" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$730</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$657</font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="81" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$900</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$810</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="81" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Triple</b></font></font></font></p>
+            </td>
+            <td width="80" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$910</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$819</font></font></font></p>
+            </td>
+            <td width="81" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$1050
+                </font></font></strike></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$945</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td bgcolor="#d3dfee" width="81" height="2" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Cuadruple</b></font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="80" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$1020</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$918</font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="81" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$1160</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$1044</font></font></font></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+Las habitaciones standard cuentan con frigobar, telefono, aire acondicionado,
+TV por cable, secador de pelo y amenities.
+
+A las habitaciones superiores agregan espacio, decoración moderna, camas más
+amplias y Tv Plasma de 32'.
+
+Conexión WI-FI Gratuita en las áreas públicas y en las habitaciones.
+
+**Media pensión opcional $150 por persona sin bebidas**
+
+**Condiciones generales:** El horario del check in es a las 12hs y del check
+out, a las 10 hs.
