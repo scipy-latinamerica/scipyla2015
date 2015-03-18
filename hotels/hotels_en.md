@@ -56,7 +56,7 @@ Ubicado a 1 calle de la plaza San Martín y a 3 calles de la plaza 9 de Julio.
 Las habitaciones del Julio Cesar Hotel están equipadas con TV, caja fuerte,
 teléfono y baño con secador de pelo.
 
-<table width="306" cellpadding="7" cellspacing="0">
+<table width="100%" cellpadding="7" cellspacing="0">
     <col width="126">
     <col width="153">
     <tbody>
@@ -117,3 +117,7 @@ teléfono y baño con secador de pelo.
         </tr>
     </tbody>
 </table>
+
+**Cama adicional – solo en suite $95**
+
+**Incluye IVA y desayuno**
