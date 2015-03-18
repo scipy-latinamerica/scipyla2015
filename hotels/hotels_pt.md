@@ -15,6 +15,10 @@ asistentes a la conferencia. Los montos están en **Pesos Argentinos**.
     <a href="http://guaraniturismo.tur.ar/" target="_blank">
         <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/guarani.png" />
     </a>
+    Bolívar 1618<br>
+    Posadas – Misiones – Argentina<br>
+    <a href="mailto:info@guaraniturismo.tur.ar">info@guaraniturismo.tur.ar</a><br>
+    Tel. +54 (0376) 4433308 / 4426292
 </div>
 
 ##Procedimiento para reservar hotelería
