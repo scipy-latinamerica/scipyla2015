@@ -37,7 +37,7 @@ con tarjeta de crédito en 3 y 6 pagos.
 
 ## Alternativas
 
-## 4 Estrellas - Hotel Julio Cesar – 10% descuento para asistentes
+### 4 Estrellas - Hotel Julio Cesar – 10% descuento para asistentes
 
 -   **Dirección:** Entre Rios 1951 |  Posadas 3300, Misiones, Argentina.
 -   **HomePage:** <http://www.juliocesarhotel.com/>
