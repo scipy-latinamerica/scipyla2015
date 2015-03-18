@@ -44,8 +44,7 @@ con tarjeta de crédito en 3 y 6 pagos.
 -   **Distancia de SciPy LA 2015:** 250 mts.
 
 <div style="text-align:center">
-    <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/julio_cesar.jpg" />
-    <br/>Universidad Gastón Dachary
+    <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/julio_cesar.jpg" />
 </div>
 
 El Julio Cesar Hotel se encuentra en la zona centro de Posadas y dispone de
