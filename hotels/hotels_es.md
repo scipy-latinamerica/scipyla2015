@@ -37,5 +37,23 @@ con tarjeta de crédito en 3 y 6 pagos.
 
 ## Alternativas
 
+## 4 Estrellas - Hotel Julio Cesar – 10% descuento para asistentes
 
+-   **Dirección:** Entre Rios 1951 |  Posadas 3300, Misiones, Argentina.
+-   **HomePage:** <http://www.juliocesarhotel.com/>
+-   **Distancia de SciPy LA 2015:** 250 mts.
+
+<div style="text-align:center">
+    <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/julio_cesar.jpg" />
+    <br/>Universidad Gastón Dachary
+</div>
+
+El Julio Cesar Hotel se encuentra en la zona centro de Posadas y dispone de
+piscina al aire libre, centro de fitness, solárium y habitaciones con conexión
+Wi-Fi gratuita.
+
+Ubicado a 1 calle de la plaza San Martín y a 3 calles de la plaza 9 de Julio.
+
+Las habitaciones del Julio Cesar Hotel están equipadas con TV, caja fuerte,
+teléfono y baño con secador de pelo.
 
