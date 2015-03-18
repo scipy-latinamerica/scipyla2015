@@ -448,3 +448,92 @@ de pantalla plana con canales por cable.
 
 
 Media pensión opcional $150 por persona sin bebidas
+
+### Hostel - Posadeña Linda
+
+-   **Dirección:** Bolívar 1439 - Posadas Misiones
+-   **HomePage:** <http://www.hostelposadasmisiones.com/>
+-   **Distancia de SciPy LA 2015:** 600 mts.
+
+<div style="text-align:center">
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/posadena_linda.jpg" />
+</div>
+
+A solo 400 metros de la plaza principal y el puente de San Roque, y ofrece
+piscina al aire libre y cocina compartida. La conexión Wi-Fi es gratuita.
+
+Las habitaciones del Hostel Posadeña Linda tienen aire acondicionado,
+calefacción y baño. También incluyen toallas y ropa de cama.
+
+El Hostel Posadeña Linda alberga un jardín y una zona de salón compartida.
+La recepción está abierta las 24 horas.
+
+<table cellspacing="0" cellpadding="7" width="100%">
+    <colgroup><col width="192">
+    <col width="96">
+    </colgroup><tbody>
+        <tr>
+            <td width="302" valign="top" height="2" style="border-top: 1.00pt solid #808080; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm" colspan="2">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Tarifas
+                por persona por noche</b></font></font></font></p>
+            </td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr valign="top">
+            <td bgcolor="#d3dfee" width="192" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91">&nbsp;</font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="96" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">STANDARD</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="192" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Doble
+                camas separadas</b></font></font></font></p>
+            </td>
+            <td width="96" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$260</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td bgcolor="#d3dfee" width="192" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Doble
+                matrimonial</b></font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="96" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$260</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="192" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">Habitaciones
+                compartidas </font></font></font>
+                </p>
+            </td>
+            <td width="96" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><br>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td bgcolor="#d3dfee" width="192" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Para
+                4 personas</b></font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="96" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$240</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="192" height="2" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Para
+                6 personas</b></font></font></font></p>
+            </td>
+            <td width="96" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$220</font></font></font></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
