@@ -56,3 +56,64 @@ Ubicado a 1 calle de la plaza San Martín y a 3 calles de la plaza 9 de Julio.
 Las habitaciones del Julio Cesar Hotel están equipadas con TV, caja fuerte,
 teléfono y baño con secador de pelo.
 
+<table width="306" cellpadding="7" cellspacing="0">
+    <col width="126">
+    <col width="153">
+    <tbody>
+        <tr>
+            <td colspan="2" width="292" valign="top" style="border-top: 1.00pt solid #808080; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p class="western"><font color="#365f91"><font face="Calibri, sans-serif"><b>Valores
+                habitacion por noche</b></font></font></p>
+            </td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr valign="top">
+            <td width="126" bgcolor="#d3dfee" style="border: none; padding: 0cm">
+                <p class="western"><font color="#365f91"><font face="Calibri, sans-serif"><b>Single</b></font></font></p>
+            </td>
+            <td width="153" bgcolor="#d3dfee" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western" align="center"><font color="#365f91"><strike><font face="Calibri, sans-serif"><span lang="es-AR">$740</span></font></strike></font><font color="#365f91"><font face="Calibri, sans-serif"><span lang="es-AR">
+                </span></font></font><font color="#ff0000"><font face="Calibri, sans-serif"><span lang="es-AR">$666</span></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="126" style="border: none; padding: 0cm">
+                <p class="western"><font color="#365f91"><font face="Calibri, sans-serif"><b>Doble</b></font></font></p>
+            </td>
+            <td width="153" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western" align="center"><font color="#365f91"><strike><font face="Calibri, sans-serif"><span lang="es-AR">$840</span></font></strike></font><font color="#ff0000"><font face="Calibri, sans-serif"><span lang="es-AR">
+                $756</span></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="126" bgcolor="#d3dfee" style="border: none; padding: 0cm">
+                <p class="western"><font color="#365f91"><font face="Calibri, sans-serif"><b>Triple</b></font></font></p>
+            </td>
+            <td width="153" bgcolor="#d3dfee" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western" align="center"><font color="#365f91"><strike><font face="Calibri, sans-serif"><span lang="es-AR">$800</span></font></strike></font><font color="#365f91"><font face="Calibri, sans-serif"><span lang="es-AR">
+                </span></font></font><font color="#ff0000"><font face="Calibri, sans-serif"><span lang="es-AR">$720</span></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="126" style="border: none; padding: 0cm">
+                <p class="western"><font color="#365f91"><font face="Calibri, sans-serif"><b>Suite
+                junior</b></font></font></p>
+            </td>
+            <td width="153" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western" align="center"><font color="#365f91"><strike><font face="Calibri, sans-serif"><span lang="es-AR">$1090</span></font></strike></font><font color="#365f91"><font face="Calibri, sans-serif"><span lang="es-AR">
+                </span></font></font><font color="#ff0000"><font face="Calibri, sans-serif"><span lang="es-AR">$981</span></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="126" bgcolor="#d3dfee" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p class="western"><font color="#365f91"><font face="Calibri, sans-serif"><b>Suite
+                senior</b></font></font></p>
+            </td>
+            <td width="153" bgcolor="#d3dfee" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p lang="es-ES" class="western" align="center"><font color="#365f91"><strike><font face="Calibri, sans-serif"><span lang="es-AR">$1500</span></font></strike></font><font color="#ff0000"><font face="Calibri, sans-serif"><span lang="es-AR">
+                $1350</span></font></font></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
