@@ -124,9 +124,9 @@ teléfono y baño con secador de pelo.
 
 ### 4 Estrellas - HA Urbano Posadas
 
--   **Dirección:** Entre Rios 1951 |  Posadas 3300, Misiones, Argentina.
--   **HomePage:** <http://www.juliocesarhotel.com/>
--   **Distancia de SciPy LA 2015:** 250 mts.
+-   **Dirección:** Bolivar 2176, N3300AHT Posadas, Argentina.
+-   **HomePage:** <http://alvarezarguelles.com/urbano>
+-   **Distancia de SciPy LA 2015:** 800 mts.
 
 <div style="text-align:center">
     <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/hs_urbano.jpg" />
@@ -135,6 +135,77 @@ teléfono y baño con secador de pelo.
 HA Urbano Posadas es un hotel contemporáneo con un bonito diseño situado en el
 centro de Posadas. Ofrece instalaciones modernas como piscina al aire libre,
 sauna, gimnasio bien equipado y spa. Conexión WIFI gratuita.
+
+<table width="100%" cellpadding="7" cellspacing="0">
+    <col width="139">
+    <col width="121">
+    <tbody>
+        <tr valign="top">
+            <td rowspan="2" width="139" style="border-top: 1.00pt solid #808080; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p lang="es-ES" class="western" align="center"><br>
+                </p>
+                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Tipo
+                de habitación</b></font></font></font></p>
+            </td>
+            <td width="121" style="border-top: 1.00pt solid #808080; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p lang="en-US" class="western" align="center"><br>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr valign="top">
+            <td width="121" bgcolor="#d3dfee" style="border: none; padding: 0cm">
+                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Valores</b></font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="139" style="border: none; padding: 0cm">
+                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Single
+                superior</b></font></font></font></p>
+            </td>
+            <td width="121" style="border: none; padding: 0cm">
+                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1069</b></font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="139" bgcolor="#d3dfee" style="border: none; padding: 0cm">
+                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Doble
+                superior</b></font></font></font></p>
+            </td>
+            <td width="121" bgcolor="#d3dfee" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1242</b></font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="139" style="border: none; padding: 0cm">
+                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Triple
+                superior</b></font></font></font></p>
+            </td>
+            <td width="121" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1368</b></font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="139" bgcolor="#d3dfee" style="border: none; padding: 0cm">
+                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Junior
+                suite</b></font></font></font></p>
+            </td>
+            <td width="121" bgcolor="#d3dfee" style="border: none; padding: 0cm">
+                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1750</b></font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="139" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Senior
+                suite</b></font></font></font></p>
+            </td>
+            <td width="121" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p lang="es-ES" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>2340</b></font></font></font></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 Las tarifas son en pesos por habitación por noche e incluyen impuestos
 IVA 21% sujetas a modificación sin previo aviso.
