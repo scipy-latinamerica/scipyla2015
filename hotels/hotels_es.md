@@ -221,7 +221,6 @@ Condiciones generales:
     <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/posadas_hotel.jpg" />
 </div>
 
-
 El hotel Posadas ofrece alojamiento moderno con conexión Wi-Fi gratuita y se
 encuentra en el centro de Posadas, junto a la plaza 9 de julio y la Catedral.
 
@@ -320,3 +319,132 @@ Conexión WI-FI Gratuita en las áreas públicas y en las habitaciones.
 
 **Condiciones generales:** El horario del check in es a las 12hs y del check
 out, a las 10 hs.
+
+### 3 Estrellas - Hotel Continental – 10% descuento para asistentes
+
+-   **Dirección:** Gral S Bolívar 1879 - Posadas Misiones
+-   **HomePage:** <http://continentalposadashotel.com/>
+-   **Distancia de SciPy LA 2015:** 600 mts.
+
+<div style="text-align:center">
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/continental.jpg" />
+</div>
+
+El Hotel Continental se encuentra frente a la plaza 9 de Julio, en el centro
+comercial de la ciudad. Este establecimiento dispone de conexión Wi-Fi
+gratuita, desayunos y alberga un restaurante.
+
+Las habitaciones gozan de un ambiente tranquilo, ofrecen vistas a la catedral
+o a la bahía de la ciudad y cuentan con baño privado, aire acondicionado y TV
+de pantalla plana con canales por cable.
+
+<table cellspacing="0" cellpadding="7" width="100%">
+    <colgroup><col width="116">
+    <col width="79">
+    <col width="79">
+    </colgroup><tbody>
+        <tr>
+            <td width="302" valign="top" height="2" style="border-top: 1.00pt solid #808080; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm" colspan="3">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Tarifas
+                por habitación</b></font></font></font></p>
+            </td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr valign="top">
+            <td bgcolor="#d3dfee" width="116" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91">&nbsp;</font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">STANDARD</font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">SUPERIOR</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="116" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Single</b></font></font></font></p>
+            </td>
+            <td width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$416</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$375</font></font></font></p>
+            </td>
+            <td width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$540</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$486</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td bgcolor="#d3dfee" width="116" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Doble</b></font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$496</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$447</font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$636</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$573</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="116" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Triple</b></font></font></font></p>
+            </td>
+            <td width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$636</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$573</font></font></font></p>
+            </td>
+            <td width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$800
+                </font></font></strike></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$720</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td bgcolor="#d3dfee" width="116" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Cuadruple</b></font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$744</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$670</font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$864</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$778</font></font></font></p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="116" height="3" style="border: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Suite
+                bolivar</b></font></font></font></p>
+            </td>
+            <td width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$824</font></font></strike></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                $742</font></font></font></p>
+            </td>
+            <td width="79" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><br>
+                </p>
+            </td>
+        </tr>
+        <tr valign="top">
+            <td bgcolor="#d3dfee" width="116" height="2" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Suite
+                </b></font></font></font>
+                </p>
+            </td>
+            <td bgcolor="#d3dfee" width="79" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$1096</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
+                </font></font></font><font color="#ff0000"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$987</font></font></font></p>
+            </td>
+            <td bgcolor="#d3dfee" width="79" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><br>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+Media pensión opcional $150 por persona sin bebidas
