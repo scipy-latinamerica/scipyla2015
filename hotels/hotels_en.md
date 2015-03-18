@@ -151,14 +151,12 @@ sauna, gimnasio bien equipado y spa. Conexión WIFI gratuita.
                 <p lang="en-US" class="western" align="center"><br>
                 </p>
             </td>
-        </tr>
-    </tbody>
-    <tbody>
-        <tr valign="top">
             <td width="121" bgcolor="#d3dfee" style="border: none; padding: 0cm">
                 <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Valores</b></font></font></font></p>
             </td>
         </tr>
+    </tbody>
+    <tbody>
         <tr valign="top">
             <td width="139" style="border: none; padding: 0cm">
                 <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Single
