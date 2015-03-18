@@ -2,7 +2,7 @@
 
 **Aclaración: Esta página fue desarrollada a modo informativo. Bajo ningún
 concepto la organización ni la universidad se hacen
-responsables por contratiempos en relacionados con los alojamientos.
+responsables por contratiempos relacionados con los alojamientos.
 La información vertida en esta guía puede cambiar por las fluctuaciones
 cambiarias o cambios en tarifas de las empresas.**
 

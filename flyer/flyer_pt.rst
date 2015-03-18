@@ -57,15 +57,15 @@ Palestrantes Internacionais
 .. class:: center
 
     **Juan Luis Cano** e **Kiko Correoso** Autores do
-    Blog Científico Pybonacci (http://pybonacci.org)
+    Blog Científico Pybonacci (http://pybonacci.org) e **Marcel Caraciolo**
 
 
 .. figure:: img/pybonaccis.png
     :align: center
     :scale: 100 %
 
-    Kiko (esquerda) e Juan Luis (direita) brincando em uma tutorial na
-    PyCon España 2014
+    Kiko (esquerda acima), Juan Luis (direita acima) e Marcel
+    (esquerda em baixo)
 
 
 Patrocinadores
