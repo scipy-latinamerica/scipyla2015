@@ -213,9 +213,9 @@ Condiciones generales:
 
 ### 3 Estrellas - Hotel Posadas – 10% descuento para asistentes
 
--   **Dirección:** Bolivar 2176, N3300AHT Posadas, Argentina.
--   **HomePage:** <http://alvarezarguelles.com/urbano>
--   **Distancia de SciPy LA 2015:** 800 mts.
+-   **Dirección:** Bolívar 1949 - 3300 Posadas, Misiones
+-   **HomePage:** <http://www.hotelposadas.com.ar>
+-   **Distancia de SciPy LA 2015:** 600 mts.
 
 <div style="text-align:center">
     <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/posadas_hotel.jpg" />
