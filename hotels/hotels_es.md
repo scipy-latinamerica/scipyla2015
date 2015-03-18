@@ -453,7 +453,7 @@ Media pensión opcional $150 por persona sin bebidas
 
 -   **Dirección:** Bolívar 1439 - Posadas Misiones
 -   **HomePage:** <http://www.hostelposadasmisiones.com/>
--   **Distancia de SciPy LA 2015:** 600 mts.
+-   **Distancia de SciPy LA 2015:** 1000 mts.
 
 <div style="text-align:center">
     <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/posadena_linda.jpg" />
