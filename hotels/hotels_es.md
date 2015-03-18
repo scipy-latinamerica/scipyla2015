@@ -137,71 +137,65 @@ centro de Posadas. Ofrece instalaciones modernas como piscina al aire libre,
 sauna, gimnasio bien equipado y spa. Conexión WIFI gratuita.
 
 <table width="100%" cellpadding="7" cellspacing="0">
-    <col width="139">
-    <col width="121">
-    <tbody>
-        <tr valign="top">
-            <td rowspan="2" width="139" style="border-top: 1.00pt solid #808080; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
-                <p lang="es-ES" class="western" align="center"><br>
+    <colgroup><col width="131">
+    <col width="131">
+    </colgroup><tbody>
+        <tr>
+            <td width="131" valign="top" style="border-top: 1.00pt solid #808080; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><br>
                 </p>
-                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Tipo
+                <p align="center" lang="en-US" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Tipo
                 de habitación</b></font></font></font></p>
             </td>
-            <td width="121" style="border-top: 1.00pt solid #808080; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
-                <p lang="en-US" class="western" align="center"><br>
-                </p>
+            <td width="131" style="border-top: 1.00pt solid #808080; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p align="center" lang="en-US" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Valores</b></font></font></font></p>
             </td>
         </tr>
     </tbody>
     <tbody>
         <tr valign="top">
-            <td width="121" bgcolor="#d3dfee" style="border: none; padding: 0cm">
-                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Valores</b></font></font></font></p>
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="139" style="border: none; padding: 0cm">
-                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Single
+            <td width="131" style="border: none; padding: 0cm">
+                <p align="center" lang="en-US" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Single
                 superior</b></font></font></font></p>
             </td>
-            <td width="121" style="border: none; padding: 0cm">
-                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1069</b></font></font></font></p>
+            <td width="131" style="border: none; padding: 0cm">
+                <p align="center" lang="en-US" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1069</b></font></font></font></p>
             </td>
         </tr>
         <tr valign="top">
-            <td width="139" bgcolor="#d3dfee" style="border: none; padding: 0cm">
-                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Doble
+            <td bgcolor="#d3dfee" width="131" style="border: none; padding: 0cm">
+                <p align="center" lang="en-US" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Doble
                 superior</b></font></font></font></p>
             </td>
-            <td width="121" bgcolor="#d3dfee" style="border: none; padding: 0cm">
-                <p lang="es-ES" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1242</b></font></font></font></p>
+            <td bgcolor="#d3dfee" width="131" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1242</b></font></font></font></p>
             </td>
         </tr>
         <tr valign="top">
-            <td width="139" style="border: none; padding: 0cm">
-                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Triple
+            <td width="131" style="border: none; padding: 0cm">
+                <p align="center" lang="en-US" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Triple
                 superior</b></font></font></font></p>
             </td>
-            <td width="121" style="border: none; padding: 0cm">
-                <p lang="es-ES" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1368</b></font></font></font></p>
+            <td width="131" style="border: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1368</b></font></font></font></p>
             </td>
         </tr>
         <tr valign="top">
-            <td width="139" bgcolor="#d3dfee" style="border: none; padding: 0cm">
-                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Junior
+            <td bgcolor="#d3dfee" width="131" style="border: none; padding: 0cm">
+                <p align="center" lang="en-US" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Junior
                 suite</b></font></font></font></p>
             </td>
-            <td width="121" bgcolor="#d3dfee" style="border: none; padding: 0cm">
-                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1750</b></font></font></font></p>
+            <td bgcolor="#d3dfee" width="131" style="border: none; padding: 0cm">
+                <p align="center" lang="en-US" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>1750</b></font></font></font></p>
             </td>
         </tr>
         <tr valign="top">
-            <td width="139" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
-                <p lang="en-US" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Senior
+            <td width="131" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p align="center" lang="en-US" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>Senior
                 suite</b></font></font></font></p>
             </td>
-            <td width="121" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
-                <p lang="es-ES" class="western" align="center"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>2340</b></font></font></font></p>
+            <td width="131" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
+                <p align="center" lang="es-ES" class="western"><font color="#365f91"><font face="Calibri, sans-serif"><font size="2" style="font-size: 10pt"><b>2340</b></font></font></font></p>
             </td>
         </tr>
     </tbody>
