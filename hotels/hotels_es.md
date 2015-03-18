@@ -9,7 +9,7 @@ cambiarias o cambios en tarifas de las empresas.**
 A pedido de la organización, la empresa
 **Guarani Turismo** (<http://guaraniturismo.tur.ar/>) a contactado a
 diferentes alojamientos de la ciudad Posadas y logró descuentos para los
-asistentes a la conferencia. Los montos están en Pesos Argentinos.
+asistentes a la conferencia. Los montos están en **Pesos Argentinos**.
 
 <div style="text-align:center">
     <a href="http://guaraniturismo.tur.ar/" target="_blank">
