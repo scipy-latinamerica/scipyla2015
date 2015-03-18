@@ -44,7 +44,7 @@ con tarjeta de crédito en 3 y 6 pagos.
 -   **Distancia de SciPy LA 2015:** 250 mts.
 
 <div style="text-align:center">
-    <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/julio_cesar.jpg" />
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/julio_cesar.jpg" />
 </div>
 
 El Julio Cesar Hotel se encuentra en la zona centro de Posadas y dispone de
@@ -121,3 +121,27 @@ teléfono y baño con secador de pelo.
 **Cama adicional – solo en suite $95**
 
 **Incluye IVA y desayuno**
+
+### 4 Estrellas - HA Urbano Posadas
+
+-   **Dirección:** Entre Rios 1951 |  Posadas 3300, Misiones, Argentina.
+-   **HomePage:** <http://www.juliocesarhotel.com/>
+-   **Distancia de SciPy LA 2015:** 250 mts.
+
+<div style="text-align:center">
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/hs_urbano.jpg" />
+</div>
+
+HA Urbano Posadas es un hotel contemporáneo con un bonito diseño situado en el
+centro de Posadas. Ofrece instalaciones modernas como piscina al aire libre,
+sauna, gimnasio bien equipado y spa. Conexión WIFI gratuita.
+
+Las tarifas son en pesos por habitación por noche e incluyen impuestos
+IVA 21% sujetas a modificación sin previo aviso.
+
+Incluye Internet Wi Fi gratuita, desayuno buffet y acceso a la piscina.
+
+Condiciones generales:
+
+-   **Horario Check In:** A partir de las 14 hs.
+-   **Horario Check out:** Hasta las 10 hs.
