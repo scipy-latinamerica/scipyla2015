@@ -27,7 +27,7 @@ belleza de sus paisajes y el movimiento diurno y nocturno de la misma.
 
 <div style="text-align:center">
     <p>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m29!1m12!1m3!1d5416.310197988282!2d-55.89461191399824!3d-27.369217696264766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m14!1i0!3e2!4m5!1s0x9457be4a0aa5fc7d%3A0xcd599c063e5f51a4!2sUniversidad+Gast%C3%B3n+Dachary%2C+Salta+1912%2C+3300+Posadas%2C+Misiones!3m2!1d-27.371382999999998!2d-55.895519!4m5!1s0x9457bfc99b0d3405%3A0x23b36136018e58bb!2sAv+Costanera%2C+Posadas%2C+Misiones!3m2!1d-27.3660963!2d-55.884637!5e1!3m2!1ses!2sar!4v1426972291417" width="400" height="300" frameborder="0" style="border:0"></iframe>
+        <iframe width="100%" src="https://www.google.com/maps/embed?pb=!1m29!1m12!1m3!1d5416.310197988282!2d-55.89461191399824!3d-27.369217696264766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m14!1i0!3e2!4m5!1s0x9457be4a0aa5fc7d%3A0xcd599c063e5f51a4!2sUniversidad+Gast%C3%B3n+Dachary%2C+Salta+1912%2C+3300+Posadas%2C+Misiones!3m2!1d-27.371382999999998!2d-55.895519!4m5!1s0x9457bfc99b0d3405%3A0x23b36136018e58bb!2sAv+Costanera%2C+Posadas%2C+Misiones!3m2!1d-27.3660963!2d-55.884637!5e1!3m2!1ses!2sar!4v1426972291417" width="400" height="300" frameborder="0" style="border:0"></iframe>
     </p>
     <small>Desde la UGD a la Costanera</small>
 </div>
