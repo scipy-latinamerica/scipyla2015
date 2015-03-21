@@ -29,6 +29,9 @@ belleza de sus paisajes y el movimiento diurno y nocturno de la misma.
 
 ## Gastronomía
 
+Además del asado y otras comidad típicas argentinas, en misiones se acostumbra
+también las comidas tipicas de la hermána República del Paraguay.
+
 ### Lo típico de la ciudad: Pizzas Rellenas
 
 ### Regional: La Chipa
@@ -51,6 +54,8 @@ Por esto, la sopa paraguaya se trata de un bizcocho esponjoso salado, de muy
 rico contenido calórico y proteico.
 
 **Donde Comer:**
+
+
 
 ### El clásico Argentino: Asado y Choripán
 
