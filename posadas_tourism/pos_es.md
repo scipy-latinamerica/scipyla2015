@@ -29,8 +29,8 @@ belleza de sus paisajes y el movimiento diurno y nocturno de la misma.
 
 ## Gastronomía
 
-Además del asado y otras comidad típicas argentinas, en misiones se acostumbra
-también las comidas tipicas de la hermána República del Paraguay.
+Además del asado y otras comidas típicas argentinas, en misiones se acostumbra
+también las comidas típicas de la hermana República del Paraguay.
 
 ### Lo típico de la ciudad: Pizzas Rellenas
 
