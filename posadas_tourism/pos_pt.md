@@ -6,6 +6,8 @@ responsables por contratiempos relacionados con servicios contratados.
 La información vertida en esta guía puede cambiar por las fluctuaciones
 cambiarias o cambios en tarifas de las empresas.**
 
+(Mapa con todos los puntos de interes)[https://www.google.com.ar/maps/@-27.3811201,-55.9120811,13z/data=!4m2!6m1!1sz-qVL_LgL1X4.kwcNWI5-iBdI?hl=es]
+
 ## Turismo
 
 El mayor atractivo turístico de la ciudad es sin dudas la **Costanera**
