@@ -35,7 +35,22 @@ belleza de sus paisajes y el movimiento diurno y nocturno de la misma.
 
 ### Regional: El Mbeyú
 
-### Regional: El Rebiro
+### Regional: El Reviro
+
+### Regional: Caburé
+
+### Regional: Sopa Paraguaya
+
+La sopa paraguaya es un plato típico de la gastronomía de Paraguay producto
+del sincretismo guaraní y español. Los guaraníes acostumbraban a consumir
+comidas pastosas elaboradas con harina de maíz o de mandioca envueltas en hojas
+de güembé o banana y cocinadas entre ceniza caliente. Los jesuitas
+(en su mayoría españoles), introdujeron el uso de: queso, huevos y leche
+(aditivos que fueron agregados a las comidas preparadas por los guaraníes).
+Por esto, la sopa paraguaya se trata de un bizcocho esponjoso salado, de muy
+rico contenido calórico y proteico.
+
+**Donde Comer:**
 
 ### El clásico Argentino: Asado y Choripán
 
