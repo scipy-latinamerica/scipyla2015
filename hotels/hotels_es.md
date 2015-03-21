@@ -34,6 +34,7 @@ asistentes a la conferencia. Los montos están en **Pesos Argentinos**.
 Precios de contado para alojamiento, pueden variar los montos abonando
 con tarjeta de crédito en 3 y 6 pagos.
 
+[**Mapa con todos los puntos de interes**](https://goo.gl/maps/XR5QL)
 
 ## Alternativas
 

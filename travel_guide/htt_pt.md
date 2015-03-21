@@ -25,6 +25,8 @@ responsables por contratiempos en la ruta y la forma de transporte elegida.
 La información vertida en esta guía puede cambiar por las fluctuaciones
 cambiarias o cambios en itinerario de las empresas.**
 
+[**Mapa con todos los puntos de interes**](https://goo.gl/maps/XR5QL)S
+
 ##Desde Brasil
 
 ###Vuelos
