@@ -18,7 +18,7 @@ circulación está restringida a una velocidad máxima de 30 km/h y la misma se
 comunica con el resto de la ciudad con muy pocos accesos.
 
 <div style="text-align:center">
-    <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/costanera.jpg" />
+    <img size="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/costanera.jpg" />
 </div>
 
 La construcción de tamaña obra cambió el concepto turístico de la ciudad de
