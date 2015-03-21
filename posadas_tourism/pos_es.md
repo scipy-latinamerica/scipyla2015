@@ -6,7 +6,7 @@ responsables por contratiempos relacionados con servicios contratados.
 La información vertida en esta guía puede cambiar por las fluctuaciones
 cambiarias o cambios en tarifas de las empresas.**
 
-(Mapa con todos los puntos de interes)[https://goo.gl/maps/XR5QL]
+[Mapa con todos los puntos de interes](https://goo.gl/maps/XR5QL)
 
 ## Turismo
 
