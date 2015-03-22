@@ -1,12 +1,11 @@
-#Consejos al Viajero
+# Conselhos ao Viajante
 
-SciPy Latin America 2015, la tercera conferencia anual de Computación
-Científica con Python se realizará entre los días **20-22 de mayo en la ciudad
+SciPy América Latina 2015, a terceira conferência anual de Computação
+Científica com Python será realizada entre os dias **20-22 de Maio na cidade
 de Posadas, Misiones, Argentina.**
 
-La sede de la conferencia será la Universidad Gastón Dachary
-(<http://www.ugd.edu.ar/>), en la intersección de las calles Salta y Colón de
-la ciudad.
+A sede da conferência será a Universidade Gastón Dachary,
+(<http://www.ugd.edu.ar/>), no cruzamento das ruas Salta y Colón da cidade.
 
 
 <div style="text-align:center">
@@ -14,61 +13,84 @@ la ciudad.
     <br/>Universidad Gastón Dachary
 </div>
 
+É possível chegar na cidade e na universidade de várias maneiras.
+A seguir encontra-se uma lista de algumas alternativas
+para trajetos de curta, média e longa distância
+assim como sobre o transporte urbano para chegar à conferência.
 
-Para llegar a la ciudad y la universidad se poseen varias alternativas. A
-continuación se listan algunas alternativas de corta, media y larga distancia
-así como transporte urbano para llegar a la conferencia
+**AVISO: Todo o conteúdo a seguir são sugestões para guiar os auxiliares até a sede.
+Sob nenhuma circunstância a organização ou a universidade se fazem responsáveis
+por contratempos na rota ou na forma de transporte escolhida.
+A informação presente nesse guia pode ser alterada devido à alterações no câmbio
+ou alterações no itinerário das empresas.**
 
-**Aclaración: Todo a continuación son sugerencias para guiar al asistente hacia
-la sede. Bajo ningún concepto la organización ni la universidad se hacen
-responsables por contratiempos en la ruta y la forma de transporte elegida.
-La información vertida en esta guía puede cambiar por las fluctuaciones
-cambiarias o cambios en itinerario de las empresas.**
+[**Mapa com todos os pontos de interesse**](https://goo.gl/maps/XR5QL)S
 
-[**Mapa con todos los puntos de interes**](https://goo.gl/maps/XR5QL)S
+## Partindo do Brasil
 
-##Desde Brasil
+### Voos
 
-###Vuelos
+A melhor alternativa é voar até Foz do Iguaçu, cruzar a fronteira
+e tomar um ônibus partindo de Puerto Iguzu até Posadas.
 
-La mejor alternativa: Volar hasta Foz do Iguazú cruzar la frontera y tomar un
-bus desde Pto. Iguazu a Posadas
+Para o custos aéreos verificar
+<http://www.decolar.com/> ou <http://www.despegar.com.ar>.
 
-<http://www.decolar.com/> o <http://www.despegar.com.ar> para ver costos aéreos
+Existem vários voos diários conectando São Paulo e Rio de Janeiro
+à Foz do Iguaçu, que é distante, aproximadamente, 300km da cidade de Posadas.
 
-Existen diversos vuelos diarios que conectan Sao Paulo y Río de Janeiro con
-Foz do Iguassu, distante a unos 300km de la ciudad de Posadas.
+Gol (<http://voegol.com>), Azul (<http://voeazul.com>)
+e TAM (<http://tam.com.br>) são algumas das companhias aéreas que operam essa
+rota.
 
-Gol Linhas Aereas (<http://voegol.com>), Azul Linhas Aerea 
-(<http://voeazul.com>) y TAM (<http://tam.com.br>) son algunas de las
-aerolíneas que operan esas rutas.
+A partir do Aeroporto de Foz do Iguaçu é possível tomar um ônibus para o terminal da
+cidade, e, em seguida, tomar o ônibus internacional que cruza a fronteira para a
+Argentina. **O ônibus internacional não entrar nas instalações do
+terminal** e por isso você tem que pegá-lo na rua lateral adjacente.
 
-Desde el Aeropuerto de Foz de Iguazú es posible tomar un colectivo urbano hasta
-la terminal de dicha ciudad, y allí tomar el ómnibus internacional que realiza
-el cruce de la frontera hacia Argentina. Tener en cuenta que el colectivo
-internacional no ingresa al predio de la terminal, sino que hay que tomarlo en
-una calle lateral adyacente.
+Há duas empresas que realizam o serviço de cruzar a fronteira
+e geralmente operam a partir de 07:00 até cerca de 18:00.
+A tarifa é de cerca de US$3.
 
-Existen dos empresas de colectivos argentinas que realizan el servicio
-internacional, y usualmente operan desde las 7 am hasta alrededor de las 18 hs.
-El costo del pasaje ronda los **U$S 3**.
+Outra opção, devido à localização do aeroporto de Foz é tomar um ônibus ou táxi
+da Estação Aérea até a cabeceira da Ponte Internacional Tancredo Neves, e esperar
+o ônibus internacional coletivo (evitando, assim, a longa viagem para o terminal
+localizado no centro da cidade).
 
-Otra opción debido a la ubicación del aeropuerto de Foz es tomar un colectivo o
-taxi desde la estación aérea hacia la cabecera del Puente Internacional
-Tancredo Neves, y esperar allí el colectivo internacional (evitando así la
-demora del trayecto hasta la terminal urbana que se encuentra en el centro de
-la ciudad).
+Depois de cruzar a fronteira, o coletivo internacional chega à estação de ônibus
+em Puerto Iguazu, Misiones, Argentina. No local você pode tomar uma ônibus
+para a cidade de Posadas, a um custo aproximado de US$18, a
+capital provincial. Dependendo da empresa, a viagem leva cerca de 5 horas.
 
-Tras cruzar la frontera, el colectivo internacional llega hasta la Terminal de
-Ómnibus de Puerto Iguazú, Misiones, Argentina. En el mismo lugar es posible
-tomar un colectivo de media distancia hacia la ciudad de Posadas por un costo
-aproximado de **U$S 18**, capital de la provincia. Dependiendo de la empresa,
-al trayecto demora alrededor de 5 horas.
+Por favor, tente pegar o ônibus EXPRESSO ou DIRETO já que as viagens nos demais
+pode levar mais horas.
 
-Tengan en cuenta que es importante tomar los colectivos **EXPRESO** o 
-**DIRECTOS** ya  que los otros pueden demorar muchas horas más.
+Para mais informações: <http://www.plataforma10.com>
 
-Para más información consultar: <http://www.plataforma10.com>
+### Ônibus
+
+Há também serviços de ônibus de longa distância que viajam para a cidade de
+Posadas a partir de São Paulo, Rio de Janeiro e Florianópolis. As empresa Crucero
+del Norte/Sur realizam esse trajeto (<http://www.crucerodelnorte.com.ar/>)
+fica
+
+Para mais informações: <http://www.plataforma10.com>
+
+## Como chegar partindo de Buenos Aires para Posadas
+
+Um caso típico é chegar do exterior no Aeroporto Internacional de
+Ezeiza. Um no país, se você quiser ir para Posadas de ônibus terá
+que ir para o **terminal de ônibus de Retiro**; e se de avião terá que ir ao
+**Aeroporto Jorge Newbery (Aeroparque)**. Em ambos os caos, é recomendado pegar
+um ônibus da empresa Tienda Leon (<http://www.tiendaleon.com/home/>)
+que cobra US$16 para chegar ao Aeroparque e  US$7 para chegar a Retiro.
+
+### Voos
+
+Os voos com destino à Posadas partem do Aeroporto Jorge Newbery (Aeroparque)
+em vários horários e custam, aproximadamente, US$146.
+
+Para mais informações: <http://www.despegar.com.ar> ou <http://www.decolar.com/>.
 
 ###Bus
 
@@ -79,50 +101,30 @@ Se destaca la empresa Crucero del Norte/Sur para estos traslados
 
 Para más información consultar: <http://www.plataforma10.com>
 
-##Como llegar desde Buenos Aires a Posadas
-
-
-Un caso muy típico es llegar desde el exterior al Aeropuerto Internacional de
-Ezeiza. Una ves arribado al País si usted quiere dirigirse a Posadas por Bus
-tendra que dirigirse a la **terminal de ómnibus de Retiro**; y si es por Avion
-tendra que llegar al **Aeropuerto Jorge Newbery (Aeroparque)**. En Ambos caos
-le recomendamos tomar un bus de la empresa Tienda Leon
-(<http://www.tiendaleon.com/home/>) con un costo de **U$S 16** para llegar a
-Aeroparque y **U$S 7** para llegar a Retiro.
-
-###Vuelos
-
-Los vuelos con destino a posadas parten del aeropuerto de Jorge Newbery
-(Aeroparque) en varios horarios por un costo aproximado de **U$S 146**.
-
-Para más información consultar: <http://www.despegar.com.ar> o
-<http://www.decolar.com/>
-
-
 <div style="text-align:center">
     <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/aeroparque.jpg" />
     <br/>Aeropuerto Jorge Newbery (Aeroparque)
 </div>
 
 
-###Bus
+### Ônibus
 
-Hay muchas alternativas para viajar desde Buenos Aires a Posadas, siendo el
-punto mas importante de salida la Estación de Retiro. El costo de un servicio
-cama con comida abordo es de **U$S** 65 (hay varias alternativas en precio y
-servicio) y tiene una duración aproximada de **12 hs**.
+Há muitas maneiras de viajar de Buenos Aires para Posadas, sendo o
+ponto de partida mais importante é a Estação Retiro. O custo de uma passagem com
+cama e refeição a bordo é de US$65 (ha várias alternativas em preço e serviço)
+e leva aproximadamente 12 horas.
 
-Para más información consultar: <http://www.plataforma10.com>
+Para mais informações: <http://www.plataforma10.com>
 
-Automóvil Particular
---------------------
+### Carro particular
 
-Se recomienda la siguiente ruta (la ruta posee peajes):
+É recomendado
 
--   Dirigirse por Ruta Nacional 9 hasta empalmar la ruta provincial 6 y cruzar
-    el puente Zárate - Brazo Largo.
--   Dirigirse por la Ruta 14 hasta empalmar ya en misiones con la ruta
-    provincial 105.
+-   Dirigir pela Estrada Nacional 9 até o início da Estrada Estadual 6 e
+    atravessar a ponte Zárate - Brazo Largo.
+-   Dirigir pela Estrada 14 até chegar em Misiones pela Estrada Estrada 105.
+
+**O trajeto possue pedágio.**
 
 Como llegar de Córdoba a Posadas
 ================================
