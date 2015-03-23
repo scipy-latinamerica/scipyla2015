@@ -34,7 +34,7 @@ asistentes a la conferencia. Los montos están en **Pesos Argentinos**.
 Precios de contado para alojamiento, pueden variar los montos abonando
 con tarjeta de crédito en 3 y 6 pagos.
 
-[**Mapa con todos los puntos de interes**](https://goo.gl/maps/XR5QL)
+[**Mapa con todos los puntos de interés**](https://goo.gl/maps/XR5QL)
 
 ## Alternativas
 
@@ -308,7 +308,7 @@ secador de pelo.
     </tbody>
 </table>
 
-Las habitaciones standard cuentan con frigobar, telefono, aire acondicionado,
+Las habitaciones standard cuentan con frigobar, teléfono, aire acondicionado,
 TV por cable, secador de pelo y amenities.
 
 A las habitaciones superiores agregan espacio, decoración moderna, camas más
@@ -404,7 +404,7 @@ de pantalla plana con canales por cable.
         </tr>
         <tr valign="top">
             <td bgcolor="#d3dfee" width="116" height="3" style="border: none; padding: 0cm">
-                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Cuadruple</b></font></font></font></p>
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Cuádruple</b></font></font></font></p>
             </td>
             <td bgcolor="#d3dfee" width="79" style="border: none; padding: 0cm">
                 <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$744</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
