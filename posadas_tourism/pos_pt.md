@@ -131,7 +131,6 @@ rico contenido calórico y proteico.
 **Donde Comer:**
 
 
-
 ### El clásico Argentino: Asado
 
 En Manual del Asador Argentino, de Raúl Mirad, se cuentan las impresiones de
@@ -201,6 +200,11 @@ primer gobierno patrio Argentino el cual se estableció el 25 de mayo de 1810.
 Por este motivo ha pasado de ser un plato regional y tradicional a ser uno de
 los platos nacionales de Argentina para festejar las fechas patrias
 
+**Donde Comer:** Para los que aun estén el 25 de mayo, casi todos los
+restaurantes los ofrecen en e país, así como se pueden comprar en algunos
+colegios que ofrecen a la venta.
+
+
 ### Cafes Estilo Argentino
 
 Los bares de Buenos Aires forman parte de la cultura de la ciudad, de las
@@ -234,6 +238,7 @@ El único local de este estilo es **Bonafide Expreso** en Córdoba 2115
 Los peces que surcan el Paraná son platos tipicos de la zona. Podemos Destacar
 el *Surubí* (especie de bagre), el *Dorado* (El mas delicioso) y la *Boga*.
 
+**Donde Comer:**
 El restaurante con mejor referencias en la ciudad para este tipo de platos es
 **Itakua** (escrito Itakva en la cartelería)
 
@@ -253,4 +258,14 @@ diferentes precios.
     <small>Alfajores y gondolas de supermecados de Yerba, Dulce de Leche y vinos argentinos</small>
 </div>
 
+
+### Mates
+
+El lugar para encontrar TODO lo relacionado a Mates es la **Galería del Mate**
+(R. Saenz Peña y Costanera), **La Placita** (Bolívar y R. Saenz Peña) y
+**La Placita del Puente** (Mitre y R. Saenz Peña).
+
+<div style="text-align:center">
+    <img width="70%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/gdm.png" />
+</div>
 
