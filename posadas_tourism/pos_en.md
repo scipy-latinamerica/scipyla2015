@@ -235,6 +235,22 @@ Generalmente se acompaña con una guarnición de papas fritas.
 
 **Donde Comer:** Pizzerías, restaurantes, vendedores ambulantes
 
+### Mandioca y Mandioca Frita (Yuca)
+
+Manihot esculenta, llamada comúnmente yuca, e internacionalmente reconocida
+como mandioca, tapioca, guacamota (del náhuatl cuauhcamohtli en México),
+casabe o casava, es un arbusto perenne de la familia de las euforbiáceas
+extensamente cultivado en Sudamérica, África y el Pacífico por sus tubérculos
+con almidones de alto valor alimentario.
+
+Es tradición de la zona comerla hervida con el asado, o frita como snack
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/mandiocafrita.jpg" />
+    <br>
+    <small>Milanesa a Caballo</small>
+</div>
+
 ### 25 de Mayo: El Locro
 
 El locro (del quechua ruqru o luqru) es un guiso a base de zapallo, porotos,
