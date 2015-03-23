@@ -119,8 +119,8 @@ El relleno puede incluir carnes rojas o blancas, pescado, verduras o fruta.
 Las empanadas son un plato tradicional de la mayoría de las cocinas de los
 países de habla hispana.
 
-**Donde Comer:** Suelen venderse en los supermercados, cualquier restaurant y
-pizería así como algunas panaderias.
+**Donde Comer:** Suelen venderse en los supermercados, cualquier restaurante y
+pizzería así como algunas panaderías.
 
 
 ### Fast food Argentino: Choripan, Lomo y Milanesa
