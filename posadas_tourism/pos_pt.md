@@ -14,7 +14,7 @@ Mas Información:
 - Turismo (Comming soon!)
 
 
-## Turismo
+## La Costanera de Posadas
 
 El mayor atractivo turístico de la ciudad es sin dudas la **Costanera**
 
