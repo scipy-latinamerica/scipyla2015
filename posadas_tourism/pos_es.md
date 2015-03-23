@@ -191,6 +191,20 @@ ciudades y se popularizó en el entorno urbano.
 choripanes. Es tradición también los puestos callejeros que suelen hacerlos
 mas pesados y con mas condimentos.
 
+### Lomito
+
+El lomito o sándwich de lomo es un sándwich típico de la gastronomía de Argentina,
+(por ejemplo, en la región de Cuyo y la provincia argentina de Córdoba es muy
+popular). Su forma habitual de consumo consiste en un trozo de lomo de ternera
+fileteado, queso, jamón, huevo frito, tomate y condimento entre dos panes que
+puede estar levemente tostados
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/lomito.jpg" />
+</div>
+
+**Donde Comer:** suelen servirse en las Pizzerías.
+
 ### 25 de Mayo: El Locro
 
 El locro (del quechua ruqru o luqru) es un guiso a base de zapallo, porotos,
