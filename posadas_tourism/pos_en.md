@@ -79,6 +79,19 @@ después del conflicto.
 
 ### Regional: El Reviro
 
+El reviro esta tan arraigado a nosotros que hay casas en las que nunca falta
+como el pan que se utiliza para acompañar a las comidas. Los días de lluvia son
+especiales para hacerlo acompañado de mate cocido, es como la torta frita que
+se come bastante en otros lugares de Argentina. Es también motivo para
+reuniones entre amigos, acompañando el famoso ticue-í (especie de preparado
+con carne), con huevo, tomate y muchas otras formas.
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/REVIRO.jpg" />
+</div>
+
+**Donde Comer:**
+
 ### Regional: Caburé
 
 ### Regional: Sopa Paraguaya
