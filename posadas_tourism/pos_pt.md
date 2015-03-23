@@ -172,10 +172,30 @@ países de habla hispana.
 **Donde Comer:** Suelen venderse en los supermercados, cualquier restaurante y
 pizzería así como algunas panaderías.
 
-
 ### Fast food Argentino: Choripan, Lomo y Milanesa
 
+
 ### 25 de Mayo: El Locro
+
+El locro (del quechua ruqru o luqru) es un guiso a base de zapallo, porotos,
+maíz o papas que se consume en la zona de la cordillera de los Andes, desde
+Argentina, el norte de Chile y hasta el sur de Colombia, pasando por Bolivia,
+Ecuador, Paraguay y Perú.
+
+Suerte de guiso cuyo origen es indudablemente prehispánico y preincaico,
+típico de varios pueblos andinos que basaban gran parte de su dieta en el maíz
+o los porotos y la papa.
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/locro.jpeg" />
+</div>
+
+Alimento con muchas calorías y nutrientes el locro resulta muy adecuado para
+consumir durante los inviernos o en zonas frías. Tradicionalmente se consume
+de manera masiva el **25 de mayo**, día en que se conmemora la formación del
+primer gobierno patrio Argentino el cual se estableció el 25 de mayo de 1810.
+Por este motivo ha pasado de ser un plato regional y tradicional a ser uno de
+los platos nacionales de Argentina para festejar las fechas patrias
 
 ### Cafes Estilo Argentino
 
