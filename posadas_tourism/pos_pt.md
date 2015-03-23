@@ -233,6 +233,7 @@ Generalmente se acompaña con una guarnición de papas fritas.
     <small>Milanesa a Caballo</small>
 </div>
 
+**Donde Comer:** Pizzerías, restaurantes, vendedores ambulantes
 
 ### 25 de Mayo: El Locro
 
