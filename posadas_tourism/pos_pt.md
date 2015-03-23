@@ -235,12 +235,16 @@ El único local de este estilo es **Bonafide Expreso** en Córdoba 2115
 
 ### Pescados Regionales
 
-Los peces que surcan el Paraná son platos tipicos de la zona. Podemos Destacar
+Los peces que surcan el Paraná son platos típicos de la zona. Podemos Destacar
 el *Surubí* (especie de bagre), el *Dorado* (El mas delicioso) y la *Boga*.
 
 **Donde Comer:**
 El restaurante con mejor referencias en la ciudad para este tipo de platos es
 **Itakua** (escrito Itakva en la cartelería)
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/itakua.jpg" />
+</div>
 
 ## Compras
 
