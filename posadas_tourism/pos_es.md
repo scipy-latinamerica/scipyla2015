@@ -57,7 +57,25 @@ evolucionó de la chipa.
 ambulantes de la ciudad venden chipas de excelente calidad.
 
 
-### Regional: El Mbeyú
+### Regional: El Mbejú (Mbeyú)
+
+El mbeyú (escrito en guaraní como mbeju -se pronuncia en todos los casos mbeyú
+, o abreviadamente, "beyú"-), es un plato propio y típico de Paraguay y del
+Nordeste argentino. Se trata de un panqueque de almidón
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/mbeyu_1.png" />
+</div>
+
+Es una muestra sólida de la gastronomía paraguaya, sumamente ricos en calorías.
+Según algunos eruditos de la historia social de Paraguay, toda la gastronomía
+popular Paraguaya, que se establece como industria pequeña de la familia
+después de Guerra de Paraguay contra La alianza triple
+(La Argentina, El Brasil y Uruguay, entre 1864 y 1870), es realmente
+abundante en contenido calórico, debido a la situación que superó al país
+después del conflicto.
+
+**Donde Comer:**
 
 ### Regional: El Reviro
 
