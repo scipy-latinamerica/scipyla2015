@@ -210,7 +210,7 @@ dos muy buenos cafés Argentinos: Bar Español (2067 Bolívar) y Café Vitrage
 (Bolívar y Colon)
 
 <div style="text-align:center">
-    <img width="80%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/vitrage.jpg" />
+    <img width="80%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/vitrage.jpeg" />
     <br>
     <small>Bar Español y Café Vitrage</small>
 </div>
