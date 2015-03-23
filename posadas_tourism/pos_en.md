@@ -175,8 +175,21 @@ países de habla hispana.
 **Donde Comer:** Suelen venderse en los supermercados, cualquier restaurante y
 pizzería así como algunas panaderías.
 
-### Fast food Argentino: Choripan, Lomo y Milanesa
+### Choripan
 
+Se ha descrito que en la región del Río de la Plata el origen del choripán se
+remonta a mediados del siglo XIX, cuando en las zonas rurales los gauchos
+realizaban asados con motivo de alguna celebración, se dio inicio al hábito de
+comer el chorizo dentro de un pan. Esta práctica con el tiempo llegó a las
+ciudades y se popularizó en el entorno urbano.
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/choripan.jpeg" />
+</div>
+
+**Donde Comer:** Cualquiera de las parrillas que sirven asados suelen ofrecer
+choripanes. Es tradición también los puestos callejeros que suelen hacerlos
+mas pesados y con mas condimentos.
 
 ### 25 de Mayo: El Locro
 
