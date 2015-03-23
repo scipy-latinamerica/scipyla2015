@@ -220,7 +220,7 @@ con una guarnición como ensalada, puré, o papas fritas) o en sándwich
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milanga.jpeg" />
     <br>
-    <small>Milanesa a Caballo</small>
+    <small>Sandwich Milanesa</small>
 </div>
 
 La milanesa a caballo es una milanesa frita de carne vacuna con dos huevos
