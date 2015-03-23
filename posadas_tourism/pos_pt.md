@@ -50,7 +50,7 @@ Esta emparentado con el *Pão de queijo* brasileño, el cual se cree que
 evolucionó de la chipa.
 
 <div style="text-align:center">
-    <img width="25%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/chipa.jpeg" />
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/chipa.jpeg" />
 </div>
 
 **Donde Comer:** Casi todas las panaderías, supermercados y vendedores
@@ -73,6 +73,10 @@ de güembé o banana y cocinadas entre ceniza caliente. Los jesuitas
 (aditivos que fueron agregados a las comidas preparadas por los guaraníes).
 Por esto, la sopa paraguaya se trata de un bizcocho esponjoso salado, de muy
 rico contenido calórico y proteico.
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/sopa-paraguaya.JPG" />
+</div>
 
 **Donde Comer:**
 
@@ -102,5 +106,8 @@ cual el mas cerano se encuentra a 350 metros.
 En estos lugares usted podrá encontrar una amplia variedad de productos por
 diferentes precios.
 
-Algunos superme
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/alfajores.jpg" />
+    <small>Alfajores y gondolas de supermecados de Yerba, Dulce de Leche y vinos argentinos</small>
+</div>
 
