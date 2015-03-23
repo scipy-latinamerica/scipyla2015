@@ -82,9 +82,46 @@ rico contenido calórico y proteico.
 
 
 
-### El clásico Argentino: Asado y Choripán
+### El clásico Argentino: Asado
+
+En Manual del Asador Argentino, de Raúl Mirad, se cuentan las impresiones de
+un jesuita italiano que anduvo por las pampas a comienzos de los 1700. Allí el
+misionero se impresiona por los gauchos y su destreza para faenar la carne,
+colocarla en palos que clavaban en el suelo, inclinados sobre una fogata bajo
+las estrellas. Esa misma imagen impresionó a Charles Darwin, quien llegó a
+tierras argentinas en 1832 y que un año después ya se sentía parte de la
+pampa, como escribía a su hermana en una carta citada por La Nación:
+
+    "Me he convertido en todo un gaucho, tomo mi mate y fumo mi cigarro y
+     después me acuesto cómodo, con los cielos como toldo, como si estuviera
+     en una cama de pluma. Es una vida tan sana, todo el día encima del
+     caballo, comiendo nada más que carne y durmiendo en medio de un viento
+     fresco...".
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/asado.jpeg" />
+</div>
 
 ### Diferentes en cada región: Empanadas
+
+El asado lleva su tiempo Hay que esperar como una hora para que el fuego
+esté a punto para colocar la carne. Por eso, hay que sabe esperar, y tomar
+vino, y comer empanadas mientras se conversa y se llega al momento clave.
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/empanadas.jpeg" />
+</div>
+
+Una empanada es una fina masa de pan, masa quebrada u hojaldre rellena con una
+preparación salada o dulce y cocida al horno o frita.
+El relleno puede incluir carnes rojas o blancas, pescado, verduras o fruta.
+
+Las empanadas son un plato tradicional de la mayoría de las cocinas de los
+países de habla hispana.
+
+**Donde Comer:** Suelen venderse en los supermercados, cualquier restaurant y
+pizería así como algunas panaderias.
+
 
 ### Fast food Argentino: Choripan, Lomo y Milanesa
 
@@ -111,4 +148,5 @@ diferentes precios.
     <br>
     <small>Alfajores y gondolas de supermecados de Yerba, Dulce de Leche y vinos argentinos</small>
 </div>
+
 
