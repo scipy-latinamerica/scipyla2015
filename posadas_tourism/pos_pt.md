@@ -42,6 +42,21 @@ también las comidas típicas de la hermana República del Paraguay.
 
 ### Regional: La Chipa
 
+La "chipa" o "chipá" (la palabra no tiene género por ser un
+término en lengua guaraní) es un pan pequeño hecho con almidón de mandioca,
+queso duro, leche, huevos, manteca y sal.
+
+Esta emparentado con el *Pão de queijo* brasileño, el cual se cree que
+evolucionó de la chipa.
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/chipa.jpeg" />
+</div>
+
+**Donde Comer:** Casi todas las panaderías, supermercados y vendedores
+ambulantes de la ciudad venden chipas de excelente calidad.
+
+
 ### Regional: El Mbeyú
 
 ### Regional: El Reviro
