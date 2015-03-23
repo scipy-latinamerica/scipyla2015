@@ -107,7 +107,8 @@ En estos lugares usted podrá encontrar una amplia variedad de productos por
 diferentes precios.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/alfajores.jpg" />
+    <img width="80%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/alfajores.jpg" />
+    <br>
     <small>Alfajores y gondolas de supermecados de Yerba, Dulce de Leche y vinos argentinos</small>
 </div>
 
