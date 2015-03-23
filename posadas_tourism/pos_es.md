@@ -1,4 +1,4 @@
-# Turismo, gastronomía y compras en Posadas
+# Posadas
 
 **Aclaración: Esta página fue desarrollada a modo informativo. Bajo ningún
 concepto la organización ni la universidad se hacen
@@ -6,7 +6,13 @@ responsables por contratiempos relacionados con servicios contratados.
 La información vertida en esta guía puede cambiar por las fluctuaciones
 cambiarias o cambios en tarifas de las empresas.**
 
-[**Mapa con todos los puntos de interes**](https://goo.gl/maps/XR5QL)
+
+Mas Información:
+
+- [Viajar a Posadas](/venue/traveling)
+- [Hoteles](/venue/accomodation)
+- Turismo (Comming soon!)
+
 
 ## Turismo
 
