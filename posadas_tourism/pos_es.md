@@ -50,7 +50,7 @@ Esta emparentado con el *Pão de queijo* brasileño, el cual se cree que
 evolucionó de la chipa.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/chipa.jpeg" />
+    <img width="25%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/chipa.jpeg" />
 </div>
 
 **Donde Comer:** Casi todas las panaderías, supermercados y vendedores
