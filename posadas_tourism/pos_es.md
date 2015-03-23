@@ -199,6 +199,23 @@ los platos nacionales de Argentina para festejar las fechas patrias
 
 ### Cafes Estilo Argentino
 
+Los bares de Buenos Aires forman parte de la cultura de la ciudad, de las
+costumbres de sus habitantes y del circuito turístico moderno de dicha urbe.
+Han sido objeto de estudio de distintos historiadores, inspiradores de
+innumerables creaciones artísticas y tradicional lugar de reunión de los
+porteños.
+
+Esta tradición se ha esparcido por todo el pais y Posadas tiene particularmente
+dos muy buenos cafés Argentinos: Bar Español (2067 Bolívar) y Café Vitrage
+(Bolívar y Colon)
+
+<div style="text-align:center">
+    <img width="80%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/vitrage.jpg" />
+    <br>
+    <small>Bar Español y Café Vitrage</small>
+</div>
+
+
 ### Cafe estilo Americano
 
 ### Un Restauran Diferente
