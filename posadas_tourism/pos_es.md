@@ -152,6 +152,10 @@ pampa, como escribía a su hermana en una carta citada por La Nación:
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/asado.jpeg" />
 </div>
 
+**Donde Comer:** De las parrillas en la zona centrica se destacan: **Espeto del
+Rey** (Ayacucho 2404, a 300 mts de la universidad), **Asador el Rancho**
+(Costanera y Guacurary) y  **La Nueva Rueda** (Costanera y Pedernera)
+
 ### Diferentes en cada región: Empanadas
 
 El asado lleva su tiempo Hay que esperar como una hora para que el fuego
@@ -216,9 +220,22 @@ dos muy buenos cafés Argentinos: Bar Español (2067 Bolívar) y Café Vitrage
 </div>
 
 
-### Cafe estilo Americano
+### Cafe estilo *"Starbucks"*
 
-### Un Restauran Diferente
+El único local de este estilo es **Bonafide Expreso** en Córdoba 2115
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/bonafide.png" />
+</div>
+
+
+### Pescados Regionales
+
+Los peces que surcan el Paraná son platos tipicos de la zona. Podemos Destacar
+el *Surubí* (especie de bagre), el *Dorado* (El mas delicioso) y la *Boga*.
+
+El restaurante con mejor referencias en la ciudad para este tipo de platos es
+**Itakua** (escrito Itakva en la cartelería)
 
 ## Compras
 
