@@ -1,15 +1,15 @@
 # Hotéis e Alojamentos
 
 **AVISO: Essa página foi escrita de modo informativo.
-Sob nenhuma circunstância a organização nem a universidade
-se fazem responsável por contratempos relacionados com os alojamentos.
+Sob nenhuma circunstância nem a organização nem a universidade
+se fazem responsáveis por contratempos relacionados com os alojamentos.
 As informações presentes nesse guia podem mudar devido à flutuações cambiais
 ou alterações nas tarifas das empresas.**
 
 A pedido da organização,
 a empresa **Guarani Turismo** (<http://guaraniturismo.tur.ar/>)
 contactou diferentes alojamentos na cidade de Posadas
-e consegui desconto para os asistentes da conferência.
+e conseguiu desconto para os participantes da conferência.
 Os valores encontram-se em **Pesos Argentinos**.
 
 <div style="text-align:center">
@@ -39,11 +39,11 @@ no cartão de crédito.
 
 ## Alternativas
 
-### 4 Estrelas - Hotel Julio Cesar – 10% de desconto para assistentes
+### 4 Estrelas - Hotel Julio Cesar – 10% de desconto para participantes
 
 -   **Endereço:** Entre Rios 1951 |  Posadas 3300, Misiones, Argentina.
 -   **HomePage:** <http://www.juliocesarhotel.com/>
--   **Distância de SciPy LA 2015:** 250m.
+-   **Distância do SciPy LA 2015:** 250m.
 
 <div style="text-align:center">
     <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/julio_cesar.jpg" />
@@ -72,9 +72,9 @@ Suite Senior      <del>$1500</del> $1350
 
 ### 4 Estrelas - HA Urbano Posadas
 
--   **Dirección:** Bolivar 2176, N3300AHT Posadas, Argentina.
+-   **Endereço:** Bolivar 2176, N3300AHT Posadas, Argentina.
 -   **HomePage:** <http://alvarezarguelles.com/urbano>
--   **Distancia de SciPy LA 2015:** 800 mts.
+-   **Distância do SciPy LA 2015:** 800 mts.
 
 <div style="text-align:center">
     <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/hs_urbano.jpg" />
@@ -99,14 +99,14 @@ Os quartos incluem Wi-Fi, café da manhã e acesso à piscina.
 
 Condições gerais:
 
--   **Horario do Check In:** A partir da 14h.
--   **Horario do Check out:** Até 10h.
+-   **Horário do Check In:** A partir da 14h.
+-   **Horário do Check out:** Até 10h.
 
-### 3 Estrelas - Hotel Posadas – 10% desconto para assistentes
+### 3 Estrelas - Hotel Posadas – 10% desconto para participantes
 
--   **Dirección:** Bolívar 1949 - 3300 Posadas, Misiones
+-   **Endereço:** Bolívar 1949 - 3300 Posadas, Misiones
 -   **HomePage:** <http://www.hotelposadas.com.ar>
--   **Distancia de SciPy LA 2015:** 600m.
+-   **Distância do SciPy LA 2015:** 600m.
 
 <div style="text-align:center">
     <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/posadas_hotel.jpg" />
@@ -115,7 +115,7 @@ Condições gerais:
 O Hotel Posadas oferece acomodações modernas com acesso Wi-Fi gratuito
 e está localizado no centro de Posadas, junto à Praça 9 de Julio e a Catedral.
 
-Os quartos do Hotel Posadas são confortável e com decoração moderna com móveis
+Os quartos do Hotel Posadas são confortáveis e com decoração moderna com móveis
 de madeira, ar condicionado, TV a cabo, frigobar e secador de cabelo.
 
 Quartos    STANDARD              SUPERIOR
@@ -133,18 +133,18 @@ decoração moderna, camas maiores e TV de plasma tamanho 32'.
 
 Conexão WI-FI nas áreas públicas e quartos.
 
-**Quartos compartilhados opcional àr $150 por pessoa sem bebidas.**
+**Quartos compartilhados opcional por $150 por pessoa sem bebidas.**
 
 Condições gerais:
 
--   **Horario do Check In:** A partir da 12h.
--   **Horario do Check out:** Até 10h.
+-   **Horário do Check In:** A partir da 12h.
+-   **Horário do Check out:** Até 10h.
 
-### 3 Estrelas - Hotel Continental – 10% de desconto para asistentes
+### 3 Estrelas - Hotel Continental – 10% de desconto para participantes
 
--   **Dirección:** Gral S Bolívar 1879 - Posadas Misiones
+-   **Endereço:** Gral S Bolívar 1879 - Posadas Misiones
 -   **HomePage:** <http://continentalposadashotel.com/>
--   **Distancia de SciPy LA 2015:** 600mt
+-   **Distância do SciPy LA 2015:** 600mt
 
 <div style="text-align:center">
     <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/continental.jpg" />
@@ -167,13 +167,13 @@ Quadruplo     <del>$744</del> $670  <del>$864</del> $778
 Suite bolivar <del>$824</del> $742 
 Suite         <del>$1096</del> $987 
 
-**Quartos compartilhados opcional àr $150 por pessoa sem bebidas.**
+**Quartos compartilhados opcional por $150 por pessoa sem bebidas.**
 
 ### Hostel - Posadeña Linda
 
--   **Dirección:** Bolívar 1439 - Posadas Misiones
+-   **Endereço:** Bolívar 1439 - Posadas Misiones
 -   **HomePage:** <http://www.hostelposadasmisiones.com/>
--   **Distancia de SciPy LA 2015:** 1000m.
+-   **Distância do SciPy LA 2015:** 1000m.
 
 <div style="text-align:center">
     <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/hotels/imgs/posadena_linda.jpg" />
