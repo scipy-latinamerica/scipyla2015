@@ -107,7 +107,7 @@ pintura ni barniz. La masa se envuelve en la punta del palo y se asan sobre
 las brasas girando lentamente hasta que se cocinen.
 
 <div style="text-align:center">
-    <img width="25%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/cabure.jpg" />
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/cabure.jpg" />
 </div>
 
 **Donde Comer:** Hay ventas ambulantes en la Costanera de Posadas y son
