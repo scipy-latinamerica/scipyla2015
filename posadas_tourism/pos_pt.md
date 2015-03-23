@@ -40,6 +40,19 @@ también las comidas típicas de la hermana República del Paraguay.
 
 ### Lo típico de la ciudad: Pizzas Rellenas
 
+La pizza en Argentina es una institución por la gran cantidad de inmigrantes
+italianos que llegaron al Río de la Plata.
+
+En posadas es particularmente popular la Pizza Rellena. Una especie de Tarta
+que contiene los típicos ingredientes que posee una pizza.
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/lospinos.png" />
+</div>
+
+**Donde Comer:** Fundamentalmente en **Pizzería Los Pinos**
+(Buenos Aires y Sarmiento) pero casi todas las pizzerías la ofrecen.
+
 ### Regional: La Chipa
 
 La "chipa" o "chipá" (la palabra no tiene género por ser un
