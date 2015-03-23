@@ -7,7 +7,7 @@ La información vertida en esta guía puede cambiar por las fluctuaciones
 cambiarias o cambios en tarifas de las empresas.**
 
 A pedido de la organización, la empresa
-**Guarani Turismo** (<http://guaraniturismo.tur.ar/>) a contactado a
+**Guarani Turismo** (<http://guaraniturismo.tur.ar/>) ha contactado a
 diferentes alojamientos de la ciudad Posadas y logró descuentos para los
 asistentes a la conferencia. Los montos están en **Pesos Argentinos**.
 
@@ -27,7 +27,7 @@ asistentes a la conferencia. Los montos están en **Pesos Argentinos**.
     <mailto:daniel@guaraniturismo.tur.ar> /
     <mailto:sandra@guaraniturismo.tur.ar>
 -   Detallar cantidad de personas y noches a alojarse, antes de abonar se
-    confirmara por email la reserva solicitada.
+    confirmará por email la reserva solicitada.
 
 **Formas de pago:** Efectivo, depósito bancario y/o pago con tarjeta de crédito.
 
@@ -64,7 +64,7 @@ teléfono y baño con secador de pelo.
         <tr>
             <td colspan="2" width="292" valign="top" style="border-top: 1.00pt solid #808080; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
                 <p class="western"><font color="#365f91"><font face="Calibri, sans-serif"><b>Valores
-                habitacion por noche</b></font></font></p>
+                habitación por noche</b></font></font></p>
             </td>
         </tr>
     </tbody>
@@ -294,7 +294,7 @@ secador de pelo.
         </tr>
         <tr valign="top">
             <td bgcolor="#d3dfee" width="81" height="2" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
-                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Cuadruple</b></font></font></font></p>
+                <p lang="es-ES" class="western"><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt"><b>Cuádruple</b></font></font></font></p>
             </td>
             <td bgcolor="#d3dfee" width="80" style="border-top: none; border-bottom: 1.00pt solid #808080; border-left: none; border-right: none; padding: 0cm">
                 <p align="center" lang="es-ES" class="western"><font color="#365f91"><strike><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">$1020</font></font></strike></font><font color="#365f91"><font face="Arial, sans-serif"><font size="2" style="font-size: 10pt">
