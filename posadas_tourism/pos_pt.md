@@ -213,16 +213,14 @@ horno. Por extensión, se llama milanesa a cualquier rebanada de un ingrediente
 rebozado y frito: hay así milanesas de pollo, de pescado, de soja, de
 berenjena, de mozzarella, etc.
 
-<div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milanesa.jpeg" />
-</div>
-
 La milanesa puede ser consumida «al plato» (servida en un plato, normalmente
 con una guarnición como ensalada, puré, o papas fritas) o en sándwich
 (sándwich de milanesa)
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milanga.jpeg" />
+    <br>
+    <small>Milanesa a Caballo</small>
 </div>
 
 La milanesa a caballo es una milanesa frita de carne vacuna con dos huevos
@@ -230,7 +228,9 @@ fritos encimados (cuando es sólo uno, se llama "milanesa a medio caballo").
 Generalmente se acompaña con una guarnición de papas fritas.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milcaballo.jpg" />
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milanesa.jpeg" />
+    <br>
+    <small>Milanesa a Caballo</small>
 </div>
 
 
