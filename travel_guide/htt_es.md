@@ -25,7 +25,6 @@ responsables por contratiempos en la ruta y la forma de transporte elegida.
 La información vertida en esta guía puede cambiar por las fluctuaciones
 cambiarias o cambios en itinerario de las empresas.**
 
-[**Mapa con todos los puntos de interes**](https://goo.gl/maps/XR5QL)
 
 ##Desde Brasil
 
@@ -68,7 +67,8 @@ al trayecto demora alrededor de 5 horas.
 Tengan en cuenta que es importante tomar los colectivos **EXPRESO** o 
 **DIRECTOS** ya  que los otros pueden demorar muchas horas más.
 
-Para más información consultar: <http://www.plataforma10.com>
+Para más información consultar: <http://www.plataforma10.com>,
+<http://www.tigreiguazu.com.ar/> o <http://www.crucerodelnorte.com.ar/>
 
 ###Bus
 

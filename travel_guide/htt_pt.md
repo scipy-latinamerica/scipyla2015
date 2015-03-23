@@ -24,7 +24,6 @@ por contratempos na rota ou na forma de transporte escolhida.
 A informação presente nesse guia pode ser alterada devido à alterações no câmbio
 ou alterações no itinerário das empresas.**
 
-[**Mapa com todos os pontos de interesse**](https://goo.gl/maps/XR5QL)
 
 ## Partindo do Brasil
 
@@ -65,7 +64,8 @@ Dependendo da empresa, a viagem leva cerca de 5 horas.
 Por favor, tente pegar o ônibus EXPRESSO ou DIRETO já que as viagens nos demais
 pode levar mais horas.
 
-Para mais informações: <http://www.plataforma10.com>
+Para mais informações: <http://www.plataforma10.com>,
+<http://www.tigreiguazu.com.ar/> o <http://www.crucerodelnorte.com.ar/>
 
 ### Ônibus
 
