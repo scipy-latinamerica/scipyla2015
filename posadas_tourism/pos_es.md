@@ -94,6 +94,25 @@ con carne), con huevo, tomate y muchas otras formas.
 
 ### Regional: Caburé
 
+El caburé es una comida típica del Paraguay, pero la cercanía territorial y
+cultural con la provincia de Misiones en Argentina
+
+El caburé misionero tiene que tener buena margarina, buen queso y mucho huevo.
+Cambia el sabor con el de la chipa regular y es más blando.
+
+El Caburé se hace con una masa de almidón de mandioca un poco más dura que la
+de chipas al horno. Tradicionalmente se las cocinaba en una rama de naranjo,
+previamente descortezada. Actualmente se usa un palo de madera que no tenga
+pintura ni barniz. La masa se envuelve en la punta del palo y se asan sobre
+las brasas girando lentamente hasta que se cocinen.
+
+<div style="text-align:center">
+    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/cabure.jpg" />
+</div>
+
+**Donde Comer:** Hay ventas ambulantes en la Costanera de Posadas y son
+sensiblemente mas caros que las Chipas
+
 ### Regional: Sopa Paraguaya
 
 La sopa paraguaya es un plato típico de la gastronomía de Paraguay producto
