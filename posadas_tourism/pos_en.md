@@ -261,7 +261,7 @@ Es tradición de la zona comerla hervida con el asado, o frita como snack
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/mandiocafrita.jpg" />
     <br>
-    <small>Milanesa a Caballo</small>
+    <small>Mandioca Frita</small>
 </div>
 
 ### 25 de Mayo: El Locro
