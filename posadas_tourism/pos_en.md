@@ -1,234 +1,165 @@
 # Posadas
 
-**Aclaración: Esta página fue desarrollada a modo informativo. Bajo ningún
-concepto la organización ni la universidad se hacen
-responsables por contratiempos relacionados con servicios contratados.
-La información vertida en esta guía puede cambiar por las fluctuaciones
-cambiarias o cambios en tarifas de las empresas.**
+**Disclaimer: This web page was developed for information. The organization or university don't become responsible for mishaps related to contracted services. The information contained in this guide may change due to fluctuations exchange rates or changes in the companies.**
 
 
-Mas Información:
+More information:
 
-- [Viajar a Posadas](/venue/traveling)
-- [Hoteles](/venue/accomodation)
-- Turismo (Comming soon!)
+- [Tourism Posadas](/venue/traveling)
+- [Hotels](/venue/accomodation)
+- Tourism (Comming soon!)
 
 
-## La Costanera de Posadas
+## The costal road of the city of Posadas
 
-El mayor atractivo turístico de la ciudad es sin dudas la **Costanera**
+The biggest tourist attraction of the city is undoubtedly the **Costanera** (costal road)
 
-La Costanera Monseñor Kemerer es la avenida que bordea al río Paraná en la
-ciudad de Posadas, en la Argentina.
+The costal road Costanera Monsignor Kemerer is the avenue that runs along the Parana River in the city of Posadas, in Argentina.
 
-La avenida fue diseñada con el único propósito de paseo, motivo por el cual la
-circulación está restringida a una velocidad máxima de 30 km/h y la misma se
-comunica con el resto de la ciudad con muy pocos accesos.
+The avenue was designed with the sole purpose to walk, why circulation is restricted to a maximum speed of 30 km/h and it communicates with the rest of the city with very few accesses.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/costanera.jpg" />
 </div>
 
-La construcción de tamaña obra cambió el concepto turístico de la ciudad de
-Posadas, la cual comenzó  a ser reconocida por entre los visitantes por la
-belleza de sus paisajes y el movimiento diurno y nocturno de la misma.
+The construction of this great work changed the touristic concept of the city of Posadas, which began to be recognized among visitors for the beauty of its landscapes and its movement, day and night.
 
-## Gastronomía
+## Gastronomy
 
-Además del asado y otras comidas típicas argentinas, en misiones se acostumbra
-también las comidas típicas de la hermana República del Paraguay.
+Besides the barbecue and other typical Argentine meals, in Misiones is also usually the typical foods of the sister Republic of Paraguay.
 
-### Lo típico de la ciudad: Pizzas Rellenas
+### Typical of the city: Stuffed Pizzas
 
-La pizza en Argentina es una institución por la gran cantidad de inmigrantes
-italianos que llegaron al Río de la Plata.
+The pizza in Argentina is an institution for the large number of Italian immigrants who arrived in the Río de la Plata.
 
-En posadas es particularmente popular la Pizza Rellena. Una especie de Tarta
-que contiene los típicos ingredientes que posee una pizza.
+In Posadas is particularly popular Stuffed Pizza. A kind of cake that contains the typical ingredients having a pizza.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/lospinos.png" />
 </div>
 
-**Donde Comer:** Fundamentalmente en **Pizzería Los Pinos**
-(Buenos Aires y Sarmiento) pero casi todas las pizzerías la ofrecen.
+**Where to eat**: ** Mainly in **Pizzería Los Pinos**
+(Buenos Aires and Sarmiento) but almost all the pizzerias offer that.
 
 ### Regional: La Chipa
 
-La "chipa" o "chipá" (la palabra no tiene género por ser un
-término en lengua guaraní) es un pan pequeño hecho con almidón de mandioca,
-queso duro, leche, huevos, manteca y sal.
+The "chipa" or "chipá" (the word has no gender, because it is a
+term in Guarani language) is a small bread made from cassava starch, hard cheese, milk, eggs, butter and salt.
 
-Esta emparentado con el *Pão de queijo* brasileño, el cual se cree que
-evolucionó de la chipa.
+This related to the Brazilian *Pão de queijo*, which is believed to
+evolved from the chipa.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/chipa.jpeg" />
 </div>
 
-**Donde Comer:** Casi todas las panaderías, supermercados y vendedores
-ambulantes de la ciudad venden chipas de excelente calidad.
+**Where to eat**: Almost all bakeries, supermarkets and street vendors of the city sell chipas of excellent quality.
 
 
-### Regional: El Mbejú (Mbeyú)
+### Regional: The Mbejú (Mbeyú)
 
-El mbeyú (escrito en guaraní como mbeju -se pronuncia en todos los casos mbeyú
-, o abreviadamente, "beyú"-), es un plato propio y típico de Paraguay y del
-Nordeste argentino. Se trata de un panqueque de almidón
+The mbeyú (written in Guarani as mbeju, pronounced in all cases mbeyú or abbreviated, "beyú" -), is an own and typical dish of Paraguay and Argentina's Northeast. This is a pancake starch.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/mbeyu_1.png" />
 </div>
 
-Es una muestra sólida de la gastronomía paraguaya, sumamente ricos en calorías.
-Según algunos eruditos de la historia social de Paraguay, toda la gastronomía
-popular Paraguaya, que se establece como industria pequeña de la familia
-después de Guerra de Paraguay contra La alianza triple
-(La Argentina, El Brasil y Uruguay, entre 1864 y 1870), es realmente
-abundante en contenido calórico, debido a la situación que superó al país
-después del conflicto.
+It is a solid sample of Paraguayan cuisine, extremely rich in calories. According to some scholars of social history of Paraguay, all the Paraguayan popular gastronomy, that is set as small family industry after Paraguayan War against the Triple Alliance (Argentina, Brazil and Uruguay, between 1864 and 1870), is really abundant in caloric content because the resulting situation in the country after the conflict.
 
-**Donde Comer:**
+**Where to eat:**
 
-### Regional: El Reviro
+### Regional: The Reviro
 
-El reviro esta tan arraigado a nosotros que hay casas en las que nunca falta
-como el pan que se utiliza para acompañar a las comidas. Los días de lluvia son
-especiales para hacerlo acompañado de mate cocido, es como la torta frita que
-se come bastante en otros lugares de Argentina. Es también motivo para
-reuniones entre amigos, acompañando el famoso ticue-í (especie de preparado
-con carne), con huevo, tomate y muchas otras formas.
+The reviro is so ingrained in Posadas that there are houses that never lacks that like bread used to accompany meals. Rainy days are special to make accompanied by "mate cocido", it's like fried cake that is eaten a lot in other places in Argentina. It is also cause for meetings between friends, accompanying the famous ticue-í (sort of prepared meat), egg, tomato and many other forms.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/REVIRO.jpg" />
 </div>
 
-**Donde Comer:**
+**Where to eat:**
 
 ### Regional: Caburé
 
-El caburé es una comida típica del Paraguay, pero la cercanía territorial y
-cultural con la provincia de Misiones en Argentina
+The caburé is a typical food of Paraguay, but the territorial and cultural proximity to the province of Misiones in Argentina, makes this an everyday and also traditional food in the Argentine Northeast where corn flour and cassava are fundamental basis of regional cuisine.
 
-El caburé misionero tiene que tener buena margarina, buen queso y mucho huevo.
-Cambia el sabor con el de la chipa regular y es más blando.
+The caburé of Misiones must have good margarine, cheese and much good egg. Flavor change with regular chipa and is softer.
 
-El Caburé se hace con una masa de almidón de mandioca un poco más dura que la
-de chipas al horno. Tradicionalmente se las cocinaba en una rama de naranjo,
-previamente descortezada. Actualmente se usa un palo de madera que no tenga
-pintura ni barniz. La masa se envuelve en la punta del palo y se asan sobre
-las brasas girando lentamente hasta que se cocinen.
+The Caburé is done with a mass of cassava starch, a little tougher than chipas in the oven. Traditionally they are cooked in orange branch previously debarked. Currently a wooden stick that has no paint or varnish is used. The dough is wrapped in tip of stick and roasted over the coals, rotating slowly until cooked.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/cabure.jpg" />
 </div>
 
-**Donde Comer:** Hay ventas ambulantes en la Costanera de Posadas y son
-sensiblemente mas caros que las Chipas
+**Where to eat:** There are street vendors on the Costanera of Posadas and are significantly more expensive than Chipas
 
-### Regional: Sopa Paraguaya
+### Regional: Paraguayan soup
 
-La sopa paraguaya es un plato típico de la gastronomía de Paraguay producto
-del sincretismo guaraní y español. Los guaraníes acostumbraban a consumir
-comidas pastosas elaboradas con harina de maíz o de mandioca envueltas en hojas
-de güembé o banana y cocinadas entre ceniza caliente. Los jesuitas
-(en su mayoría españoles), introdujeron el uso de: queso, huevos y leche
-(aditivos que fueron agregados a las comidas preparadas por los guaraníes).
-Por esto, la sopa paraguaya se trata de un bizcocho esponjoso salado, de muy
-rico contenido calórico y proteico.
+The Paraguayan soup is a typical dish of the cuisine of Paraguay, product of Guarani and Spanish syncretism. The Guarani accustomed to eating pasty meals prepared with corn or cassava flour wrapped in banana or güembé leaves and cooked over hot ash. The Jesuits (mostly Spanish), introduced the use of: cheese, eggs and milk (additives were added to the meals prepared by the Guarani). Therefore, the Paraguayan soup is a savory sponge cake, very rich in calories and protein.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/sopa-paraguaya.JPG" />
 </div>
 
-**Donde Comer:**
+**Where to eat:**
 
 
-### El clásico Argentino: Asado
+### The Argentine classic: Asado (BBQ)
 
-En Manual del Asador Argentino, de Raúl Mirad, se cuentan las impresiones de
-un jesuita italiano que anduvo por las pampas a comienzos de los 1700. Allí el
-misionero se impresiona por los gauchos y su destreza para faenar la carne,
-colocarla en palos que clavaban en el suelo, inclinados sobre una fogata bajo
-las estrellas. Esa misma imagen impresionó a Charles Darwin, quien llegó a
-tierras argentinas en 1832 y que un año después ya se sentía parte de la
-pampa, como escribía a su hermana en una carta citada por La Nación:
+In the Argentine BBQ Manual, Raul Mirad,  tells the impressions of an Italian Jesuit who wandered the pampas in the early 1700. There, the missionary was impressed by the gauchos and their ability to prepare the meat, put on sticks that dug into the ground, tilted over a campfire under the stars. That same image impressed Charles Darwin, who arrived in Argentine territory in 1832 and one year later he already felt part of the pampas, as he wrote to his sister in a letter quoted by La Nación: 
 
-    "Me he convertido en todo un gaucho, tomo mi mate y fumo mi cigarro y
-     después me acuesto cómodo, con los cielos como toldo, como si estuviera
-     en una cama de pluma. Es una vida tan sana, todo el día encima del
-     caballo, comiendo nada más que carne y durmiendo en medio de un viento
-     fresco...".
+    "I've become a gaucho, I take my 'mate' and smoke my cigarette
+     and then I sleep comfortable with the heavens as awning, as if 
+     I were in a feather bed. It's such a healthy lifestyle, all day 
+     on the horse, eating nothing but meat and sleeping in the 
+     middle of a cool wind ... ".
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/asado.jpeg" />
 </div>
 
-**Donde Comer:** De las parrillas en la zona centrica se destacan: **Espeto del
-Rey** (Ayacucho 2404, a 300 mts de la universidad), **Asador el Rancho**
-(Costanera y Guacurary) y  **La Nueva Rueda** (Costanera y Pedernera)
+**Where to eat:** Main barbecue restaurants in the central area: **Espeto del Rey** (Ayacucho 2404, 300 mts from the university), **Asador el Rancho** (Costanera and Guacurary) and **La Nueva Rueda** (Costanera and Pedernera).
 
-### Diferentes en cada región: Empanadas
+### Different in each region: Empanadas
 
-El asado lleva su tiempo Hay que esperar como una hora para que el fuego
-esté a punto para colocar la carne. Por eso, hay que sabe esperar, y tomar
-vino, y comer empanadas mientras se conversa y se llega al momento clave.
+The roast takes time, wait about one hour for the fire
+be ready to place the meat. Therefore, we must know to wait, drinking
+wine and eat empanadas while chatting and reaches the tipping point.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/empanadas.jpeg" />
 </div>
 
-Una empanada es una fina masa de pan, masa quebrada u hojaldre rellena con una
-preparación salada o dulce y cocida al horno o frita.
-El relleno puede incluir carnes rojas o blancas, pescado, verduras o fruta.
+A empanada is a thin bread dough, shortcrust pastry or puff pastry stuffed with a savory or sweet preparation and can be made baked or fried. The stuffing may include red or white meats, fish, vegetables or fruit.
 
-Las empanadas son un plato tradicional de la mayoría de las cocinas de los
-países de habla hispana.
+The empanadas are a traditional dish of most cuisines of Spanish-speaking countries.
 
-**Donde Comer:** Suelen venderse en los supermercados, cualquier restaurante y
-pizzería así como algunas panaderías.
+**Where to eat**: usually sold in supermarkets, any restaurant and pizzeria and some bakeries.
 
-### Choripan
+### Choripán
 
-Se ha descrito que en la región del Río de la Plata el origen del choripán se
-remonta a mediados del siglo XIX, cuando en las zonas rurales los gauchos
-realizaban asados con motivo de alguna celebración, se dio inicio al hábito de
-comer el chorizo dentro de un pan. Esta práctica con el tiempo llegó a las
-ciudades y se popularizó en el entorno urbano.
+Described in the Rio de la Plata the origin of choripán dates back to the mid-nineteenth century, when in rural areas the gauchos prepared the roast for some celebration, began the habit of eating the sausage inside bread. This practice over time came to the cities and became popular in the urban environment.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/choripan.jpeg" />
 </div>
 
-**Donde Comer:** Cualquiera de las parrillas que sirven asados suelen ofrecer
-choripanes. Es tradición también los puestos callejeros que suelen hacerlos
-mas pesados y con mas condimentos.
+**Where to eat:** Any one of the barbecue restaurants usually offer choripanes. It is also traditional that the street vendors, that usually prepare the choripán, do it heavier and with more seasoning.
 
 ### Lomito
 
-El lomito o sándwich de lomo es un sándwich típico de la gastronomía de Argentina,
-(por ejemplo, en la región de Cuyo y la provincia argentina de Córdoba es muy
-popular). Su forma habitual de consumo consiste en un trozo de lomo de ternera
-fileteado, queso, jamón, huevo frito, tomate y condimento entre dos panes que
-puede estar levemente tostados
+The lomito or tenderloin sandwich is a typical sandwich of the gastronomy of Argentina, (for example, in the Argentine region of Cuyo and Córdoba is very popular). Their usual form of consumption consists of a piece of beef tenderloin fillet, cheese, ham, fried egg, tomato and seasoning between two slices of bread, may be slightly toasted.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/lomito.jpg" />
 </div>
 
-**Donde Comer:** suelen servirse en las Pizzerías.
+**Where to eat:** usually served in pizzerias.
 
 ## Milanesas
 
-La milanesa es un filete fino, normalmente de carne vacuna, pasado por huevo
-batido y luego por pan rallado, que se cocina frito o (menos comúnmente) al
-horno. Por extensión, se llama milanesa a cualquier rebanada de un ingrediente
-rebozado y frito: hay así milanesas de pollo, de pescado, de soja, de
-berenjena, de mozzarella, etc.
+The milanesa is a fine steak, usually beef, passed in beaten egg and then breadcrumbs, which is fried or (less commonly) baked. By extension, it is called milanesa any slice of an ingredient batter and fried, so there are milanesa made with chicken, fish, soy, eggplant, mozzarella, etc.
 
-La milanesa puede ser consumida «al plato» (servida en un plato, normalmente
-con una guarnición como ensalada, puré, o papas fritas) o en sándwich
-(sándwich de milanesa)
+The milanesa can be consumed «al plato» (served on a plate, usually with a garnish like salad, potatod mashed or fries) or sandwich (milanesa sandwich)
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milanga.jpeg" />
@@ -236,9 +167,7 @@ con una guarnición como ensalada, puré, o papas fritas) o en sándwich
     <small>Sandwich Milanesa</small>
 </div>
 
-La milanesa a caballo es una milanesa frita de carne vacuna con dos huevos
-fritos encimados (cuando es sólo uno, se llama "milanesa a medio caballo").
-Generalmente se acompaña con una guarnición de papas fritas.
+The "milanesa a caballo" is a milanesa piled up with two fried eggs (when have only one is called "milanesa a medio caballo"). Usually accompanied with a garnish of fries.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milanesa.jpeg" />
@@ -246,116 +175,86 @@ Generalmente se acompaña con una guarnición de papas fritas.
     <small>Milanesa a Caballo</small>
 </div>
 
-**Donde Comer:** Pizzerías, restaurantes, vendedores ambulantes
+**Where to eat:** Pizzerias, restaurants, street vendors.
 
-### Mandioca y Mandioca Frita (Yuca)
+### Mandioca (Cassava) y Mandioca Frita (Fried Cassava)
 
-Manihot esculenta, llamada comúnmente yuca, e internacionalmente reconocida
-como mandioca, tapioca, guacamota (del náhuatl cuauhcamohtli en México),
-casabe o casava, es un arbusto perenne de la familia de las euforbiáceas
-extensamente cultivado en Sudamérica, África y el Pacífico por sus tubérculos
-con almidones de alto valor alimentario.
+Manihot esculenta, with common names cassava, Brazilian arrowroot, manioc, mandioca, tapioca, guacamota, a woody shrub of the Euphorbiaceae (spurge) family native to South America, is extensively cultivated as an annual crop in tropical and subtropical regions for its edible starchy tuberous root, a major source of carbohydrates.
 
-Es tradición de la zona comerla hervida con el asado, o frita como snack
+It is tradition in this area eat that boiled with barbecue or fried as a snack.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/mandiocafrita.jpg" />
     <br>
-    <small>Mandioca Frita</small>
+    <small>Mandioca Frita (Fried Cassava)</small>
 </div>
 
-### 25 de Mayo: El Locro
+### May 25: El Locro
 
-El locro (del quechua ruqru o luqru) es un guiso a base de zapallo, porotos,
-maíz o papas que se consume en la zona de la cordillera de los Andes, desde
-Argentina, el norte de Chile y hasta el sur de Colombia, pasando por Bolivia,
-Ecuador, Paraguay y Perú.
+Locro (Quechua ruqru or luqru) is a stew made with pumpkin, beans, corn or potatoes consumed in the region of the Andes, from Argentina, northern of Chile and  to southern of Colombia, passing by Bolivia, Ecuador, Paraguay and Peru. 
 
-Suerte de guiso cuyo origen es indudablemente prehispánico y preincaico,
-típico de varios pueblos andinos que basaban gran parte de su dieta en el maíz
-o los porotos y la papa.
+Kind of stew whose origin is undoubtedly pre-Hispanic and pre-Incaic, typical of several Andean peoples who based a lot of their diet on corn or beans and potatoes.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/locro.jpeg" />
 </div>
 
-Alimento con muchas calorías y nutrientes el locro resulta muy adecuado para
-consumir durante los inviernos o en zonas frías. Tradicionalmente se consume
-de manera masiva el **25 de mayo**, día en que se conmemora la formación del
-primer gobierno patrio Argentino el cual se estableció el 25 de mayo de 1810.
-Por este motivo ha pasado de ser un plato regional y tradicional a ser uno de
-los platos nacionales de Argentina para festejar las fechas patrias
+Food high in calories and nutrients, el locro is very suitable for consumption during the winter or in cold areas. Traditionally consumed en masse during the **May 25**, in which the formation of the first Argentine National Government is celebratted, established in May 25, 1810. For this reason it has been transformed from a regional and traditional dish to be one of the national dishes of Argentina to celebrate national holidays.
 
-**Donde Comer:** Para los que aun estén el 25 de mayo, casi todos los
-restaurantes los ofrecen en e país, así como se pueden comprar en algunos
-colegios que ofrecen a la venta.
+**Where to eat**: For those who still are the May 25, almost all restaurants in the country offer that and also can be purchased in some schools.
 
 
-### Cafes Estilo Argentino
+### Cafés Argentine Style
 
-Los bares de Buenos Aires forman parte de la cultura de la ciudad, de las
-costumbres de sus habitantes y del circuito turístico moderno de dicha urbe.
-Han sido objeto de estudio de distintos historiadores, inspiradores de
-innumerables creaciones artísticas y tradicional lugar de reunión de los
-porteños.
+The bars of Buenos Aires are part of the culture of the city, the customs of its inhabitants and the modern touristic circuit of the city. They have been studied by various historians, inspiring countless artistic creations and traditional meeting place to the porteños. 
 
-Esta tradición se ha esparcido por todo el pais y Posadas tiene particularmente
-dos muy buenos cafés Argentinos: Bar Español (2067 Bolívar) y Café Vitrage
-(Bolívar y Colon)
+This tradition has spread throughout the country and particularly Posadas has two very good Argentine cafés: Bar Español (2067 Bolívar) and Café Vitrage (Bolívar and Colon).
 
 <div style="text-align:center">
     <img width="80%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/vitrage.jpeg" />
     <br>
-    <small>Bar Español y Café Vitrage</small>
+    <small>Bar Español and Café Vitrage</small>
 </div>
 
 
-### Cafe estilo *"Starbucks"*
+### Café *"Starbucks"* Style
 
-El único local de este estilo es **Bonafide Expreso** en Córdoba 2115
+The unique local with this style is **Bonafide Expreso** in Córdoba 2115
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/bonafide.png" />
 </div>
 
 
-### Pescados Regionales
+### Regional Fishes
 
-Los peces que surcan el Paraná son platos típicos de la zona. Podemos Destacar
-el *Surubí* (especie de bagre), el *Dorado* (El mas delicioso) y la *Boga*.
+The fishes that cross the Parana River are typical local dishes. We highlight the *Surubí* (kind of catfish), the *Dorado* (the most delicious) and *Boga*.
 
-**Donde Comer:**
-El restaurante con mejor referencias en la ciudad para este tipo de platos es
-**Itakua** (escrito Itakva en la cartelería)
+**Where to eat*: The restaurant with best references in the town with these kind of dishes is **Itakua** (written Itakva on the posters).
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/itakua.jpg" />
 </div>
 
-## Compras
+## Shopping
 
-### Vinos, dulce de leche, Yerba y alfajores
+### Wines, milk caramel, "yerba mate" and alfajores
 
-La alternativa mas simple de comprar esto es ir a cualquier supermercado, el
-cual el mas cerano se encuentra a 350 metros.
+The simplest alternative of buying this is go to any supermarket, which the nearest is 350 meters from the university.
 
-En estos lugares usted podrá encontrar una amplia variedad de productos por
-diferentes precios.
+In these places you will find a wide variety of products for different prices.
 
 <div style="text-align:center">
     <img width="80%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/alfajores.jpg" />
     <br>
-    <small>Alfajores y gondolas de supermecados de Yerba, Dulce de Leche y vinos argentinos</small>
+    <small>Alfajores and supermarket shelves with yerba, caramel and Argentine wines</small>
 </div>
 
 
 ### Mates
 
-El lugar para encontrar TODO lo relacionado a Mates es la **Galería del Mate**
-(R. Saenz Peña y Costanera), **La Placita** (Bolívar y R. Saenz Peña) y
-**La Placita del Puente** (Mitre y R. Saenz Peña).
+The place to find EVERYTHING related to "Mates" is the **Galería del Mate**(R. Saenz Peña and Costanera), **La Placita** (Bolívar and R. Saenz Peña) and "La Placita del Puente" (Mitre and R. Saenz Peña).
 
 <div style="text-align:center">
     <img width="70%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/gdm.png" />
 </div>
-
