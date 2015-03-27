@@ -35,7 +35,7 @@ belleza de sus paisajes y el movimiento diurno y nocturno de la misma.
 
 ## Gastronomía
 
-Además del asado y otras comidas típicas argentinas, en misiones se acostumbra
+Además del asado y otras comidas típicas argentinas, en Misiones se acostumbra
 también las comidas típicas de la hermana República del Paraguay.
 
 ### Lo típico de la ciudad: Pizzas Rellenas
@@ -43,7 +43,7 @@ también las comidas típicas de la hermana República del Paraguay.
 La pizza en Argentina es una institución por la gran cantidad de inmigrantes
 italianos que llegaron al Río de la Plata.
 
-En posadas es particularmente popular la Pizza Rellena. Una especie de Tarta
+En Posadas es particularmente popular la Pizza Rellena. Una especie de Tarta
 que contiene los típicos ingredientes que posee una pizza.
 
 <div style="text-align:center">
@@ -59,7 +59,7 @@ La "chipa" o "chipá" (la palabra no tiene género por ser un
 término en lengua guaraní) es un pan pequeño hecho con almidón de mandioca,
 queso duro, leche, huevos, manteca y sal.
 
-Esta emparentado con el *Pão de queijo* brasileño, el cual se cree que
+Está emparentado con el *Pão de queijo* brasileño, el cual se cree que
 evolucionó de la chipa.
 
 <div style="text-align:center">
@@ -82,7 +82,7 @@ Nordeste argentino. Se trata de un panqueque de almidón
 
 Es una muestra sólida de la gastronomía paraguaya, sumamente ricos en calorías.
 Según algunos eruditos de la historia social de Paraguay, toda la gastronomía
-popular Paraguaya, que se establece como industria pequeña de la familia
+popular paraguaya, que se establece como industria pequeña de la familia
 después de Guerra de Paraguay contra La alianza triple
 (La Argentina, El Brasil y Uruguay, entre 1864 y 1870), es realmente
 abundante en contenido calórico, debido a la situación que superó al país
@@ -92,7 +92,7 @@ después del conflicto.
 
 ### Regional: El Reviro
 
-El reviro esta tan arraigado a nosotros que hay casas en las que nunca falta
+El reviro está tan arraigado a nosotros que hay casas en las que nunca falta,
 como el pan que se utiliza para acompañar a las comidas. Los días de lluvia son
 especiales para hacerlo acompañado de mate cocido, es como la torta frita que
 se come bastante en otros lugares de Argentina. Es también motivo para
@@ -108,7 +108,7 @@ con carne), con huevo, tomate y muchas otras formas.
 ### Regional: Caburé
 
 El caburé es una comida típica del Paraguay, pero la cercanía territorial y
-cultural con la provincia de Misiones en Argentina
+cultural con la provincia de Misiones en Argentina hace de este alimento algo cotidiano y tradicional también en el Nordeste argentino, donde la harina de maíz y la mandioca son base fundamental de la gastronomía regional.
 
 El caburé misionero tiene que tener buena margarina, buen queso y mucho huevo.
 Cambia el sabor con el de la chipa regular y es más blando.
@@ -117,7 +117,7 @@ El Caburé se hace con una masa de almidón de mandioca un poco más dura que la
 de chipas al horno. Tradicionalmente se las cocinaba en una rama de naranjo,
 previamente descortezada. Actualmente se usa un palo de madera que no tenga
 pintura ni barniz. La masa se envuelve en la punta del palo y se asan sobre
-las brasas girando lentamente hasta que se cocinen.
+las brasas, girando lentamente hasta que se cocinen.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/cabure.jpg" />
@@ -128,7 +128,7 @@ sensiblemente mas caros que las Chipas
 
 ### Regional: Sopa Paraguaya
 
-La sopa paraguaya es un plato típico de la gastronomía de Paraguay producto
+La sopa paraguaya es un plato típico de la gastronomía de Paraguay, producto
 del sincretismo guaraní y español. Los guaraníes acostumbraban a consumir
 comidas pastosas elaboradas con harina de maíz o de mandioca envueltas en hojas
 de güembé o banana y cocinadas entre ceniza caliente. Los jesuitas
@@ -170,9 +170,9 @@ Rey** (Ayacucho 2404, a 300 mts de la universidad), **Asador el Rancho**
 
 ### Diferentes en cada región: Empanadas
 
-El asado lleva su tiempo Hay que esperar como una hora para que el fuego
-esté a punto para colocar la carne. Por eso, hay que sabe esperar, y tomar
-vino, y comer empanadas mientras se conversa y se llega al momento clave.
+El asado lleva su tiempo, hay que esperar como una hora para que el fuego
+esté a punto para colocar la carne. Por eso, hay que saber esperar, tomar
+vino y comer empanadas mientras se conversa y se llega al momento clave.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/empanadas.jpeg" />
@@ -186,9 +186,9 @@ Las empanadas son un plato tradicional de la mayoría de las cocinas de los
 países de habla hispana.
 
 **Donde Comer:** Suelen venderse en los supermercados, cualquier restaurante y
-pizzería así como algunas panaderías.
+pizzería, así como algunas panaderías.
 
-### Choripan
+### Choripán
 
 Se ha descrito que en la región del Río de la Plata el origen del choripán se
 remonta a mediados del siglo XIX, cuando en las zonas rurales los gauchos
@@ -202,7 +202,7 @@ ciudades y se popularizó en el entorno urbano.
 
 **Donde Comer:** Cualquiera de las parrillas que sirven asados suelen ofrecer
 choripanes. Es tradición también los puestos callejeros que suelen hacerlos
-mas pesados y con mas condimentos.
+más pesados y con más condimentos.
 
 ### Lomito
 
@@ -210,7 +210,7 @@ El lomito o sándwich de lomo es un sándwich típico de la gastronomía de Arge
 (por ejemplo, en la región de Cuyo y la provincia argentina de Córdoba es muy
 popular). Su forma habitual de consumo consiste en un trozo de lomo de ternera
 fileteado, queso, jamón, huevo frito, tomate y condimento entre dos panes que
-puede estar levemente tostados
+pueden estar levemente tostados
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/lomito.jpg" />
@@ -228,7 +228,7 @@ berenjena, de mozzarella, etc.
 
 La milanesa puede ser consumida «al plato» (servida en un plato, normalmente
 con una guarnición como ensalada, puré, o papas fritas) o en sándwich
-(sándwich de milanesa)
+(sándwich de milanesa).
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milanga.jpeg" />
@@ -256,7 +256,7 @@ casabe o casava, es un arbusto perenne de la familia de las euforbiáceas
 extensamente cultivado en Sudamérica, África y el Pacífico por sus tubérculos
 con almidones de alto valor alimentario.
 
-Es tradición de la zona comerla hervida con el asado, o frita como snack
+Es tradición de la zona comerla hervida con el asado, o frita como snack.
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/mandiocafrita.jpg" />
@@ -279,19 +279,19 @@ o los porotos y la papa.
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/locro.jpeg" />
 </div>
 
-Alimento con muchas calorías y nutrientes el locro resulta muy adecuado para
+Alimento con muchas calorías y nutrientes, el locro resulta muy adecuado para
 consumir durante los inviernos o en zonas frías. Tradicionalmente se consume
 de manera masiva el **25 de mayo**, día en que se conmemora la formación del
-primer gobierno patrio Argentino el cual se estableció el 25 de mayo de 1810.
+primer gobierno patrio Argentino, el cual se estableció el 25 de mayo de 1810.
 Por este motivo ha pasado de ser un plato regional y tradicional a ser uno de
-los platos nacionales de Argentina para festejar las fechas patrias
+los platos nacionales de Argentina para festejar las fechas patrias.
 
-**Donde Comer:** Para los que aun estén el 25 de mayo, casi todos los
-restaurantes los ofrecen en e país, así como se pueden comprar en algunos
+**Donde Comer:** Para los que aún estén el 25 de mayo, casi todos los
+restaurantes los ofrecen en el país, así como se pueden comprar en algunos
 colegios que ofrecen a la venta.
 
 
-### Cafes Estilo Argentino
+### Cafés Estilo Argentino
 
 Los bares de Buenos Aires forman parte de la cultura de la ciudad, de las
 costumbres de sus habitantes y del circuito turístico moderno de dicha urbe.
@@ -301,7 +301,7 @@ porteños.
 
 Esta tradición se ha esparcido por todo el pais y Posadas tiene particularmente
 dos muy buenos cafés Argentinos: Bar Español (2067 Bolívar) y Café Vitrage
-(Bolívar y Colon)
+(Bolívar y Colon).
 
 <div style="text-align:center">
     <img width="80%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/vitrage.jpeg" />
@@ -310,7 +310,7 @@ dos muy buenos cafés Argentinos: Bar Español (2067 Bolívar) y Café Vitrage
 </div>
 
 
-### Cafe estilo *"Starbucks"*
+### Café estilo *"Starbucks"*
 
 El único local de este estilo es **Bonafide Expreso** en Córdoba 2115
 
@@ -321,12 +321,12 @@ El único local de este estilo es **Bonafide Expreso** en Córdoba 2115
 
 ### Pescados Regionales
 
-Los peces que surcan el Paraná son platos típicos de la zona. Podemos Destacar
-el *Surubí* (especie de bagre), el *Dorado* (El mas delicioso) y la *Boga*.
+Los peces que surcan el Paraná son platos típicos de la zona. Podemos destacar
+el *Surubí* (especie de bagre), el *Dorado* (el más delicioso) y la *Boga*.
 
 **Donde Comer:**
-El restaurante con mejor referencias en la ciudad para este tipo de platos es
-**Itakua** (escrito Itakva en la cartelería)
+El restaurante con mejor referencias en la ciudad para estos tipos de platos es
+**Itakua** (escrito Itakva en la cartelería).
 
 <div style="text-align:center">
     <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/itakua.jpg" />
@@ -336,8 +336,8 @@ El restaurante con mejor referencias en la ciudad para este tipo de platos es
 
 ### Vinos, dulce de leche, Yerba y alfajores
 
-La alternativa mas simple de comprar esto es ir a cualquier supermercado, el
-cual el mas cerano se encuentra a 350 metros.
+La alternativa más simple de comprar esto es ir a cualquier supermercado, el
+cual el más cercano se encuentra a 350 metros.
 
 En estos lugares usted podrá encontrar una amplia variedad de productos por
 diferentes precios.
@@ -345,7 +345,7 @@ diferentes precios.
 <div style="text-align:center">
     <img width="80%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/alfajores.jpg" />
     <br>
-    <small>Alfajores y gondolas de supermecados de Yerba, Dulce de Leche y vinos argentinos</small>
+    <small>Alfajores y góndolas de supermercados de Yerba, Dulce de Leche y vinos argentinos</small>
 </div>
 
 
@@ -358,4 +358,3 @@ El lugar para encontrar TODO lo relacionado a Mates es la **Galería del Mate**
 <div style="text-align:center">
     <img width="70%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/gdm.png" />
 </div>
-
