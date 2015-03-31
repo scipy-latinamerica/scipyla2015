@@ -2,7 +2,7 @@
 
 **Disclaimer: This web page was developed for information. The Organization or college don't become responsible for mishaps related accommodations. The information contained in this guide may change due to fluctuations exchange rates or changes in the companies.**
 
-In response to request from the organization, the company Tourism Guarani ** ** (<http://guaraniturismo.tur.ar/>) has contacted different accommodations in the city of Posadas and got discounts for conference attendees. Amounts are in **Argentine Pesos (currency Argentine)**.
+In response to request from the organization, the company **Tourism Guarani** (<http://guaraniturismo.tur.ar/>) has contacted different accommodations in the city of Posadas and got discounts for conference attendees. Amounts are in **Argentine Pesos (currency Argentine)**.
 
 <div style="text-align:center">
     <a href="http://guaraniturismo.tur.ar/" target="_blank">
