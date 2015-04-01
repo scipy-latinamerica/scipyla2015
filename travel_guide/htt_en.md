@@ -1,12 +1,8 @@
-#Consejos al Viajero
+#Advice for Travelers
 
-SciPy Latin America 2015, la tercera conferencia anual de Computación
-Científica con Python se realizará entre los días **20-22 de mayo en la ciudad
-de Posadas, Misiones, Argentina.**
+SciPy Latin America 2015, the third annual conference of Scientific Computing with Python will be held between **May 20-22 in the city of Posadas, Misiones, Argentina.**
 
-La sede de la conferencia será la Universidad Gastón Dachary
-(<http://www.ugd.edu.ar/>), en la intersección de las calles Salta y Colón de
-la ciudad.
+The conference venue will be at the Universidad Gastón Dachary (<http://www.ugd.edu.ar/>), at the intersection of Salta and Columbus streets.
 
 
 <div style="text-align:center">
@@ -15,242 +11,184 @@ la ciudad.
 </div>
 
 
-Para llegar a la ciudad y la universidad se poseen varias alternativas. A
-continuación se listan algunas alternativas de corta, media y larga distancia
-así como transporte urbano para llegar a la conferencia
+There are several alternatives to get to the city and the university. Here are some alternatives for short, medium and long distance and urban transport are listed to get to the conference.
 
-**Aclaración: Todo a continuación son sugerencias para guiar al asistente hacia
-la sede. Bajo ningún concepto la organización ni la universidad se hacen
-responsables por contratiempos en la ruta y la forma de transporte elegida.
-La información vertida en esta guía puede cambiar por las fluctuaciones
-cambiarias o cambios en itinerario de las empresas.**
+**Disclaimer: The information below are suggestions to guide the attendees to the location. Under no circumstances the organization and the university are responsible for mishaps about the travel and the chosen of transportation. The information and statements contained in this guide may change by exchange rate fluctuations or changes in itinerary companies.**
 
 
-##Desde Brasil
+##From Brazil
 
-###Vuelos
+###Flights
 
-La mejor alternativa: Volar hasta Foz do Iguazú cruzar la frontera y tomar un
-bus desde Pto. Iguazu a Posadas
+The best alternative: Fly to Foz do Iguacu, cross the border and take a bus from Puerto Iguazu to Posadas.
 
-<http://www.decolar.com/> o <http://www.despegar.com.ar> para ver costos aéreos
+<http://www.decolar.com/> o <http://www.despegar.com.ar> to check flight costs.
 
-Existen diversos vuelos diarios que conectan Sao Paulo y Río de Janeiro con
-Foz do Iguassu, distante a unos 300km de la ciudad de Posadas.
+There are several daily flights connecting Sao Paulo and Rio de Janeiro to Foz do Iguaçu, located about 300 km from the city of Posadas.
 
-Gol Linhas Aereas (<http://voegol.com>), Azul Linhas Aerea 
-(<http://voeazul.com>) y TAM (<http://tam.com.br>) son algunas de las
-aerolíneas que operan esas rutas.
+*Gol Linhas Aereas* (<http://voegol.com>), *Azul Linhas Aerea* 
+(<http://voeazul.com>) and *TAM* (<http://tam.com.br>) are some of the airlines that operate those routes.
 
-Desde el Aeropuerto de Foz de Iguazú es posible tomar un colectivo urbano hasta
-la terminal de dicha ciudad, y allí tomar el ómnibus internacional que realiza
-el cruce de la frontera hacia Argentina. Tener en cuenta que el colectivo
-internacional no ingresa al predio de la terminal, sino que hay que tomarlo en
-una calle lateral adyacente.
+From the Airport of Foz do Iguaçu, you may take a local bus to the terminal of the city, and then take the international bus that crosses the border into Argentina. Note that international bus does not enter the premises of the terminal, but you have to take it on an adjacent side street.
 
-Existen dos empresas de colectivos argentinas que realizan el servicio
-internacional, y usualmente operan desde las 7 am hasta alrededor de las 18 hs.
-El costo del pasaje ronda los **U$S 3**.
+There are two Argentine buses companies doing international service and usually operate from 7:00 AM to about 6 PM. The fare is around **U$S 3**.
 
-Otra opción debido a la ubicación del aeropuerto de Foz es tomar un colectivo o
-taxi desde la estación aérea hacia la cabecera del Puente Internacional
-Tancredo Neves, y esperar allí el colectivo internacional (evitando así la
-demora del trayecto hasta la terminal urbana que se encuentra en el centro de
-la ciudad).
+Another option, due to the location of the airport of Foz do Iguaçu, is to take a bus or taxi from the airport to the bridgehead of Tancredo Neves International Bridge and wait there for the international bus (thus avoiding the delay of the way to the local terminal, in Foz do Iguaçu, located in downtown).
 
-Tras cruzar la frontera, el colectivo internacional llega hasta la Terminal de
-Ómnibus de Puerto Iguazú, Misiones, Argentina. En el mismo lugar es posible
-tomar un colectivo de media distancia hacia la ciudad de Posadas por un costo
-aproximado de **U$S 18**, capital de la provincia. Dependiendo de la empresa,
-al trayecto demora alrededor de 5 horas.
+After crossing the border, international bus goes to the bus station in Puerto Iguazú, Misiones, Argentina. At the same place you can take a bus to middle distance to the city of Posadas, capital of the province, at an approximate cost of **U$S 18**. Depending on the company, the journey takes about 5 hours.
 
-Tengan en cuenta que es importante tomar los colectivos **EXPRESO** o 
-**DIRECTOS** ya  que los otros pueden demorar muchas horas más.
+Please note that it is important to take the buses **EXPRESO** or
+**DIRECTOS** since the other can take many more hours.
 
-Para más información consultar: <http://www.plataforma10.com>,
-<http://www.tigreiguazu.com.ar/> o <http://www.crucerodelnorte.com.ar/>
+For more information, see: <http://www.plataforma10.com>,
+<http://www.tigreiguazu.com.ar/> or <http://www.crucerodelnorte.com.ar/>
 
 ###Bus
 
-También existen servicios de ómnibus larga distancia que tienen como destino
-la ciudad de Posadas partiendo desde Sao Paulo, Rio de Janeiro y Florianopolis.
-Se destaca la empresa Crucero del Norte/Sur para estos traslados
-(<http://www.crucerodelnorte.com.ar/>)
+There are also long-distance bus services that travel to the city of Posadas, starting from Sao Paulo, Rio de Janeiro and Florianopolis. The company Crucero del Norte/Sur (<http://www.crucerodelnorte.com.ar/>) is highlighted for these transfers.
 
-Para más información consultar: <http://www.plataforma10.com>
+For more information, see: <http://www.plataforma10.com>.
 
-##Como llegar desde Buenos Aires a Posadas
+##How to get from Buenos Aires to Posadas
 
 
-Un caso muy típico es llegar desde el exterior al Aeropuerto Internacional de
-Ezeiza. Una ves arribado al País si usted quiere dirigirse a Posadas por Bus
-tendra que dirigirse a la **terminal de ómnibus de Retiro**; y si es por Avion
-tendra que llegar al **Aeropuerto Jorge Newbery (Aeroparque)**. En Ambos caos
-le recomendamos tomar un bus de la empresa Tienda Leon
-(<http://www.tiendaleon.com/home/>) con un costo de **U$S 16** para llegar a
-Aeroparque y **U$S 7** para llegar a Retiro.
+A very typical case is to arrive from other countries to Ezeiza International Airport. Once arrived in the country, if you want to go to Posadas by bus, you need to go to the **Retiro bus terminal**; and if you want to go by plane, you will need to go to **Jorge Newbery Airport (Aeroparque)**. In both cases, we recommend taking a bus of the company Tienda León (<http://www.tiendaleon.com/home/>), at a cost of **U$S 16** to go to Aeroparque or **U$S 7** to go to Retiro.
 
-###Vuelos
+###Flights
 
-Los vuelos con destino a posadas parten del aeropuerto de Jorge Newbery
-(Aeroparque) en varios horarios por un costo aproximado de **U$S 146**.
+The flights to Posadas depart from Jorge Newbery Airport (Aeroparque) at various times with an approximate cost of **U$S 146**.
 
-Para más información consultar: <http://www.despegar.com.ar> o
-<http://www.decolar.com/>
+For more information, see: <http://www.despegar.com.ar> or <http://www.decolar.com/>
 
 
 <div style="text-align:center">
     <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/aeroparque.jpg" />
-    <br/>Aeropuerto Jorge Newbery (Aeroparque)
+    <br/>Jorge Newbery Airport (Aeroparque)
 </div>
 
 
 ###Bus
 
-Hay muchas alternativas para viajar desde Buenos Aires a Posadas, siendo el
-punto mas importante de salida la Estación de Retiro. El costo de un servicio
-cama con comida abordo es de **U$S** 65 (hay varias alternativas en precio y
-servicio) y tiene una duración aproximada de **12 hs**.
+There are many ways to travel from Buenos Aires to Posadas, being the most important starting point Retiro Station. The cost of a ticket to a service bed and onboard food is **U$S 65** (there are several alternatives in price and service) and has a duration of **12 hours**.
 
-Para más información consultar: <http://www.plataforma10.com>
+For more information, see: <http://www.plataforma10.com>
 
-Automóvil Particular
---------------------
+Private car
+-----------
 
-Se recomienda la siguiente ruta (la ruta posee peajes):
+We recommend the following route (the route has tolls):
 
--   Dirigirse por Ruta Nacional 9 hasta empalmar la ruta provincial 6 y cruzar
-    el puente Zárate - Brazo Largo.
--   Dirigirse por la Ruta 14 hasta empalmar ya en misiones con la ruta
-    provincial 105.
+- Go for *Ruta Nacional 9* until joining with the *Ruta Provincial 6* and cross the bridge Zárate - Brazo Largo.
+- Go for *Route 14* until joining, already in Misiones, with the *Ruta Provincial 105*.
 
-Como llegar de Córdoba a Posadas
+From Cordoba to Posadas
 ================================
 
-Vuelos
+Flights
 ------
 
-Los vuelos que unen las localidades de Córdoba y Posadas tienen una conexión en
-el Aeropuerto Jorge Newbery de la ciudad de Buenos Aires (Aeroparque). Además
-de esto el tramo que une Aeroparque con el Aeropuerto Posadas es de pocos
-pasajeros con lo cual su costo es bastante elevado.
-(Aproximadamente **U$S 250**)
+The flights, operated between the cities of Córdoba and Posadas, have a connection at the airport Jorge Newbery in Buenos Aires (Aeroparque). In addition, the section connecting Aeroparque with the "Posadas Airport" is frequented by few passengers and its cost is quite high (approximately **U$S 250**).
 
-Para más información consultar: <http://www.despegar.com.ar> o
-<http://www.decolar.com/>
+For more information, see: <http://www.despegar.com.ar> or
+<http://www.decolar.com/>.
 
 ##Bus
 
 
-Las empresas mas importantes que unen las dos localidades son Crucero del Norte
-(<http://crucerodelnorte.com.ar>) y Zinger (<http://expresosinger.com.ar/>).
-Ambas empresas cuentan con diferentes servicios de comida a bordo en un
-trayecto que dura unas **16 hs** por un costo de unos **U$S 115.**
+The most important companies that connect these two locations are: Crucero del Norte (<http://crucerodelnorte.com.ar>) and Zinger (<http://expresosinger.com.ar/>). Both companies have different food service on board, and the journey lasting about **16 hours** and cost about **U$S 115**.
 
-Para más información consultar: <http://www.plataforma10.com>
+For more information, see: <http://www.plataforma10.com>
 
-##Automóvil Particular
+##Private car
 
-Se recomienda la siguiente ruta (la ruta posee peajes):
+We recommend the following route (the route has tolls):
 
--   Tomar la ruta nacional 19 que une la ciudad de Córdoba con Santa Fé Capital
--   Cruzar a la ciudad de Paraná (Entre Rios) por el túnel subfluvial.
--   Dirigirse por la ruta nacional 12 hasta empalmar con la ruta provincial 127.
--   Continuar con la ruta provincial 127 hasta empalmar con la ruta nacional 14.
--   Continuar por la ruta nacional 14 hasta llegar a la Provincia de
-    Misiones al  empalme con la ruta provincial 105.
--   Continuar por la ruta provincial 105 hasta la ciudad de Posadas
+- Take the *Ruta Nacional 19* which connects the city of Córdoba, Santa Fe Capital.
+- Cross the city of Paraná (Entre Rios) by Subfluvial Tunnel.
+- Go through the *Ruta Nacional 12* until joining with the *Ruta Provincial 127*.
+- Continue along the *Ruta Provincial 127* until joining with the *Ruta Nacional 14*.
+- Continue on the *Ruta Nacional 14* up to the Province of Misiones, to the junction with the *Provincial Ruta 105*.
+- Continue along the *Ruta Provincial 105* until the city of Posadas
 
-##Como llegar de Rosario a Posadas
+##From Rosario to Posadas
 
-###Vuelos
+###Flights
 
-Por la distancia es conveniente tomar vuelos directamente desde el Aeropuerto
-Jorge Newbery de Buenos Aires. Para otras alternativas consultar:
-<http://www.despegar.com.ar> o <http://www.decolar.com/>
+Because of the distance, it is convenient to take flights directly from Jorge Newbery Airport in Buenos Aires. For other alternatives, see: <http://www.despegar.com.ar> or <http://www.decolar.com/>
 
 ###Bus
 
-**U$S 92** semi cama y **U$S 105** el cama x Río Uruguay
+**U$S 92** for the semi-bed service and **U$S 105** for the bed service, by the Río Uruguay.
 
-Para más información consultar: <http://www.plataforma10.com>
+For more information, see: <http://www.plataforma10.com>
 
-###Automóvil Particular
+###Private car
 
-Se recomienda la siguiente ruta (la ruta posee peajes):
+We recommend the following route (the route has tolls):
 
--   Tomar la autopista Rosario-Santa Fe.
--   Cruzar a la ciudad de Paraná (Entre Rios) por el túnel subfluvial.
--   Dirigirse por la ruta nacional 12 hasta empalmar con la ruta provincial 127.
--   Continuar con la ruta provincial 127 hasta empalmar con la ruta nacional 14.
--   Continuar por la ruta nacional 14 hasta llegar a la Provincia de Misiones 
-    al empalme con la ruta provincial 105.
--   Continuar por la ruta provincial 105 hasta la ciudad de Posadas
+- Take the Rosario-Santa Fe highway.
+- Cross to the city of Paraná (Entre Rios) by Subfluvial Tunnel.
+- Go through the *Ruta Nacional 12* to the junction with *Ruta Provincial 127*.
+- Continue on the *Ruta Provincial 127* until the junction with the *Ruta Nacional 14*.
+- Continue on the *Ruta Nacional 14* up to the Province of Misiones, to the junction the *Ruta Nacional 105*.
+- Continue onto *Ruta Provincial 105* until the city of Posadas.
 
 
-##Sistema de Transporte Urbano de Posadas
+##Urban Transport System of the city of Posadas
 
-###Terminal de ómnibus de larga distancia -\> Universidad Gastón Dachary
+###Bus station long distance -\> Universidad Gastón Dachary
 
 <div style="text-align:center">
     <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/posadas_terminal.jpg" />
-    <br/>Terminal de Ómnibus de Posadas
+    <br/>Bus Terminal of Posadas
 </div>
 
 -   **Taxi**
 
-    Pueden tomarse un taxi directamente desde la terminal de ómnibus para
-    llegar a la universidad por un costo aproximado de **U$S 7**.
+    You can take a taxi directly from the Bus Station to get to university at an approximate cost of **U$S 7 **.
 
 
     <div style="text-align:center">
         <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/taxi.jpeg" />
-        <br/>Taxi de Posadas
+        <br/>Taxi of Posadas
     </div>
 
 
--   **Bus Urbano - Línea 14B**
+-   **Urban Bus - Line 14B**
 
-    Frecuencia: cada X minutos
+    Frequency: every X minutes
 
-    Costo: **U$S 1**
+    Cost: **U$S 1 **
 
-    Recorrido: Avda. Sta. Catalina, Avda. Cte. Andresito, Avda. Lavalle, Avda.
-    Chacabuco, Avda. F. de Haro, Avda. Mitre, Buenos Aires. Descender en calle
-    Tucumán
+    Tour: Avenida Santa Catalina, Avenida Comandante Andresito, Avenida Lavalle, Avenida Chacabuco, Avenida Francisco de Haro, Avenida Mitre, Buenos Aires street. Get off at Tucumán street.
 
--   **Bus Urbano - Línea 15A**
+-   **Urban Bus - Line 15A**
 
-    Frecuencia: cada X minutos
+    Frequency: every X minutes
 
-    Costo: **U$S 1**
+    Cost: **U$S 1 **
 
-    Recorrido: Avda. Sta. Catalina, Av Sta. Cruz, Avenida Lavalle, Avenida L. y
-    Planes, Avenida Mitre, Ayacucho. Descender en calle Tucumán
+    Tour: Avenida Santa Catalina, Santa Cruz Avenue, Avenida Lavalle, Avenida López y Planes, Avenida Mitre, Ayacucho street. Get off at Tucumán street.
 
-Mas información de los Recorridos:
+More information about the tours:
 <http://www.argentino.com.ar/posadas/recorridos+de+colectivos>
 
-###Aeropuerto -\> Universidad Gastón Dachary
+###Airport -\> Universidad Gastón Dachary
 
 
 <div style="text-align:center">
     <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/travel_guide/imgs/posadas_airport.jpg" />
-    <br/>Aeropuerto de Posadas
+    <br/>Airport of Posadas
 </div>
 
 
 -  **Taxi**
 
-    Pueden tomarse un taxi directamente desde el aeropuerto  para llegar a la
-    universidad por un costo aproximado de **U$S 10**
+    They can take a taxi directly from the airport to go to the university, for an approximate cost of **U$S 10**
 
--   **Bus Urbano - Línea 28**
+-   **Urban Bus - Line 28**
 
-    Frecuencia: cada 30 minutos
-    Tarifa: **U$S 1**
+    Frequency: every 30 minutes
+    Fee: **U$S 1**
 
-    Recorrido: Acceso oeste hasta RN 12, Avda. San Martín hasta Avda. Lopez y
-    Planes, Avda. Corrientes hasta Santa Fe. Descender en calle San Lorenzo o
-    Buenos Aires
-
+    Tour: West access to RN 12, Avenida San Martin to Avenida Lopez y Planes, Avenida Corrientes to Santa Fe. Get off at San Lorenzo or Buenos Aires street.
