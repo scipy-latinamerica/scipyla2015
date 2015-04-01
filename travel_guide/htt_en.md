@@ -158,7 +158,7 @@ We recommend the following route (the route has tolls):
 
     Frequency: every X minutes
 
-    Cost: **U$S 1 **
+    Cost: **U$S 1**
 
     Tour: Avenida Santa Catalina, Avenida Comandante Andresito, Avenida Lavalle, Avenida Chacabuco, Avenida Francisco de Haro, Avenida Mitre, Buenos Aires street. Get off at Tucumán street.
 
@@ -166,7 +166,7 @@ We recommend the following route (the route has tolls):
 
     Frequency: every X minutes
 
-    Cost: **U$S 1 **
+    Cost: **U$S 1**
 
     Tour: Avenida Santa Catalina, Santa Cruz Avenue, Avenida Lavalle, Avenida López y Planes, Avenida Mitre, Ayacucho street. Get off at Tucumán street.
 
@@ -189,6 +189,8 @@ More information about the tours:
 -   **Urban Bus - Line 28**
 
     Frequency: every 30 minutes
+
     Fee: **U$S 1**
 
     Tour: West access to RN 12, Avenida San Martin to Avenida Lopez y Planes, Avenida Corrientes to Santa Fe. Get off at San Lorenzo or Buenos Aires street.
+
