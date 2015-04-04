@@ -1,361 +1,226 @@
-# Posadas
+# Pousadas
 
-**Aclaración: Esta página fue desarrollada a modo informativo. Bajo ningún
-concepto la organización ni la universidad se hacen
-responsables por contratiempos relacionados con servicios contratados.
-La información vertida en esta guía puede cambiar por las fluctuaciones
-cambiarias o cambios en tarifas de las empresas.**
+**Aviso: Este site foi desenvolvido com intúito informativo.
+Sob nenhuma circunstância a organização nem a universidade
+se responsabilizam por contratempos relacionados com os serviços contratados.
+As informações contidas neste site podem mudar devido a flutuações cambiais
+ou mudanças nas tarifas das empresas.**
 
+Mais Informações:
 
-Mas Información:
-
-- [Viajar a Posadas](/venue/traveling)
-- [Hoteles](/venue/accomodation)
-- Turismo (Comming soon!)
-
+- [Viajem à Posadas](/venue/traveling)
+- [Hotéis](/venue/accomodation)
+- Turismo (Em breve!)
 
 ## La Costanera de Posadas
 
-El mayor atractivo turístico de la ciudad es sin dudas la **Costanera**
+A maior atração da cidade é, sem dúvida, a **Costanera**.
 
-La Costanera Monseñor Kemerer es la avenida que bordea al río Paraná en la
-ciudad de Posadas, en la Argentina.
+La Costanera Monseñor Kemerer é a avenida que corre ao longo do rio Paraná,
+na cidade de Posadas, na Argentina.
 
-La avenida fue diseñada con el único propósito de paseo, motivo por el cual la
-circulación está restringida a una velocidad máxima de 30 km/h y la misma se
-comunica con el resto de la ciudad con muy pocos accesos.
-
-<div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/costanera.jpg" />
-</div>
-
-La construcción de tamaña obra cambió el concepto turístico de la ciudad de
-Posadas, la cual comenzó  a ser reconocida por entre los visitantes por la
-belleza de sus paisajes y el movimiento diurno y nocturno de la misma.
-
-## Gastronomía
-
-Además del asado y otras comidas típicas argentinas, en misiones se acostumbra
-también las comidas típicas de la hermana República del Paraguay.
-
-### Lo típico de la ciudad: Pizzas Rellenas
-
-La pizza en Argentina es una institución por la gran cantidad de inmigrantes
-italianos que llegaron al Río de la Plata.
-
-En posadas es particularmente popular la Pizza Rellena. Una especie de Tarta
-que contiene los típicos ingredientes que posee una pizza.
+A avenida foi projetada com o único propósito de andar, por esse motivo a
+circulação é restrita a uma velocidade máxima de 30km/h e ela se
+comunica com o resto da cidade com muito poucos acessos.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/lospinos.png" />
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/costanera.jpg" />
 </div>
 
-**Donde Comer:** Fundamentalmente en **Pizzería Los Pinos**
-(Buenos Aires y Sarmiento) pero casi todas las pizzerías la ofrecen.
+A construção da avenida mudou o conceito da cidade turística de Posadas,
+que começou a ser reconhecido entre os visitantes
+pela beleza das suas paisagens
+e pela vida tanto diurna como noturna da mesma.
+
+## Gastronomia
+
+Além do asado e outras refeições tipicamente argentinas,
+em Misiones também é comum as comidas típicas da República do Paraguai.
+
+### O típico da cidade: Pizzas Rellenas
+
+A pizza na Argentina é famosa pelo grande número de
+imigrantes italianos que chegaram no Rio de la Plata.
+
+Em Posadas é particularmente popular a Pizza Rellena.
+Uma espécia de torta que contém os ingredientes típicos de uma pizza.
+
+<div style="text-align:center">
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/lospinos.png" />
+</div>
+
+**Onde comer:** Basicamente na **Pizzeria Los Pinos** 
+(Buenos Aires e Sarmiento) mas quase todas as pizzarias possuem esse prato.
 
 ### Regional: La Chipa
 
-La "chipa" o "chipá" (la palabra no tiene género por ser un
-término en lengua guaraní) es un pan pequeño hecho con almidón de mandioca,
-queso duro, leche, huevos, manteca y sal.
+O "chipa" ou "chipá"
+(a palavra não possui gênero pois é um termo da língua guaraní)
+é um pequeno pão feito de amido de mandioca, queijo duro,
+leite, ovos, manteiga e sal.
 
-Esta emparentado con el *Pão de queijo* brasileño, el cual se cree que
-evolucionó de la chipa.
+Esta relacionada com o pão de queijo brasileiro, que acredita-se ter
+evoluído a partir de chipa.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/chipa.jpeg" />
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/chipa.jpeg" />
 </div>
 
-**Donde Comer:** Casi todas las panaderías, supermercados y vendedores
-ambulantes de la ciudad venden chipas de excelente calidad.
-
+**Onde comer:** Quase todas as padarias, supermercados e vendedores ambulante
+na cidade vendem chipas de excelente qualidade.
 
 ### Regional: El Mbejú (Mbeyú)
 
-El mbeyú (escrito en guaraní como mbeju -se pronuncia en todos los casos mbeyú
-, o abreviadamente, "beyú"-), es un plato propio y típico de Paraguay y del
-Nordeste argentino. Se trata de un panqueque de almidón
+O mbeyú (escrito em guarani como mbeju -- pronuncia-se em todos os casos como mbeyú,
+ou abreviadamente como "beyú"), é um prato único e
+típico do Paraguai e nordeste da Argentina. Trata-se de uma panqueca feita e amido.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/mbeyu_1.png" />
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/mbeyu_1.png" />
 </div>
 
-Es una muestra sólida de la gastronomía paraguaya, sumamente ricos en calorías.
-Según algunos eruditos de la historia social de Paraguay, toda la gastronomía
-popular Paraguaya, que se establece como industria pequeña de la familia
-después de Guerra de Paraguay contra La alianza triple
-(La Argentina, El Brasil y Uruguay, entre 1864 y 1870), es realmente
-abundante en contenido calórico, debido a la situación que superó al país
-después del conflicto.
+É uma amostra sólida da gastronomia paraguaia que é altamente calórica.
+De acordo com alguns estudiosos da história social do Paraguai,
+toda a gastronomia popular paraguaia, que se estabeleceu como uma
+indústria familiar após a Guerra do Paraguai contra a Tríplice Aliança
+(Argentina, Brasil e Uruguai, entre 1864 e 1870), é
+realmente abundante em comidas calóricas devido à situação do país depois do
+conflito.
 
-**Donde Comer:**
+**Onde comer:**
 
 ### Regional: El Reviro
 
-El reviro esta tan arraigado a nosotros que hay casas en las que nunca falta
-como el pan que se utiliza para acompañar a las comidas. Los días de lluvia son
-especiales para hacerlo acompañado de mate cocido, es como la torta frita que
-se come bastante en otros lugares de Argentina. Es también motivo para
-reuniones entre amigos, acompañando el famoso ticue-í (especie de preparado
-con carne), con huevo, tomate y muchas otras formas.
+O Reviro é tão popular que há casas em que nunca falta
+o pão usado para acompanhar as refeições.
+Os dias chuvosos são especiais para fazê-lo acompanhado com mate cozido,
+é como o bolo frito presente em vários lugares na Argentina.
+Ele também é motivo de reuniões entre amigos,
+que acompanha o famoso ticue-í (preparado com carne),
+com ovo, tomate e muitas outras formas.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/REVIRO.jpg" />
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/REVIRO.jpg" />
 </div>
 
-**Donde Comer:**
+**Onde comer:**
 
 ### Regional: Caburé
 
-El caburé es una comida típica del Paraguay, pero la cercanía territorial y
-cultural con la provincia de Misiones en Argentina
+O caburé é uma comida típica do Paraguai,
+mas devido à proximidade territorial e cultural da província de Misiones,
+também está presente na Argentina.
 
-El caburé misionero tiene que tener buena margarina, buen queso y mucho huevo.
-Cambia el sabor con el de la chipa regular y es más blando.
+O caburé missionário deve ter boa margarina, queijo e muito ovo.
+Muda de sabor em relação com chipa padrão e é mais suave.
 
-El Caburé se hace con una masa de almidón de mandioca un poco más dura que la
-de chipas al horno. Tradicionalmente se las cocinaba en una rama de naranjo,
-previamente descortezada. Actualmente se usa un palo de madera que no tenga
-pintura ni barniz. La masa se envuelve en la punta del palo y se asan sobre
-las brasas girando lentamente hasta que se cocinen.
+O Caburé é feito com uma massa de mandioca um pouco mais dura que a chipa
+no forno. Tradicionalmente, eles são cozidos
+em uma rama de laranja previamente arrumada. Atualmente usa-se
+madeira que não tenha tinta ou verniz. A massa é enrolada na
+ponta da madeira e é assado nas brasas girando lentamente até ficar
+cozido.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/cabure.jpg" />
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/cabure.jpg" />
 </div>
 
-**Donde Comer:** Hay ventas ambulantes en la Costanera de Posadas y son
-sensiblemente mas caros que las Chipas
+**Onde comer:** É vendido na orla de Posadas e são significativamente
+mais caras do que Chiapas.
 
 ### Regional: Sopa Paraguaya
 
-La sopa paraguaya es un plato típico de la gastronomía de Paraguay producto
-del sincretismo guaraní y español. Los guaraníes acostumbraban a consumir
-comidas pastosas elaboradas con harina de maíz o de mandioca envueltas en hojas
-de güembé o banana y cocinadas entre ceniza caliente. Los jesuitas
-(en su mayoría españoles), introdujeron el uso de: queso, huevos y leche
-(aditivos que fueron agregados a las comidas preparadas por los guaraníes).
-Por esto, la sopa paraguaya se trata de un bizcocho esponjoso salado, de muy
-rico contenido calórico y proteico.
+A sopa paraguaia é um prato típico da culinária do Paraguai
+e produto do sincretismo guarani e espanhol. O povo Guarani costumava consumir
+refeições pastosas preparados com farinha de milho ou mandioca embrulhados em
+folhas de güebe ou de bananeira e cozidos em cinzas incandescentes.
+Os jesuítas (em sua maioria espanhóis), introduziram o uso
+de: queijo, ovos e leite (aditivos que foram adicionados às refeições
+preparadas pelos Guaranis). Portanto, a sopa paraguaia é um bolo
+esponjoso saboroso, rico em calorias e proteínas.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/sopa-paraguaya.JPG" />
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/sopa-paraguaya.JPG" />
 </div>
 
-**Donde Comer:**
+**Onde comer:**
 
+### O clássico Argentino: Asado
 
-### El clásico Argentino: Asado
+O Manual do "Churrasqueiro" Argentino, de Raul Mirad,
+possui as impressões de um jesuíta
+italiano que vagou pelos pampas no início dos anos 1700. Lá, o
+missionário ficou impressionado pelos gaúchos e sua forma de cozinhar a carne,
+colocavam a carne em varas que iam em valas que cavavam no chão.
+Essa mesma imagem
+impressionou Charles Darwin, que chegou em território argentino em
+1832 e um ano depois já se sentia parte dos pampa, como ele escreveu
+para sua irmã em uma carta citada pelo The Nation:
 
-En Manual del Asador Argentino, de Raúl Mirad, se cuentan las impresiones de
-un jesuita italiano que anduvo por las pampas a comienzos de los 1700. Allí el
-misionero se impresiona por los gauchos y su destreza para faenar la carne,
-colocarla en palos que clavaban en el suelo, inclinados sobre una fogata bajo
-las estrellas. Esa misma imagen impresionó a Charles Darwin, quien llegó a
-tierras argentinas en 1832 y que un año después ya se sentía parte de la
-pampa, como escribía a su hermana en una carta citada por La Nación:
-
-    "Me he convertido en todo un gaucho, tomo mi mate y fumo mi cigarro y
-     después me acuesto cómodo, con los cielos como toldo, como si estuviera
-     en una cama de pluma. Es una vida tan sana, todo el día encima del
-     caballo, comiendo nada más que carne y durmiendo en medio de un viento
-     fresco...".
+> "Eu me tornei um gaúcho, tomar o meu mate e fumar meu cigarro e
+> depois que eu durmo confortável com os céus como toldo, como se
+> estivesse em uma cama de penas. É um estilo de vida tão saudável,
+> o dia todo acima do
+> cavalo, comendo nada além de carne e dormindo no meio de um vento
+> bem legal ... ".
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/asado.jpeg" />
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/asado.jpeg" />
 </div>
 
-**Donde Comer:** De las parrillas en la zona centrica se destacan: **Espeto del
-Rey** (Ayacucho 2404, a 300 mts de la universidad), **Asador el Rancho**
-(Costanera y Guacurary) y  **La Nueva Rueda** (Costanera y Pedernera)
+**Onde comer:** A partir das parrillas na área central destacam-se: **Espeto del
+Rey** (Ayacucho 2404, a 300m da faculdade), **Assador el Rancho**
+(Costanera e Guacurary) e **La Nueva Rueda** (Costanera e Pederson).
 
 ### Diferentes en cada región: Empanadas
 
-El asado lleva su tiempo Hay que esperar como una hora para que el fuego
-esté a punto para colocar la carne. Por eso, hay que sabe esperar, y tomar
-vino, y comer empanadas mientras se conversa y se llega al momento clave.
+O assado leva tempo pois é preciso esperar uma hora para o fogo está
+pronto para colocar a carne. Portanto, precisa saber esperar, e
+beber vinho e comer tortas enquanto se conversa e chega-se ao momento tão
+esperado.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/empanadas.jpeg" />
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/empanadas.jpeg" />
 </div>
 
-Una empanada es una fina masa de pan, masa quebrada u hojaldre rellena con una
-preparación salada o dulce y cocida al horno o frita.
-El relleno puede incluir carnes rojas o blancas, pescado, verduras o fruta.
+A torta é uma massa de pão, massa quebrada ou folhada
+recheada salgado ou doce e cozidas no forno ou fritas.
+O recheio pode incluir carnes vermelhas ou brancas, peixe,
+legumes ou frutas.
 
-Las empanadas son un plato tradicional de la mayoría de las cocinas de los
-países de habla hispana.
+As tortas são um prato tradicional da maioria
+dos países de língua espanhola.
 
-**Donde Comer:** Suelen venderse en los supermercados, cualquier restaurante y
-pizzería así como algunas panaderías.
+**Onde comer:** normalmente vendidos em supermercados, qualquer
+restaurante ou pizzaria e algumas padarias.
 
 ### Choripan
 
-Se ha descrito que en la región del Río de la Plata el origen del choripán se
-remonta a mediados del siglo XIX, cuando en las zonas rurales los gauchos
-realizaban asados con motivo de alguna celebración, se dio inicio al hábito de
-comer el chorizo dentro de un pan. Esta práctica con el tiempo llegó a las
-ciudades y se popularizó en el entorno urbano.
+Conta-se na região do Rio de la Plata que a origem do choripán remonta a
+meados do século XIX, quando nas áreas rurais gaúchos realizavam
+asados por motivo de alguma comemoração e nessa época começou o hábito
+de comer o churrasco dentro de um pão.
+Esta prática, eventualmente, veio para as
+cidades e se tornou popular no ambiente urbano.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/choripan.jpeg" />
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/choripan.jpeg" />
 </div>
 
-**Donde Comer:** Cualquiera de las parrillas que sirven asados suelen ofrecer
-choripanes. Es tradición también los puestos callejeros que suelen hacerlos
-mas pesados y con mas condimentos.
+**Onde comer:** qualquer parrillas que oferecem assados geralmente também
+oferecem choripanes. Também é tradicional os postos callejeros que
+costumam fazer mais pesado e com mais recheio.
 
 ### Lomito
 
-El lomito o sándwich de lomo es un sándwich típico de la gastronomía de Argentina,
-(por ejemplo, en la región de Cuyo y la provincia argentina de Córdoba es muy
-popular). Su forma habitual de consumo consiste en un trozo de lomo de ternera
-fileteado, queso, jamón, huevo frito, tomate y condimento entre dos panes que
-puede estar levemente tostados
+O lombo ou sanduíche de lombo é um sanduíche típico da culinária da Argentina,
+(por exemplo, na região de Cuyo e na província argentina de Córdoba é
+muito popular). A sua forma habitual de consumo consiste em um
+pedaço de filé mignon, queijo, presunto, ovo frito, tomate e
+temperos entre dois pães que podem ser levemente tostadas.
 
 <div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/lomito.jpg" />
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/lomito.jpg" />
 </div>
 
-**Donde Comer:** suelen servirse en las Pizzerías.
-
-## Milanesas
-
-La milanesa es un filete fino, normalmente de carne vacuna, pasado por huevo
-batido y luego por pan rallado, que se cocina frito o (menos comúnmente) al
-horno. Por extensión, se llama milanesa a cualquier rebanada de un ingrediente
-rebozado y frito: hay así milanesas de pollo, de pescado, de soja, de
-berenjena, de mozzarella, etc.
-
-La milanesa puede ser consumida «al plato» (servida en un plato, normalmente
-con una guarnición como ensalada, puré, o papas fritas) o en sándwich
-(sándwich de milanesa)
-
-<div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milanga.jpeg" />
-    <br>
-    <small>Sandwich Milanesa</small>
-</div>
-
-La milanesa a caballo es una milanesa frita de carne vacuna con dos huevos
-fritos encimados (cuando es sólo uno, se llama "milanesa a medio caballo").
-Generalmente se acompaña con una guarnición de papas fritas.
-
-<div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milanesa.jpeg" />
-    <br>
-    <small>Milanesa a Caballo</small>
-</div>
-
-**Donde Comer:** Pizzerías, restaurantes, vendedores ambulantes
-
-### Mandioca y Mandioca Frita (Yuca)
-
-Manihot esculenta, llamada comúnmente yuca, e internacionalmente reconocida
-como mandioca, tapioca, guacamota (del náhuatl cuauhcamohtli en México),
-casabe o casava, es un arbusto perenne de la familia de las euforbiáceas
-extensamente cultivado en Sudamérica, África y el Pacífico por sus tubérculos
-con almidones de alto valor alimentario.
-
-Es tradición de la zona comerla hervida con el asado, o frita como snack
-
-<div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/mandiocafrita.jpg" />
-    <br>
-    <small>Mandioca Frita</small>
-</div>
-
-### 25 de Mayo: El Locro
-
-El locro (del quechua ruqru o luqru) es un guiso a base de zapallo, porotos,
-maíz o papas que se consume en la zona de la cordillera de los Andes, desde
-Argentina, el norte de Chile y hasta el sur de Colombia, pasando por Bolivia,
-Ecuador, Paraguay y Perú.
-
-Suerte de guiso cuyo origen es indudablemente prehispánico y preincaico,
-típico de varios pueblos andinos que basaban gran parte de su dieta en el maíz
-o los porotos y la papa.
-
-<div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/locro.jpeg" />
-</div>
-
-Alimento con muchas calorías y nutrientes el locro resulta muy adecuado para
-consumir durante los inviernos o en zonas frías. Tradicionalmente se consume
-de manera masiva el **25 de mayo**, día en que se conmemora la formación del
-primer gobierno patrio Argentino el cual se estableció el 25 de mayo de 1810.
-Por este motivo ha pasado de ser un plato regional y tradicional a ser uno de
-los platos nacionales de Argentina para festejar las fechas patrias
-
-**Donde Comer:** Para los que aun estén el 25 de mayo, casi todos los
-restaurantes los ofrecen en e país, así como se pueden comprar en algunos
-colegios que ofrecen a la venta.
-
-
-### Cafes Estilo Argentino
-
-Los bares de Buenos Aires forman parte de la cultura de la ciudad, de las
-costumbres de sus habitantes y del circuito turístico moderno de dicha urbe.
-Han sido objeto de estudio de distintos historiadores, inspiradores de
-innumerables creaciones artísticas y tradicional lugar de reunión de los
-porteños.
-
-Esta tradición se ha esparcido por todo el pais y Posadas tiene particularmente
-dos muy buenos cafés Argentinos: Bar Español (2067 Bolívar) y Café Vitrage
-(Bolívar y Colon)
-
-<div style="text-align:center">
-    <img width="80%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/vitrage.jpeg" />
-    <br>
-    <small>Bar Español y Café Vitrage</small>
-</div>
-
-
-### Cafe estilo *"Starbucks"*
-
-El único local de este estilo es **Bonafide Expreso** en Córdoba 2115
-
-<div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/bonafide.png" />
-</div>
-
-
-### Pescados Regionales
-
-Los peces que surcan el Paraná son platos típicos de la zona. Podemos Destacar
-el *Surubí* (especie de bagre), el *Dorado* (El mas delicioso) y la *Boga*.
-
-**Donde Comer:**
-El restaurante con mejor referencias en la ciudad para este tipo de platos es
-**Itakua** (escrito Itakva en la cartelería)
-
-<div style="text-align:center">
-    <img width="50%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/itakua.jpg" />
-</div>
-
-## Compras
-
-### Vinos, dulce de leche, Yerba y alfajores
-
-La alternativa mas simple de comprar esto es ir a cualquier supermercado, el
-cual el mas cerano se encuentra a 350 metros.
-
-En estos lugares usted podrá encontrar una amplia variedad de productos por
-diferentes precios.
-
-<div style="text-align:center">
-    <img width="80%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/alfajores.jpg" />
-    <br>
-    <small>Alfajores y gondolas de supermecados de Yerba, Dulce de Leche y vinos argentinos</small>
-</div>
-
-
-### Mates
-
-El lugar para encontrar TODO lo relacionado a Mates es la **Galería del Mate**
-(R. Saenz Peña y Costanera), **La Placita** (Bolívar y R. Saenz Peña) y
-**La Placita del Puente** (Mitre y R. Saenz Peña).
-
-<div style="text-align:center">
-    <img width="70%" src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/gdm.png" />
-</div>
-
+**Onde comer:** geralmente servido em pizzarias.
