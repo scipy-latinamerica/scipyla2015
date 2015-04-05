@@ -224,3 +224,141 @@ temperos entre dois pães que podem ser levemente tostadas.
 </div>
 
 **Onde comer:** geralmente servido em pizzarias.
+
+## Milanesas
+
+O Milanese é um bom bife, geralmente de carne, passado com ovo batido
+e farinha de rosca, que é frito ou (menos
+comumente) cozido. Por extensão, é chamado milanesa qualquer
+fatia de uma ingrediente preparado da mesma maneira de forma que existe
+milanesas de costeletas de
+frango, peixe, soja, berinjela, mussarela, etc.
+
+A milanesa pode ser consumido "no prato" (servido em um prato,
+geralmente com uma guarnição como saladas, purê ou batata frita) ou
+sanduíche (sanduíche de milanesa)
+
+<div style="text-align:center">
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milanga.jpeg" />
+    <br>
+    <small>Sanduíche de milanesa</small>
+</div>
+
+A milanesa a cavalo
+é uma carne bovina à milanesa frita com
+dois ovos fritos em cima (quando é utilizado apenas um ovo chama-se de "milanesa a medio caballo").
+Geralmente é acompanhada com uma guarnição de batatas fritas.
+
+<div style="text-align:center">
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/milanesa.jpeg" />
+    <br>
+    <small>Milanesa a cavalo</small>
+</div>
+
+**Onde comer:** pizzarias, restaurantes, vendedores ambulantes
+
+### Mandioca e Mandioca Frita (Yuca)
+
+Manihot esculenta, comumente chamada de yuca, e internacionalmente reconhecida
+como mandioca, tapioca, guacamota (do náhuatl
+cuauhcamohtli no México) ou aipim, é um arbusto perene
+da família das euforbiáceas amplamente cultivada na América do Sul,
+África e Pacífico devido ao uso dos seus tubérculos como alimento.
+
+É tradição na área comê-lo cozido com assado ou frito como lanche.
+
+<div style="text-align:center">
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/mandiocafrita.jpg" />
+    <br>
+    <small>Fried Mandioca</small>
+</div>
+
+### 25 de Mayo: El Locro
+
+O locro (do quechua ruqru ou luqru) é um guisado feito com abóbora,
+feijão, milho ou batata consumidos na região dos Andes desde a
+Argentina, passando pelo norte do Chile e indo até o sul da Colômbia, passando pela
+Bolívia, Equador, Paraguai e Peru.
+
+Suerte de guiso cuja origem é, sem dúvida, pré-hispânica e
+pré-inca e típica de vários povos andinos que basearam grande
+parte de sua dieta de milho ou feijão e batatas.
+
+<div style="text-align:center">
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/locro.jpeg" />
+</div>
+
+Alimentos ricos em calorias e nutrientes a sopa é muito adequado
+para o consumo durante o inverno ou em locais frios.
+Tradicionalmente consumida em **25 de maio**, dia em que é comemorado a
+formação do primeiro governo nacional argentino, que foi criado
+em 25 de maio de 1810. Por esse motivo passo de um prato regional e tradicional
+para um dos pratos nacionais da
+Argentina usados na festa nacional.
+
+**Onde comer**: Para aqueles que ficam até a 25 de maio, quase todos
+os restaurantes oferecem o prato no país.
+
+### Café Estilo Argentino
+
+Os bares de Buenos Aires fazem parte da cultura da cidade, dos
+costumes de seus habitantes e do circuito turístico moderno da
+cidade. Eles têm sido estudados por vários historiadores,
+inspiram inúmeras criações artísticas e é um tradicional para reuniões.
+
+Esta tradição se espalhou por todo o país e particularmente
+Posadas tem dois muito bons cafés Argentinos: Espanhol Bar (2067
+Bolívar) e Café Vitrage (Bolívar e Colon)
+
+<div style="text-align:center">
+    <img width="80%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/vitrage.jpeg" />
+    <br>
+    <Small> Espanhol Bar e Café Vitrage </ small>
+</div>
+
+### Café estilo *"Starbucks"*
+
+O único local para este estilo é **Bonafide Expreso** en Córdoba 2115.
+
+<div>
+    <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/bonafide.png" />
+</div>
+
+### Pescados Regionales
+
+Os peixes que cruzam o Paraná são pratos típicos locais. Podemos
+destacar o **Surubí** (espécie de bagre), o **Dourado** (o mais delicioso)
+e o **Boga**.
+
+**Onde comer:** O restaurante com melhor referências da cidade para
+estes pratos é **Itakua** (escrito Itakva nos cartazes).
+
+<div style="text-align:center">
+    <Img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/itakua.jpg" />
+</div>
+
+## Compras
+
+### Vinos, doces de leite, Yerba e alfarrobas
+
+A alternativa mais simples de comprar este itens é ir a qualquer
+supermercado. O mais próximo foca a 350m.
+
+Nesses lugares você vai encontrar uma grande variedade de
+produtos com diferentes preços.
+
+<div style="text-align:center">
+    <img width="80%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/alfajores.jpg" />
+    <br>
+    <small>Algarrobas e gôndolas de supermercados com Yerba, doce de leite e vinhos argentinos</small>
+</div>
+
+### Mates
+
+O lugar para encontrar tudo relacionado ao Mates é **Galería del Mate**
+(R. Saenz Peña y Costanera), **La Placita** (Bolívar y R. Saenz Peña) e
+**La Placita del Puente** (Mitre y R. Saenz Peña).
+
+<div style="text-align:center">
+    <img width="70%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/gdm.png" />
+</div>
