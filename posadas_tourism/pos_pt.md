@@ -1,4 +1,4 @@
-# Pousadas
+# Posadas
 
 **Aviso: Este site foi desenvolvido com intúito informativo.
 Sob nenhuma circunstância a organização nem a universidade
@@ -49,7 +49,7 @@ Uma espécia de torta que contém os ingredientes típicos de uma pizza.
     <img width="50%" src="https://github.com/scipy-latinamerica/scipyla2015/raw/master/posadas_tourism/imgs/lospinos.png" />
 </div>
 
-**Onde comer:** Basicamente na **Pizzeria Los Pinos** 
+**Onde comer:** Basicamente na **Pizzeria Los Pinos**
 (Buenos Aires e Sarmiento) mas quase todas as pizzarias possuem esse prato.
 
 ### Regional: La Chipa
