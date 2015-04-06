@@ -5,7 +5,7 @@
 
 More information:
 
-- [Tourism Posadas](/venue/traveling)
+- [Travel to Posadas](/venue/traveling)
 - [Hotels](/venue/accomodation)
 - Tourism (Comming soon!)
 
@@ -105,12 +105,12 @@ The Paraguayan soup is a typical dish of the cuisine of Paraguay, product of Gua
 
 ### The Argentine classic: Asado (BBQ)
 
-In the Argentine BBQ Manual, Raul Mirad,  tells the impressions of an Italian Jesuit who wandered the pampas in the early 1700. There, the missionary was impressed by the gauchos and their ability to prepare the meat, put on sticks that dug into the ground, tilted over a campfire under the stars. That same image impressed Charles Darwin, who arrived in Argentine territory in 1832 and one year later he already felt part of the pampas, as he wrote to his sister in a letter quoted by La Nación: 
+In the Argentine BBQ Manual, Raul Mirad,  tells the impressions of an Italian Jesuit who wandered the pampas in the early 1700. There, the missionary was impressed by the gauchos and their ability to prepare the meat, put on sticks that dug into the ground, tilted over a campfire under the stars. That same image impressed Charles Darwin, who arrived in Argentine territory in 1832 and one year later he already felt part of the pampas, as he wrote to his sister in a letter quoted by La Nación:
 
     "I've become a gaucho, I take my 'mate' and smoke my cigarette
-     and then I sleep comfortable with the heavens as awning, as if 
-     I were in a feather bed. It's such a healthy lifestyle, all day 
-     on the horse, eating nothing but meat and sleeping in the 
+     and then I sleep comfortable with the heavens as awning, as if
+     I were in a feather bed. It's such a healthy lifestyle, all day
+     on the horse, eating nothing but meat and sleeping in the
      middle of a cool wind ... ".
 
 <div style="text-align:center">
@@ -191,7 +191,7 @@ It is tradition in this area eat that boiled with barbecue or fried as a snack.
 
 ### May 25: El Locro
 
-Locro (Quechua ruqru or luqru) is a stew made with pumpkin, beans, corn or potatoes consumed in the region of the Andes, from Argentina, northern of Chile and  to southern of Colombia, passing by Bolivia, Ecuador, Paraguay and Peru. 
+Locro (Quechua ruqru or luqru) is a stew made with pumpkin, beans, corn or potatoes consumed in the region of the Andes, from Argentina, northern of Chile and  to southern of Colombia, passing by Bolivia, Ecuador, Paraguay and Peru.
 
 Kind of stew whose origin is undoubtedly pre-Hispanic and pre-Incaic, typical of several Andean peoples who based a lot of their diet on corn or beans and potatoes.
 
@@ -206,7 +206,7 @@ Food high in calories and nutrients, el locro is very suitable for consumption d
 
 ### Cafés Argentine Style
 
-The bars of Buenos Aires are part of the culture of the city, the customs of its inhabitants and the modern touristic circuit of the city. They have been studied by various historians, inspiring countless artistic creations and traditional meeting place to the porteños. 
+The bars of Buenos Aires are part of the culture of the city, the customs of its inhabitants and the modern touristic circuit of the city. They have been studied by various historians, inspiring countless artistic creations and traditional meeting place to the porteños.
 
 This tradition has spread throughout the country and particularly Posadas has two very good Argentine cafés: Bar Español (2067 Bolívar) and Café Vitrage (Bolívar and Colon).
 
