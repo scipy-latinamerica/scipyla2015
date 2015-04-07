@@ -30,6 +30,7 @@ de visitas a zonas turísticas partiendo desde la ciudad Posadas**.
 
 **Formas de pago:** Efectivo, depósito bancario y/o pago con tarjeta de crédito.
 
+
 ## **Dia Sábado:** Ruinas de San Ignacio y Cruz de Santa Ana 
 
 - Día **sábado 23/05/15**
@@ -46,10 +47,31 @@ Merienda en regreso incluida.
 Valor de la excursión por persona **$ 339** hasta en 3 pagos sin interés
 Descuento en efectivo **$ 295**
 
-
 - Link de interés: http://goo.gl/iZO497 - video youtube Cruz
 - Link de interés: http://goo.gl/uYsy7q - video youtube Ruinas
 
 Monto mínimo para reservar lugares $100. Se recomienda llevar ropa cómoda. 
 
 Entradas y ascensor a los brazos de la Cruz no incluidos. Mínimo de 15 personas para la salida
+
+
+## **Dia Domingo:** Cataratas del Iguazú y Minas de Wanda 
+
+- Día sugerido **domingo 24/05/15**
+- **Día completo**
+
+Salida temprano a la mañana hacia la ciudad de Iguazu y llegada al Parque Nacional, declarado una de las 7 Maravillas Naturales del Mundo y por la UNESCO como Valor Universal Excepcional. Durante toda la mañana y parte de la tarde recorreremos los circuitos Inferior, Superior y Garganta del Diablo (recientemente habilitado), conoceremos los imponentes saltos rodeados de la exuberante selva tropical, siempre acompañados por un guía del parque, también se hará parte del recorrido con el maravilloso tren de la selva y habrá tiempo para quienes deseen hacer una excursión en lancha hasta debajo de los saltos (opcional).
+
+Al mediodía habrá tiempo para almorzar (no incluido) y alrededor de las 15 hs partiremos a Wanda para visitar uno de sus famosos complejos de piedras semi preciosas.
+
+Merienda en regreso incluida.
+
+Valor de la excursión por persona **$ 719** hasta en 3 pagos sin interés
+Descuento en efectivo **$ 625** 
+
+- Link de interés: www.iguazuargentina.com
+
+Monto mínimo para reservar lugares $ 150.-
+Se recomienda llevar una muda de ropa en caso de mojarse en alguno de los saltos del Parque.
+
+Entradas no incluidas. Mínimo de 15 personas para la salida
