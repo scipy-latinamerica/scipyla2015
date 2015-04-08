@@ -78,9 +78,19 @@ Entradas y ascensor a los brazos de la Cruz no incluidos. Mínimo de 15 personas
 - **Día completo
 **
 
-Salida temprano a la mañana hacia la ciudad de Iguazu y llegada al Parque Nacional, declarado una de las 7 Maravillas Naturales del Mundo y por la UNESCO como Valor Universal Excepcional. Durante toda la mañana y parte de la tarde recorreremos los circuitos Inferior, Superior y Garganta del Diablo (recientemente habilitado), conoceremos los imponentes saltos rodeados de la exuberante selva tropical, siempre acompañados por un guía del parque, también se hará parte del recorrido con el maravilloso tren de la selva y habrá tiempo para quienes deseen hacer una excursión en lancha hasta debajo de los saltos (opcional).
+Salida temprano a la mañana hacia la ciudad de Iguazu y llegada al Parque
+Nacional, declarado una de las 7 Maravillas Naturales del Mundo y por la
+UNESCO como Valor Universal Excepcional. Durante toda la mañana y parte de la
+tarde recorreremos los circuitos Inferior, Superior y Garganta del Diablo
+(recientemente habilitado), conoceremos los imponentes saltos rodeados de la
+exuberante selva tropical, siempre acompañados por un guía del parque, también
+se hará parte del recorrido con el maravilloso tren de la selva y habrá tiempo
+para quienes deseen hacer una excursión en lancha hasta debajo de los saltos
+(opcional).
 
-Al mediodía habrá tiempo para almorzar (no incluido) y alrededor de las 15 hs partiremos a Wanda para visitar uno de sus famosos complejos de piedras semi preciosas.
+Al mediodía habrá tiempo para almorzar (no incluido) y alrededor de las 15 hs
+partiremos a Wanda para visitar uno de sus famosos complejos de piedras
+semi preciosas.
 
 Merienda en regreso incluida.
 
@@ -89,7 +99,14 @@ Descuento en efectivo **$ 625**
 
 - Link de interés: www.iguazuargentina.com
 
+<div style="text-align:center">
+    <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/iguazu.gif" />
+    <small>Cataratas del Iguazú</small>
+</div>
+
 Monto mínimo para reservar lugares $ 150.-
-Se recomienda llevar una muda de ropa en caso de mojarse en alguno de los saltos del Parque.
+
+Se recomienda llevar una muda de ropa en caso de mojarse en alguno de los
+saltos del Parque.
 
 Entradas no incluidas. Mínimo de 15 personas para la salida
