@@ -63,13 +63,8 @@ Descuento en efectivo **$ 295**
 - Link de interés: http://goo.gl/uYsy7q - video youtube Ruinas
 
 <div style="text-align:center">
-    <a href="http://guaraniturismo.tur.ar/" target="_blank">
-        <img src ="https://github.com/scipy-latinamerica/scipyla2015/raw/master/tour/imgs/si.jpg" />
-    </a><br>
-    Bolívar 1618<br>
-    Posadas – Misiones – Argentina<br>
-    <a href="mailto:info@guaraniturismo.tur.ar">info@guaraniturismo.tur.ar</a><br>
-    Tel. +54 (0376) 4433308 / 4426292
+    <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/si.jpg" />
+    <small>Cruz de Santa Ana y Ruinas de San Ignacio</small>
 </div>
 
 Monto mínimo para reservar lugares $100. Se recomienda llevar ropa cómoda.
