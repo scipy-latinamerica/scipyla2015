@@ -1,14 +1,14 @@
-#Eventos Sociales
+#Eventos Sociais
 
-**Aclaración: Esta página fue desarrollada a modo informativo. Bajo ningún
-concepto la organización ni la universidad se hacen
-responsables por contratiempos relacionados con los alojamientos.
-La información vertida en esta guía puede cambiar por las fluctuaciones
-cambiarias o cambios en tarifas de las empresas.**
+**Esclarecimento: Esta página foi desenvolvida em caráter informativo. Sob nenhuma
+circunstância nem a organização nem a universidade se fazem
+responsáveis por contratempos relacionados aos alojamentos.
+A informação encontrada nesse guia pode mudar por conta das flutuações
+cambiais ou mudanças nas tarifas das empresas.**
 
-A pedido de la organización, la empresa
-**Guarani Turismo** (<http://guaraniturismo.tur.ar/>) ofrecerá diferentes alternativas
-de visitas a zonas turísticas partiendo desde la ciudad Posadas**.
+A pedido da organização, a empresa
+**Guarani Turismo** (<http://guaraniturismo.tur.ar/>) oferecerá diferentes alternativas
+de visitas a zonas turísticas partindo da cidade de Posadas**.
 
 <div style="text-align:center">
     <a href="http://guaraniturismo.tur.ar/" target="_blank">
@@ -20,93 +20,93 @@ de visitas a zonas turísticas partiendo desde la ciudad Posadas**.
     Tel. +54 (0376) 4433308 / 4426292
 </div>
 
-##Procedimiento para reservar Lugar en en alguno de los dos tours
+##Procedimiento para reservar lugar nos passeios
 
--   Enviar un email con la consulta o pedido de información a
+-   Enviar um email com pedido de informação para
     <mailto:daniel@guaraniturismo.tur.ar> /
     <mailto:sandra@guaraniturismo.tur.ar>
--   Detallar cantidad de personas y noches a alojarse, antes de abonar se
-    confirmará por email la reserva solicitada.
+-   Detalhar a quantidade de pessoas e noites antes de pagar e
+    confirmar por e-mail a reserva solicitada.
 
-**Formas de pago:** Efectivo, depósito bancario y/o pago con tarjeta de crédito.
+**Formas de pagamento:** Dinheiro, depósito bancário ou cartão de crédito.
 
 
-## **Dia Sábado:** Ruinas de San Ignacio y Cruz de Santa Ana
+## **Sábado:** Ruinas de San Ignacio e Cruz de Santa Ana
 
 - Día **sábado 23/05/15**
-- Medio día por la **tarde
+- Meio-dia para a **tarde
 **
 
-Salida desde los hoteles para viajar unos 50 km hasta el Parque Temático de La
-Cruz ubicado en la ciudad de Santa Ana y sobre el cerro homónimo a 360 metros
-sobre el nivel del mar.
+Saída dos hotéis para viajar uns 50 km até o Parque Temático de La
+Cruz localizado na cidade de Santa Ana sobre a serra homónima a 360 metros
+do nível do mar.
 
-Allí nos encontraremos con una imponente cruz de hierro de 84 metros y varios
-puntos panorámicos, inclusive se puede subir mediante elevador a los brazos
-(costo aparte) y tener una vista increíble sobre el monte nativo y la ciudad
+Ali encontraremos uma imponente cruz de ferro de 84 metros e vários
+pontos panorâmicos, inclusive é possível subir via elevador aos braços
+(custo separado) e ter uma vista incrível sobre o monte nativo da cidade
 de Posadas.
 
-Además podremos apreciar dentro del complejo el orquideario, mariposario,
-senderos y restaurante.
+Além disso podemos aprecisar no complexo o orquidário, mariposário,
+trilhas e restaurante.
 
-Luego partiremos hacia la ciudad de San Ignacio donde se localizan la Ruinas
-Jesuíticas más conocidas del país. Allí disfrutaremos de un paseo con guía por
-el sitio declarado Patrimonio de la Humanidad por la UNESCO, además, habrá
-tiempo libre para recorrer libremente el predio.
+Logo partiremos até a cidade de San Ignacio onde se localizam as Ruinas
+Jesuíticas mais conhecidas do país. Ali desfrutaremos de um passeio com guia pelo
+sítio declarado Patrimônio da Humanidade pela UNESCO, e também, haverá
+tempo livre para passear livremente pelo prédio.
 
-Merienda en regreso incluida.
+Lanche no retorno incluído.
 
-Valor de la excursión por persona **$ 339** hasta en 3 pagos sin interés
-Descuento en efectivo **$ 295**
+Valor da excursão por pessoa **$ 339** em até 3 vezes sem juros
+Valor a vista **$ 295**
 
-- Link de interés: http://goo.gl/iZO497 - video youtube Cruz
-- Link de interés: http://goo.gl/uYsy7q - video youtube Ruinas
+- Link de interesse: http://goo.gl/iZO497 - video youtube Cruz
+- Link de interesse: http://goo.gl/uYsy7q - video youtube Ruinas
 
 <div style="text-align:center">
     <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/si.jpg" />
     <small>Cruz de Santa Ana y Ruinas de San Ignacio</small>
 </div>
 
-Monto mínimo para reservar lugares $100. Se recomienda llevar ropa cómoda.
+Valor mínimo para reservas $100. Recomendá-se usar roupas leves.
 
-Entradas y ascensor a los brazos de la Cruz no incluidos. Mínimo de 15 personas para la salida
+Entradas e subida aos braços da Cruz não incluídos. Mínimo de 15 pessoas para saída.
 
 
-## **Dia Domingo:** Cataratas del Iguazú y Minas de Wanda
+## **Domingo:** Cataratas de Iguazú y Minas de Wanda
 
-- Día sugerido **domingo 24/05/15**
-- **Día completo
+- Dia sugerido **domingo 24/05/15**
+- **Dia completo
 **
 
-Salida temprano a la mañana hacia la ciudad de Iguazu y llegada al Parque
-Nacional, declarado una de las 7 Maravillas Naturales del Mundo y por la
-UNESCO como Valor Universal Excepcional. Durante toda la mañana y parte de la
-tarde recorreremos los circuitos Inferior, Superior y Garganta del Diablo
-(recientemente habilitado), conoceremos los imponentes saltos rodeados de la
-exuberante selva tropical, siempre acompañados por un guía del parque, también
-se hará parte del recorrido con el maravilloso tren de la selva y habrá tiempo
-para quienes deseen hacer una excursión en lancha hasta debajo de los saltos
+Saída no início da manhã até a cidade de Iguazu e chegada ao Parque
+Nacional, declarado uma das 7 Maravilhas Naturais do Mundo pela
+UNESCO com Valor Universal Excepcional. Durante toda manhã e parte da
+tarde viajaremos aos circuitos Inferior, Superior y Garganta do Diabo
+(recentemente habilitado), conheceremos os imponentes saltos rodeados de
+exuberante selva tropical, sempre acompanhados por um guia do parque, também
+haverá parte do passeio com o maravilhoso trem da selva e mais tempo
+para quem quiser fazer uma excursão via lancha para debaixo das quedas
 (opcional).
 
-Al mediodía habrá tiempo para almorzar (no incluido) y alrededor de las 15 hs
-partiremos a Wanda para visitar uno de sus famosos complejos de piedras
-semi preciosas.
+Ao meio-dia haverá tempo para almoço (não incluído) e por volta das 15h
+partiremos a Wanda para visitar um de seus famosos complexos de pedras
+semi-preciosas.
 
-Merienda en regreso incluida.
+Lanche no regresso incluído.
 
-Valor de la excursión por persona **$ 719** hasta en 3 pagos sin interés
-Descuento en efectivo **$ 625**
+Valor da excursão por persona **$ 719** em até 3 vezes sem juros
+Valor com desconto a vista **$ 625**
 
-- Link de interés: www.iguazuargentina.com
+- Link de interesse: www.iguazuargentina.com
 
 <div style="text-align:center">
     <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/iguazu.gif" />
-    <small>Cataratas del Iguazú</small>
+    <small>Cataratas do Iguazú</small>
 </div>
 
-Monto mínimo para reservar lugares $ 150.-
+Montante mínimo para reservar lugares $ 150.-
 
-Se recomienda llevar una muda de ropa en caso de mojarse en alguno de los
-saltos del Parque.
+Recomenda-se levar uma muda de roupa caso molhe-se em alguns dos
+saltos do Parque.
 
-Entradas no incluidas. Mínimo de 15 personas para la salida
+Entradas não incluídas. Mínimo de 15 pessoas para a saída.
