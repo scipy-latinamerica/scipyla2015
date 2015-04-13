@@ -1,14 +1,8 @@
-#Eventos Sociales
+#Social Events
 
-**Aclaración: Esta página fue desarrollada a modo informativo. Bajo ningún
-concepto la organización ni la universidad se hacen
-responsables por contratiempos relacionados con los alojamientos.
-La información vertida en esta guía puede cambiar por las fluctuaciones
-cambiarias o cambios en tarifas de las empresas.**
+**Disclaimer: This Web site was developed for information. Under no circumstances the organization and the university are responsible for mishaps related accommodations. The information and statements contained in this guide may change by exchange rate fluctuations or changes in rates of companies.**
 
-A pedido de la organización, la empresa
-**Guarani Turismo** (<http://guaraniturismo.tur.ar/>) ofrecerá diferentes alternativas
-de visitas a zonas turísticas partiendo desde la ciudad Posadas**.
+In response to request from the organization, the company **Guarani Turismo** (<http://guaraniturismo.tur.ar/>) offers different alternatives of visits to tourist areas, starting from the city **Posadas**.
 
 <div style="text-align:center">
     <a href="http://guaraniturismo.tur.ar/" target="_blank">
@@ -20,93 +14,67 @@ de visitas a zonas turísticas partiendo desde la ciudad Posadas**.
     Tel. +54 (0376) 4433308 / 4426292
 </div>
 
-##Procedimiento para reservar Lugar en en alguno de los dos tours
+##Procedure to book place in any of the two tours:
 
--   Enviar un email con la consulta o pedido de información a
-    <mailto:daniel@guaraniturismo.tur.ar> /
-    <mailto:sandra@guaraniturismo.tur.ar>
--   Detallar cantidad de personas y noches a alojarse, antes de abonar se
-    confirmará por email la reserva solicitada.
+-   Email with questions or requests for information to  <mailto:daniel@guaraniturismo.tur.ar> /
+    <mailto:sandra@guaraniturismo.tur.ar>;
+-   Detail number of people and nights stay, before paying, will be confirmed by email the requested reservation.
 
-**Formas de pago:** Efectivo, depósito bancario y/o pago con tarjeta de crédito.
+**Payment options:** Cash, bank deposit and / or payment by credit card.
 
 
-## **Dia Sábado:** Ruinas de San Ignacio y Cruz de Santa Ana
+## **Saturday:** Ruinas de San Ignacio and Cruz de Santa Ana
 
-- Día **sábado 23/05/15**
-- Medio día por la **tarde
-**
+- **Saturday, 23/05/2015**
+- Half day **afternoon**
 
-Salida desde los hoteles para viajar unos 50 km hasta el Parque Temático de La
-Cruz ubicado en la ciudad de Santa Ana y sobre el cerro homónimo a 360 metros
-sobre el nivel del mar.
+Departure from hotels to travel about 50 km to the "Parque Temático de La Cruz" located in the city of Santa Ana and the homonymous hill 360 meters above sea level.
 
-Allí nos encontraremos con una imponente cruz de hierro de 84 metros y varios
-puntos panorámicos, inclusive se puede subir mediante elevador a los brazos
-(costo aparte) y tener una vista increíble sobre el monte nativo y la ciudad
-de Posadas.
+Here we will meet an imposing iron cross, of 84 meters, and several panoramic spots, including you can climb the arms by lifting (additional payment) and have an amazing view over the native forest and the city of Posadas.
 
-Además podremos apreciar dentro del complejo el orquideario, mariposario,
-senderos y restaurante.
+In addition, inside the complex you can see the orchid garden, butterfly garden, trails and restaurant.
 
-Luego partiremos hacia la ciudad de San Ignacio donde se localizan la Ruinas
-Jesuíticas más conocidas del país. Allí disfrutaremos de un paseo con guía por
-el sitio declarado Patrimonio de la Humanidad por la UNESCO, además, habrá
-tiempo libre para recorrer libremente el predio.
+Then we go to the city of San Ignacio, where the most famous Jesuit ruins of the country are located. There, we will enjoy a guided walk through the site, declared as World Heritage by UNESCO. In addition, there will be free time to roam freely through the site
 
-Merienda en regreso incluida.
+Snack on the way back is included.
 
-Valor de la excursión por persona **$ 339** hasta en 3 pagos sin interés
-Descuento en efectivo **$ 295**
+Value of the trip per person: **$ 339**, up to 3 payments without interest. Discount for cash payments, **$ 295**
 
-- Link de interés: http://goo.gl/iZO497 - video youtube Cruz
-- Link de interés: http://goo.gl/uYsy7q - video youtube Ruinas
+- Link of interest: http://goo.gl/iZO497 - youtube video Cruz
+- Link of interest: http://goo.gl/uYsy7q - youtube video Ruinas
 
 <div style="text-align:center">
     <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/si.jpg" />
-    <small>Cruz de Santa Ana y Ruinas de San Ignacio</small>
+    <small>Cruz de Santa Ana and Ruinas de San Ignacio</small>
 </div>
 
-Monto mínimo para reservar lugares $100. Se recomienda llevar ropa cómoda.
+Minimum amount to reserve places $ 100. You should wear comfortable clothes.
 
-Entradas y ascensor a los brazos de la Cruz no incluidos. Mínimo de 15 personas para la salida
+Tickets and lift to the arms of the Cross, not included. Minimum of 15 people to depart.
 
 
-## **Dia Domingo:** Cataratas del Iguazú y Minas de Wanda
+## **Sunday:** Iguazu Falls and Wanda Mines
 
-- Día sugerido **domingo 24/05/15**
-- **Día completo
-**
+- Suggested day: **Sunday 24/05/2015**
+- **Full day**
 
-Salida temprano a la mañana hacia la ciudad de Iguazu y llegada al Parque
-Nacional, declarado una de las 7 Maravillas Naturales del Mundo y por la
-UNESCO como Valor Universal Excepcional. Durante toda la mañana y parte de la
-tarde recorreremos los circuitos Inferior, Superior y Garganta del Diablo
-(recientemente habilitado), conoceremos los imponentes saltos rodeados de la
-exuberante selva tropical, siempre acompañados por un guía del parque, también
-se hará parte del recorrido con el maravilloso tren de la selva y habrá tiempo
-para quienes deseen hacer una excursión en lancha hasta debajo de los saltos
-(opcional).
+Early morning departure towards the city of Iguazu, arrival to the National Park, declared one of the 7 Natural Wonders of the World and "Outstanding Universal Value" by UNESCO. Throughout the morning and part of the afternoon, crossing the Lower and Upper circuits and Garganta del Diablo (recently enabled), will visit the impressive waterfalls surrounded by lush tropical jungle, always accompanied by a park guide, there will also be part of the travel with the wonderful jungle train and have time available for those wishing to make a boat excursion to below the falls (optional).
 
-Al mediodía habrá tiempo para almorzar (no incluido) y alrededor de las 15 hs
-partiremos a Wanda para visitar uno de sus famosos complejos de piedras
-semi preciosas.
+At noon, there will be time for lunch (not included) and around 15 hours, we depart for Wanda to visit one of the famous resorts of semi precious stones.
 
-Merienda en regreso incluida.
+Snack on the way back is included.
 
-Valor de la excursión por persona **$ 719** hasta en 3 pagos sin interés
-Descuento en efectivo **$ 625**
+Value of the trip per person: **$ 719**, up to 3 payments without interest. Discount for cash payments **$ 625**
 
-- Link de interés: www.iguazuargentina.com
+- Link of interest: www.iguazuargentina.com
 
 <div style="text-align:center">
     <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/iguazu.gif" />
-    <small>Cataratas del Iguazú</small>
+    <small>Iguazu Falls</small>
 </div>
 
-Monto mínimo para reservar lugares $ 150.-
+Minimum amount to reserve places $ 150.-
 
-Se recomienda llevar una muda de ropa en caso de mojarse en alguno de los
-saltos del Parque.
+It is recommended to bring a change of clothes, in case of wet in any of the watterfalls in the park.
 
-Entradas no incluidas. Mínimo de 15 personas para la salida
+Tickets not included. Minimum of 15 people to depart.
