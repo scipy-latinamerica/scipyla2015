@@ -11,7 +11,7 @@ In response to request from the organization, the company **Guarani Turismo** (<
     Bolívar 1618<br>
     Posadas – Misiones – Argentina<br>
     <a href="mailto:info@guaraniturismo.tur.ar">info@guaraniturismo.tur.ar</a><br>
-    Tel. +54 (0376) 4433308 / 4426292
+    Phone numbers: +54 (0376) 4433308 / 4426292
 </div>
 
 ##Procedure to book place in any of the two tours:
