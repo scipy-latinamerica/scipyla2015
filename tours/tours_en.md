@@ -1,4 +1,4 @@
-#Social Events
+#Excursions
 
 **Disclaimer: This Web site was developed for information. Under no circumstances the organization and the university are responsible for mishaps related accommodations. The information and statements contained in this guide may change by exchange rate fluctuations or changes in rates of companies.**
 

@@ -1,4 +1,4 @@
-#Eventos Sociales
+#Excursiones
 
 **Aclaración: Esta página fue desarrollada a modo informativo. Bajo ningún
 concepto la organización ni la universidad se hacen
