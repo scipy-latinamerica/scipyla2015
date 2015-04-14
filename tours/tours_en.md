@@ -44,7 +44,7 @@ Value of the trip per person: **$ 339**, up to 3 payments without interest. Disc
 - Link of interest: http://goo.gl/uYsy7q - youtube video Ruinas
 
 <div style="text-align:center">
-    <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/si.jpg" />
+    <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/si.jpg" /><br>
     <small>Cruz de Santa Ana and Ruinas de San Ignacio</small>
 </div>
 
@@ -69,7 +69,7 @@ Value of the trip per person: **$ 719**, up to 3 payments without interest. Disc
 - Link of interest: www.iguazuargentina.com
 
 <div style="text-align:center">
-    <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/iguazu.gif" />
+    <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/iguazu.gif" /><br>
     <small>Iguazu Falls</small>
 </div>
 

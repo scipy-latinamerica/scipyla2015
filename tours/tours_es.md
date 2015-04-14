@@ -63,7 +63,7 @@ Descuento en efectivo **$ 295**
 - Link de interés: http://goo.gl/uYsy7q - video youtube Ruinas
 
 <div style="text-align:center">
-    <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/si.jpg" />
+    <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/si.jpg" /><br>
     <small>Cruz de Santa Ana y Ruinas de San Ignacio</small>
 </div>
 
@@ -100,7 +100,7 @@ Descuento en efectivo **$ 625**
 - Link de interés: www.iguazuargentina.com
 
 <div style="text-align:center">
-    <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/iguazu.gif" />
+    <img src ="https://raw.githubusercontent.com/scipy-latinamerica/scipyla2015/master/tours/imgs/iguazu.gif" /><br>
     <small>Cataratas del Iguazú</small>
 </div>
 
