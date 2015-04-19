@@ -7,7 +7,7 @@ Any questions? Please get in touch by  info@scipyla.org, with the subject *"Gran
 ## Timeline
 
  * May 15th, 2015: Financial aid application close.
- * May 18th, 2014: Financial aid grants awarded
+ * May 18th, 2014: Financial aid grants awarded.
    
 ## Philosophy
 
