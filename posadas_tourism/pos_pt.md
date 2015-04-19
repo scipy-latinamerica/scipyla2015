@@ -10,7 +10,7 @@ Mais Informações:
 
 - [Viajem à Posadas](/venue/traveling)
 - [Hotéis](/venue/accomodation)
-- Turismo (Em breve!)
+- [Turismo](/venue/tours)
 
 ## La Costanera de Posadas
 

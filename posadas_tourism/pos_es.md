@@ -11,7 +11,7 @@ Mas Información:
 
 - [Viajar a Posadas](/venue/traveling)
 - [Hoteles](/venue/accomodation)
-- Turismo (Comming soon!)
+- [Excursiones](/venue/tours)
 
 
 ## La Costanera de Posadas

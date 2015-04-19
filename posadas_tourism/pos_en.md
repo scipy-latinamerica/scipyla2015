@@ -7,7 +7,7 @@ More information:
 
 - [Travel to Posadas](/venue/traveling)
 - [Hotels](/venue/accomodation)
-- Tourism (Comming soon!)
+- [Excursions](/venue/tours)
 
 
 ## The costal road of the city of Posadas
