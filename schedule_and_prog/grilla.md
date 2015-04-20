@@ -1,6 +1,6 @@
 ##Miércoles 20 de Mayo del 2015
 
-||**Hora**||**Sala Machinalis||**Sala PSF**||
+||**Hora**||**Sala Machinalis**||**Sala PSF**||
 ||09:30 – 11:10||Versionado de código con Git - Juan Fisanotti & Raniere Silva||Open space||
 ||11:10 – 11:30||Break||
 ||11:30 – 12:10||Versionado de código con Git - Juan Fisanotti & Raniere Silva||Presentación Vectorial basado en DSL Reactivo - Nahuel Defossé||
@@ -17,7 +17,7 @@
 
 ##Jueves 21 de Mayo del 2015**
 
-||**Hora**||**Sala Machinalis||**Sala PSF**||
+||**Hora**||**Sala Machinalis**||**Sala PSF**||
 ||09:30 – 11:10||Cómo acelerar tu código Python - Juan Luis Cano & Kiko Correoso||Data Science for Managers - Patricio Del Boca||
 ||11:10 – 11:30||Break||
 ||11:30 – 12:10||Cómo acelerar tu código Python - Juan Luis Cano & Kiko Correoso||Cantor - uma IDE científica multilinguagem orientada a notebooks - Filipe Saraiva||
@@ -33,7 +33,7 @@
 
 ##Viernes 22 de Mayo del 2015**
 
-||**Hora**||**Sala Machinalis||**Sala PSF**||
+||**Hora**||**Sala Machinalis**||**Sala PSF**||
 ||09:30 – 11:10||How to interpret your own genome using (mostly) Python - Marcel Caraciolo||Open space||
 ||11:10 – 11:30||Break||
 ||11:30 – 12:10||How to interpret your own genome using (mostly) Python - Marcel Caraciolo||Open space||
