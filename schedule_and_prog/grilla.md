@@ -19,7 +19,7 @@
 
 ||**Hora**||**Sala Machinalis**||**Sala PSF**||
 ||09:30 – 11:10||Cómo acelerar tu código Python - Juan Luis Cano & Kiko Correoso||Data Science for Managers - Patricio Del Boca||
-||11:10 – 11:30||Break||Break||-||
+||11:10 – 11:30||Break||-||
 ||11:30 – 12:10||Cómo acelerar tu código Python - Juan Luis Cano & Kiko Correoso||Cantor - uma IDE científica multilinguagem orientada a notebooks - Filipe Saraiva||
 ||12:10 – 12:50||Cómo acelerar tu código Python - Juan Luis Cano & Kiko Correoso||Spyder: An IDE designed for scientists - Carlos Cordoba||
 ||12:50 – 14:20||Almuerzo||-||
