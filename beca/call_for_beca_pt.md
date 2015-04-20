@@ -1,8 +1,8 @@
 # Auxílio Financeiro
 
 Para solicitar auxílio financeiro,
-[inscrever-se] (https://conf.scipyla.org/user/register)
-ou [acesse] (https://conf.scipyla.org/user/login) sua conta
+[inscrever-se](https://conf.scipyla.org/user/register)
+ou [acesse](https://conf.scipyla.org/user/login) sua conta
 e proceda coma a aplicação para auxílio financeira
 na sua configuração de perfil.
 
