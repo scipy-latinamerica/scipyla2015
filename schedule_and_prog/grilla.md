@@ -15,7 +15,7 @@
 ||18:30 – 19:30||Lightning talks||-||
 
 
-##Jueves 21 de Mayo del 2015**
+##Jueves 21 de Mayo del 2015
 
 ||**Hora**||**Sala Machinalis**||**Sala PSF**||
 ||09:30 – 11:10||Cómo acelerar tu código Python - Juan Luis Cano & Kiko Correoso||Data Science for Managers - Patricio Del Boca||
@@ -31,7 +31,7 @@
 ||17:30 – 18:30||Extreme Value Theory with Python - Kiko Correoso||-||
 ||18:30 – 19:30||Lightning talks||-||
 
-##Viernes 22 de Mayo del 2015**
+##Viernes 22 de Mayo del 2015
 
 ||**Hora**||**Sala Machinalis**||**Sala PSF**||
 ||09:30 – 11:10||How to interpret your own genome using (mostly) Python - Marcel Caraciolo||Open space||
