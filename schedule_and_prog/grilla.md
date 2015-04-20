@@ -12,7 +12,7 @@
 ||17:00 – 17:30||Break + Poster||-||
 ||17:30 – 18:30||Software Carpentry Foundation: Plans for Latin America - Raniere Silva||-||
 ||18:30 – 19:30||Lightning talks||-||
-||-||**Jueves 21 de Mayo del 2015**||-||
+||-|| ##Jueves 21 de Mayo del 2015 ||-||
 ||09:30 – 11:10||Cómo acelerar tu código Python - Juan Luis Cano & Kiko Correoso||Data Science for Managers - Patricio Del Boca||
 ||11:10 – 11:30||Break||Break||-||
 ||11:30 – 12:10||Cómo acelerar tu código Python - Juan Luis Cano & Kiko Correoso||Cantor - uma IDE científica multilinguagem orientada a notebooks - Filipe Saraiva||
