@@ -1,7 +1,7 @@
 ###Miércoles 20 de Mayo del 2015
 
 ||**Hora**||**Sala Machinalis**||**Sala PSF**||
-||09:30 – 11:10||Versionado de código con Git - Juan Fisanotti & Raniere Silva||Open space||
+||09:30 – 11:10||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Open space||
 ||11:10 – 11:30||Break||-||
 ||11:30 – 12:10||Versionado de código con Git - Juan Fisanotti & Raniere Silva||Presentación Vectorial basado en DSL Reactivo - Nahuel Defossé||
 ||12:10 – 12:50||Versionado de código con Git - Juan Fisanotti & Raniere Silva||A Python Solution for Supporting the Exploration of Bus Based Communication Design Spaces in Embedded Systems Projects - Guilherme Esmeraldo||
