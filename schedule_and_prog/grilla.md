@@ -6,10 +6,10 @@
 ||11:30 – 12:10||Cómo acelerar tu código Python - *Juan Luis Cano & Kiko Correoso*||Presentación Vectorial basado en DSL Reactivo - *Nahuel Defossé*||
 ||12:10 – 12:50||Cómo acelerar tu código Python - *Juan Luis Cano & Kiko Correoso*||A Python Solution for Supporting the Exploration of Bus Based Communication Design Spaces in Embedded Systems Projects - *Guilherme Esmeraldo*||
 ||12:50 – 14:20||Almuerzo||-||
-||14:20 – 15:00||Per Python ad astra - *Juan Luis Cano Rodríguez*||Open space||
+||14:20 – 15:00||Multicriterio y Escalas Ordinales - *Juan B Cabral*||Open space||
 ||15:00 – 15:40||El uso de Python como apoyo al pesaje de vehículos de carga en movimiento -  *Ivan Ogassavara*||Open space||
 ||15:40 – 16:20||Simulación de reacciones de polimerización RAFT mediante el modelo cinético de Monte Carlo utilizando Julia - *Esteban Pintos*||Open space||
-||16:20 – 17:00||Freelanscience - *Pablo Gabriel Celayes*||Open space||
+||16:20 – 17:00||Detección de eventos transitorios en imágenes astronómicas - *Bruno Sánchez*||Open space||
 ||17:00 – 17:30||Break + Poster||-||
 ||17:30 – 18:30||Extreme Value Theory with Python - *Kiko Correoso*||-||
 ||18:30 – 19:30||Lightning talks||-||
@@ -23,9 +23,9 @@
 ||11:30 – 12:10||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Cantor - uma IDE científica multilinguagem orientada a notebooks - *Filipe Saraiva*||
 ||12:10 – 12:50||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Spyder: An IDE designed for scientists - *Carlos Cordoba*||
 ||12:50 – 14:20||Almuerzo||-||
-||14:20 – 15:00||Multicriterio y Escalas Ordinales - *Juan B Cabral*||Open space||
+||14:20 – 15:00||Per Python ad astra - *Juan Luis Cano Rodríguez*||Open space||
 ||15:00 – 15:40||Information Extraction, herramientas y visualización, todo con IEPY - *Javier Mansilla*||Open space||
-||15:40 – 16:20||Detección de eventos transitorios en imágenes astronómicas - *Bruno Sánchez*||Open space||
+||15:40 – 16:20||Freelanscience - *Pablo Gabriel Celayes*||Open space||
 ||16:20 – 17:00||Machine Learning y problemas pequeños - *Juan Pedro Fisanotti*||Open space||
 ||17:00 – 17:30||Break + Poster||-||
 ||17:30 – 18:30||Software Carpentry Foundation: Plans for Latin America - *Raniere Silva*||-||
