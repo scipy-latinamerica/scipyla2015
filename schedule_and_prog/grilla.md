@@ -3,8 +3,8 @@
 ||**Hora**||**Sala Machinalis**||**Sala PSF**||
 ||09:30 – 11:10||Cómo acelerar tu código Python - *Juan Luis Cano & Kiko Correoso*||-||
 ||11:10 – 11:30||Break||-||
-||11:30 – 12:10||Cómo acelerar tu código Python - *Juan Luis Cano & Kiko Correoso*||-||
-||12:10 – 12:50||Cómo acelerar tu código Python - *Juan Luis Cano & Kiko Correoso*||A Python Solution for Supporting the Exploration of Bus Based Communication Design Spaces in Embedded Systems Projects - *Guilherme Esmeraldo*||
+||11:30 – 12:10||Cómo acelerar tu código Python - *Juan Luis Cano & Kiko Correoso*||A Python Solution for Supporting the Exploration of Bus Based Communication Design Spaces in Embedded Systems Projects - *Guilherme Esmeraldo*||
+||12:10 – 12:50||Cómo acelerar tu código Python - *Juan Luis Cano & Kiko Correoso*||-||
 ||12:50 – 14:20||Almuerzo||-||
 ||14:20 – 15:00||Multicriterio y Escalas Ordinales - *Juan B Cabral*||-||
 ||15:00 – 15:40||El uso de Python como apoyo al pesaje de vehículos de carga en movimiento -  *Ivan Ogassavara*||-||
