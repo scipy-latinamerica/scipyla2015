@@ -18,10 +18,10 @@
 ###Jueves 21 de Mayo del 2015
 
 ||**Hora**||**Sala Machinalis**||**Sala PSF**||
-||09:30 – 11:10||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Data Science for Managers - *Patricio Del Boca*||
+||09:30 – 11:10||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||-||
 ||11:10 – 11:30||Break||-||
-||11:30 – 12:10||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Presentación Vectorial basado en DSL Reactivo - *Nahuel Defossé*||
-||12:10 – 12:50||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Spyder: An IDE designed for scientists - *Carlos Cordoba*||
+||11:30 – 12:10||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||-||
+||12:10 – 12:50||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||-||
 ||12:50 – 14:20||Almuerzo||-||
 ||14:20 – 15:00||Per Python ad astra - *Juan Luis Cano Rodríguez*||-||
 ||15:00 – 15:40||Information Extraction, herramientas y visualización, todo con IEPY - *Javier Mansilla*||-||
@@ -34,10 +34,10 @@
 ###Viernes 22 de Mayo del 2015
 
 ||**Hora**||**Sala Machinalis**||**Sala PSF**||
-||09:30 – 11:10||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||-||
+||09:30 – 11:10||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Data Science for Managers - *Patricio Del Boca*||
 ||11:10 – 11:30||Break||-||
-||11:30 – 12:10||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||-||
-||12:10 – 12:50||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||-||
+||11:30 – 12:10||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Presentación Vectorial basado en DSL Reactivo - *Nahuel Defossé*||
+||12:10 – 12:50||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Spyder: An IDE designed for scientists - *Carlos Cordoba*||
 ||12:50 – 14:20||Almuerzo||-||
 ||14:20 – 15:00||Bokeh: Complejas visualizaciones a la vuelta de la esquina - *Damián Avila*||-||
 ||15:00 – 15:40||Procesamiento de Imágenes con Python y OpenCV para extracción del perfil de escaneo en listones de madera machihembrada - *Alejandro Dario*||-||
