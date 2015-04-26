@@ -24,7 +24,8 @@ La propuesta a realizar debe incluir:
  - **Actividades sociales** (recepción, paseos turísticos, asado, fiesta de cierre), si bien no son imprescindibles, pueden ser muy interesantes para los viajeros internacionales y es una excelente oportunidad para conocer gente y hablar sobre proyectos de manera más distendida. Ver [SciPyCon Argentina 2013](http://www.scipyla.org/conf/2013/venue/index.html)
  - **Plaza hotelera** (oficialmente se debería elegir un hotel standard accesible y también un hotel 5 estrellas para los participantes que así lo requieran). Por experiencia, los hoteles deberían ser céntricos para facilitar la movilidad de los pasajeros, y tener flexibilidad para las reservas/pagos. Ver [SciPyCon Argentina 2013](http://www.scipyla.org/conf/2013/venue/index.html)
  
- ###Consejos
+### Consejos
+ 
 - Recomendamos que la sea de entrada libre y gratuita a todas las actividades.
 - Mantener actividades para adolecentes y/o estudiantes de colegio secundario.
 - Enfocarse en tener relaciones con las instituciones y centros de investigación cercanos a la sede de la conferencia.
