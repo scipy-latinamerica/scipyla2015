@@ -10,7 +10,7 @@ La propuesta a realizar debe incluir:
    se realiza la conferencia (SciPy Argentina 2013 tuvo lugar en Puerto Madryn Argentina,
    SciPy Argentina 2014 se realizó en Bahía Blanca Argentina, en la versión 2015 se
    realiza el cambio de nombre a SciPy Latin América y tiene sede en Posadas Argentina).
-   Es esperable que la versión 2016 tome luga en algún país de latinoamérica.
+   Es esperable que la versión 2016 tome lugar en algún país de latinoamérica.
     - Hacer hincapié en temas como diversidad, ampliar la comunidad o conectarse con otras comunidades, enfoque a la industria, herramientas, core, educación etc., público estimado y difusión (medios).
    
  - **Experiencia Previa** Eventos como PyCon o conferencias científicas u otros eventos locales y/o internacionales), 
