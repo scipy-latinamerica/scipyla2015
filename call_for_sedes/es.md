@@ -11,7 +11,7 @@ La propuesta a realizar debe incluir:
    SciPy Argentina 2014 se realizó en Bahía Blanca Argentina, en la versión 2015 se
    realiza el cambio de nombre a SciPy Latin América y tiene sede en Posadas Argentina).
    Es esperable que la versión 2016 tome luga en algún país de latinoamérica.
-    - Hacer incapié en temas como diversidad, ampliar la comunidad o conectarse con otras comunidades, enfoque a la industria, herramientas, core, educación etc.), público estimado y difusión (medios).
+    - Hacer hincapié en temas como diversidad, ampliar la comunidad o conectarse con otras comunidades, enfoque a la industria, herramientas, core, educación etc.), público estimado y difusión (medios).
    
  - **Experiencia Previa** Eventos como PyCon o conferencias científicas u otros eventos locales y/o internacionales), 
    disponibilidad / recursos afectados y método de organización (lista de correo, grupo, wiki, etc.). 
@@ -23,7 +23,7 @@ La propuesta a realizar debe incluir:
  - **Temas Accesorios**: impresiones (programas, credenciales, microtutoriales), artículos promocionales (remera, recuerdos, bolsa, etc.), catering (desayunos, almuerzos y coffee breaks) y logística (combis / taxis, si corresponde)
  - **Actividades sociales** (recepción, paseos turísticos, asado, fiesta de cierre), si bien no son imprescindibles, pueden ser muy interesantes para los viajeros internacionales y es una excelente oportunidad para conocer gente y hablar sobre proyectos de manera más distendida. Ver [SciPyCon Argentina 2013](http://www.scipyla.org/conf/2013/venue/index.html)
  - **Formas de llegar** Aeropuertos, colectivos y otros medios de transporte para tráfico nacional e internacional.
- - **Comunidad local** Grupos de interés relacionados con la ciencia y/o Python que puedan participar como público, asistentes u oranización.
+ - **Comunidad local** Grupos de interés relacionados con la ciencia y/o Python que puedan participar como público, asistentes u organización.
  - **Plaza hotelera** (oficialmente se debería elegir un hotel standard accesible y también un hotel 5 estrellas para los participantes que así lo requieran). Por experiencia, los hoteles deberían ser céntricos para facilitar la movilidad de los pasajeros, y tener flexibilidad para las reservas/pagos. Ver [SciPyCon Argentina 2013](http://www.scipyla.org/conf/2013/venue/index.html)
  
 ### Consejos
