@@ -57,5 +57,5 @@
 - Visualización de datos geográficos con Basemap- *Celia Cintas*
 - Construyendo redes neuronales de forma fácil con Lasagne- *Celia Cintas*
 - PyTrack: Diagnóstico temprano de autismo por medio de seguimiento ocular- *Celia Cintas*
-- A Python Solution for Exploring Bus Based Communication Design Spaces in Embedded Systems Projects    Guilherme Esmeraldo*
+- A Python Solution for Exploring Bus Based Communication Design Spaces in Embedded Systems Projects -* Guilherme Esmeraldo*
 
