@@ -46,3 +46,16 @@
 ||17:00 – 17:30||Break + Poster||-||
 ||17:30 – 18:30||Python and Bioinformatics, how Python is helping interpret our own genome - *Marcel Caraciolo*||--||
 ||18:30 – 19:30||Mesa Redonda – SciPy LA 2016||-||
+
+## Posters
+
+- Rapid development of high quality free software   *Mariano Reingart*
+- Implementación de un sistema de cómputo distribudo Map-Reduce sobre AMQP *Juan B Cabral*
+- Utilizando Python Mode en Processing para visualización en la enseñanza de problemas clásicos de concurrencia en Sistemas Operativos- *Nahuel Defossé*
+- noWorkflow: provenance from python scripts- *Joao Pimentel, Leonardo Murta, Vanessa Braganholo*
+- OpenDEA: Desarrollo de desfibrilador de entrenamiento de bajo costo con Python y Raspberry Pi- *Celia Cintas, Mirsha Quinto-Sanchez*
+- Visualización de datos geográficos con Basemap- *Celia Cintas*
+- Construyendo redes neuronales de forma fácil con Lasagne- *Celia Cintas*
+- PyTrack: Diagnóstico temprano de autismo por medio de seguimiento ocular- *Celia Cintas*
+- A Python Solution for Exploring Bus Based Communication Design Spaces in Embedded Systems Projects    Guilherme Esmeraldo*
+
