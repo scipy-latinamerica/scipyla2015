@@ -1,4 +1,4 @@
-# Call for sedes 2016
+# Call for sede 2016
 
 Invitamos a los interesados a organizar la SciPy Latninamerica 2016 a realizar
 las propuestas de sede.
@@ -10,18 +10,20 @@ La propuesta a realizar debe incluir:
    se realiza la conferencia (SciPy Argentina 2013 tuvo lugar en Puerto Madryn Argentina,
    SciPy Argentina 2014 se realizó en Bahía Blanca Argentina, en la versión 2015 se
    realiza el cambio de nombre a SciPy Latin América y tiene sede en Posadas Argentina).
-   Es esperable que la versión 2016 tome luga en algún país de latinoamérica.
-    - Hacer incapié en temas como diversidad, ampliar la comunidad o conectarse con otras comunidades, enfoque a la industria, herramientas, core, educación etc.), público estimado y difusión (medios).
+   Es esperable que la versión 2016 tome lugar en algún país de latinoamérica.
+    - Hacer hincapié en temas como diversidad, ampliar la comunidad o conectarse con otras comunidades, enfoque a la industria, herramientas, core, educación etc., público estimado y difusión (medios).
    
  - **Experiencia Previa** Eventos como PyCon o conferencias científicas u otros eventos locales y/o internacionales), 
    disponibilidad / recursos afectados y método de organización (lista de correo, grupo, wiki, etc.). 
  - **Sede tentativa** (Universidades, Centros de Investigación, Institutos de Capacitación, Coworking o similar)
  - **Roles principales** (comité organizador, comisión científica)
  - **Organización formal** (ONGs, Universidades o similar para el manejo de fondos): cuentas bancarias, tesoreros/gestores y cualquier otro tema que pudiera surgir (ej. sponsors y tiempos).
- - **Propuestas de días y cronograma general** ( charlas y actividades especiales como posters, reuniones de trabajo, talleres, etc.). No olvidar el Llamado a Propuestas.
+ - **Propuestas de días y cronograma general** ( charlas y actividades especiales como posters, reuniones de trabajo, talleres, etc.). No olvidar el Llamado a Propuestas (talks, papers y otros formatos).
  - **Presupuesto aproximado y financiamiento** Ver Llamado a [Sponsors](http://www.scipyla.org/conf/2013/sponsors/index.html). Importante: debido a dificultades para recibir fondos desde el exterior, recomendamos no hacer descuentos ni otras facilidades para los auspiciantes extranjeros, y contemplar al menos 4 meses para realizar todos los trámites necesarios y poder recibir el dinero.
  - **Temas Accesorios**: impresiones (programas, credenciales, microtutoriales), artículos promocionales (remera, recuerdos, bolsa, etc.), catering (desayunos, almuerzos y coffee breaks) y logística (combis / taxis, si corresponde)
  - **Actividades sociales** (recepción, paseos turísticos, asado, fiesta de cierre), si bien no son imprescindibles, pueden ser muy interesantes para los viajeros internacionales y es una excelente oportunidad para conocer gente y hablar sobre proyectos de manera más distendida. Ver [SciPyCon Argentina 2013](http://www.scipyla.org/conf/2013/venue/index.html)
+ - **Formas de llegar** Aeropuertos, colectivos y otros medios de transporte para tráfico nacional e internacional.
+ - **Comunidad local** Grupos de interés relacionados con la ciencia y/o Python que puedan participar como público, asistentes u organización.
  - **Plaza hotelera** (oficialmente se debería elegir un hotel standard accesible y también un hotel 5 estrellas para los participantes que así lo requieran). Por experiencia, los hoteles deberían ser céntricos para facilitar la movilidad de los pasajeros, y tener flexibilidad para las reservas/pagos. Ver [SciPyCon Argentina 2013](http://www.scipyla.org/conf/2013/venue/index.html)
  
 ### Consejos
