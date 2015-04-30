@@ -1,4 +1,21 @@
-###Miércoles 20 de Mayo del 2015
+#Pre-SciPy Latin América 2015
+
+## Lunes 18 de Mayo del 2015
+
+||**Hora**||**Talk**||
+||18:10 - 19:00||Ciencia y Programación (Una introducción a Python) - *Juan B Cabral*||
+||19:10 - 20:00||Múltiples Herramientas Científicas en Python - *Damián Avila*||
+
+## Martes 19 de Mayo del 2015
+
+||**Hora**||**Talk**||
+||18:10 - 19:00||IPython notebook en la docencia universitaria. - *Nahuel Defossé*||
+||19:10 - 20:00||Showing some of the goodies: pandas, scikit-learn and matplotlib - *Celia Cintas*||
+
+
+#SciPy Latin América 2015
+
+##Miércoles 20 de Mayo del 2015
 
 ||**Hora**||**Sala Machinalis**||**Sala PSF**||
 ||09:30 – 11:10||Cómo acelerar tu código Python - *Juan Luis Cano & Kiko Correoso*||-||
@@ -15,7 +32,7 @@
 ||18:30 – 19:30||Lightning talks||-||
 
 
-###Jueves 21 de Mayo del 2015
+##Jueves 21 de Mayo del 2015
 
 ||**Hora**||**Sala Machinalis**||**Sala PSF**||
 ||09:30 – 11:10||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||-||
@@ -31,7 +48,7 @@
 ||17:30 – 18:30||Software Carpentry Foundation: Plans for Latin America - *Raniere Silva*||-||
 ||18:30 – 19:30||Lightning talks||-||
 
-###Viernes 22 de Mayo del 2015
+##Viernes 22 de Mayo del 2015
 
 ||**Hora**||**Sala Machinalis**||**Sala PSF**||
 ||09:30 – 11:10||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Data Science for Managers - *Patricio Del Boca*||
