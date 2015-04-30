@@ -9,7 +9,7 @@
 ## Martes 19 de Mayo del 2015
 
 ||**Hora**||**Talk**||
-||18:10 - 19:00||IPython notebook en la docencia universitaria. - *Nahuel Defossé*||
+||18:10 - 19:00||Enseñando con un paper interactivo - *Nahuel Defossé*||
 ||19:10 - 20:00||Showing some of the goodies: pandas, scikit-learn and matplotlib - *Celia Cintas*||
 
 
