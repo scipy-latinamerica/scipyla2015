@@ -34,35 +34,35 @@
 
 ##Jueves 21 de Mayo del 2015
 
-||**Hora**||**Sala Machinalis**||**Sala PSF**||
-||09:30 – 11:10||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||-||
-||11:10 – 11:30||Break||-||
-||11:30 – 12:10||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||-||
-||12:10 – 12:50||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||-||
-||12:50 – 14:20||Almuerzo||-||
-||14:20 – 15:00||Per Python ad astra - *Juan Luis Cano Rodríguez*||-||
-||15:00 – 15:40||Information Extraction, herramientas y visualización, todo con IEPY - *Javier Mansilla*||-||
-||15:40 – 16:20||Freelanscience - *Pablo Gabriel Celayes*||-||
-||16:20 – 17:00||Machine Learning y problemas pequeños - *Juan Pedro Fisanotti*||-||
-||17:00 – 17:30||Break + Poster||-||
-||17:30 – 18:30||Software Carpentry Foundation: Plans for Latin America - *Raniere Silva*||-||
-||18:30 – 19:30||Lightning talks||-||
+||**Hora**||**Sala Machinalis**||
+||09:30 – 11:10||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||
+||11:10 – 11:30||Break||
+||11:30 – 12:10||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||
+||12:10 – 12:50||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||
+||12:50 – 14:20||Almuerzo||
+||14:20 – 15:00||Per Python ad astra - *Juan Luis Cano Rodríguez*||
+||15:00 – 15:40||Information Extraction, herramientas y visualización, todo con IEPY - *Javier Mansilla*||
+||15:40 – 16:20||Freelanscience - *Pablo Gabriel Celayes*||
+||16:20 – 17:00||Machine Learning y problemas pequeños - *Juan Pedro Fisanotti*||
+||17:00 – 17:30||Break + Poster||
+||17:30 – 18:30||Software Carpentry Foundation: Plans for Latin America - *Raniere Silva*||
+||18:30 – 19:30||Lightning talks||
 
 ##Viernes 22 de Mayo del 2015
 
-||**Hora**||**Sala Machinalis**||**Sala PSF**||
+||**Hora**||**Sala Machinalis**||
 ||09:30 – 11:10||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Data Science for Managers - *Patricio Del Boca*||
-||11:10 – 11:30||Break||-||
+||11:10 – 11:30||Break||
 ||11:30 – 12:10||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Presentación Vectorial basado en DSL Reactivo - *Nahuel Defossé*||
 ||12:10 – 12:50||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Spyder: An IDE designed for scientists - *Carlos Cordoba*||
-||12:50 – 14:20||Almuerzo||-||
-||14:20 – 15:00||Bokeh: Complejas visualizaciones a la vuelta de la esquina - *Damián Avila*||-||
-||15:00 – 15:40||Procesamiento de Imágenes con Python y OpenCV para extracción del perfil de escaneo en listones de madera machihembrada - *Alejandro Dario*||-||
-||15:40 – 16:20||noWorkflow: capturing provenance from python scripts - *Joao Pimentel, Leonardo Murta y Vanessa Braganholo*||-||
-||16:20 – 17:00||A Python Solution for Supporting the Exploration of Bus Based Communication Design Spaces in Embedded Systems Projects - *Guilherme Esmeraldo*||-||
-||17:00 – 17:30||Break + Poster||-||
-||17:30 – 18:30||Python and Bioinformatics, how Python is helping interpret our own genome - *Marcel Caraciolo*||--||
-||18:30 – 19:30||Mesa Redonda – SciPy LA 2016||-||
+||12:50 – 14:20||Almuerzo||
+||14:20 – 15:00||Bokeh: Complejas visualizaciones a la vuelta de la esquina - *Damián Avila*||
+||15:00 – 15:40||Procesamiento de Imágenes con Python y OpenCV para extracción del perfil de escaneo en listones de madera machihembrada - *Alejandro Dario*||
+||15:40 – 16:20||noWorkflow: capturing provenance from python scripts - *Joao Pimentel, Leonardo Murta y Vanessa Braganholo*||
+||16:20 – 17:00||A Python Solution for Supporting the Exploration of Bus Based Communication Design Spaces in Embedded Systems Projects - *Guilherme Esmeraldo*||
+||17:00 – 17:30||Break + Poster||
+||17:30 – 18:30||Python and Bioinformatics, how Python is helping interpret our own genome - *Marcel Caraciolo*||-
+||18:30 – 19:30||Mesa Redonda – SciPy LA 2016||
 
 ## Posters
 
