@@ -1,2 +1,3 @@
 flyer/img/sponsors.png
-schedule_and_prog/build/*
+schedule_and_prog/prog/_temp/*
+schedule_and_prog/prog/_build/*
