@@ -16,7 +16,7 @@ utilizando como assuntocom o assunto *"Beca(Grant)"* .
 
 ## Datas importantes
 
-* 15 maio de 2015: Prazo para solicitação de auxílio financeiro.
+* ~~15 maio de 2015: Prazo para solicitação de auxílio financeiro.~~ **CLOSED**
 * 18 maio de 2014: Anúncio da atribuição de auxílio financeiro.
 
 ## Filosofia

@@ -14,7 +14,7 @@ with *"Beca(Grant)"* in the subject field.
 
 ## Important Dates
 
-* May 15, 2015: Deadline for request.
+* ~~May 12, 2015: Deadline for request.~~ **CLOSED**
 * May 18, 2014: Announce of financial aids allocation.
 
 ## Philosophy
