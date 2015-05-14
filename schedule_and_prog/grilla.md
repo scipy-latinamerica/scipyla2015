@@ -54,12 +54,12 @@
 ||09:30 – 11:10||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Data Science for Managers - *Patricio Del Boca*||
 ||11:10 – 11:30||Break||-||
 ||11:30 – 12:10||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Presentación Vectorial basado en DSL Reactivo - *Nahuel Defossé*||
-||12:10 – 12:50||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||Spyder: An IDE designed for scientists - *Carlos Cordoba*||
+||12:10 – 12:50||Versionado de código con Git - *Juan Fisanotti & Raniere Silva*||-||
 ||12:50 – 14:20||Almuerzo||-||
 ||14:20 – 15:00||Bokeh: Complejas visualizaciones a la vuelta de la esquina - *Damián Avila*||-||
 ||15:00 – 15:40||Procesamiento de Imágenes con Python y OpenCV para extracción del perfil de escaneo en listones de madera machihembrada - *Alejandro Dario*||-||
 ||15:40 – 16:20||noWorkflow: capturing provenance from python scripts - *Joao Pimentel, Leonardo Murta y Vanessa Braganholo*||-||
-||16:20 – 17:00||A Python Solution for Supporting the Exploration of Bus Based Communication Design Spaces in Embedded Systems Projects - *Guilherme Esmeraldo*||-||
+||16:20 – 17:00||Spyder: An IDE designed for scientists - *Carlos Cordoba*||-||
 ||17:00 – 17:30||Break + Poster||-||
 ||17:30 – 18:30||Python and Bioinformatics, how Python is helping interpret our own genome - *Marcel Caraciolo*||--||
 ||18:30 – 19:30||Mesa Redonda – SciPy LA 2016||-||
