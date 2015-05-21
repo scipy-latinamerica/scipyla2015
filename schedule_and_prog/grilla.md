@@ -35,10 +35,10 @@
 ##Jueves 21 de Mayo del 2015
 
 ||**Hora**||**Sala Machinalis**||
-||09:30 – 11:10||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||
+||09:30 – 11:10||Simple AI - *Juan Pedro Fisanotti*||
 ||11:10 – 11:30||Break||
-||11:30 – 12:10||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||
-||12:10 – 12:50||How to interpret your own genome using (mostly) Python - *Marcel Caraciolo*||
+||11:30 – 12:10||-||
+||12:10 – 12:50||Algoritmo Streaming - *Lucio Torres*||
 ||12:50 – 14:20||Almuerzo||
 ||14:20 – 15:00||Per Python ad astra - *Juan Luis Cano Rodríguez*||
 ||15:00 – 15:40||Information Extraction, herramientas y visualización, todo con IEPY - *Javier Mansilla*||
