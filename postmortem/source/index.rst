@@ -11,6 +11,17 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+    thanks.rst
+    intro.rst
+    objetivos.rst
+    agenda.rst
+    talks.rst
+    trackteen.rst
+    international_speakers.rst
+    on_the_fly.rst
+    finance.rst
+    feedback.rst
+    close.rst
     memos/memo.rst
 
 
