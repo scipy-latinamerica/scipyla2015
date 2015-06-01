@@ -66,12 +66,9 @@
 
 ## Posters
 
-- Rapid development of high quality free software - *Mariano Reingart*
 - Implementación de un sistema de cómputo distribudo Map-Reduce sobre AMQP - *Juan B Cabral*
-- Utilizando Python Mode en Processing para visualización en la enseñanza de problemas clásicos de concurrencia en Sistemas Operativos - *Nahuel Defossé*
 - noWorkflow: provenance from python scripts - *Joao Pimentel, Leonardo Murta, Vanessa Braganholo*
 - OpenDEA: Desarrollo de desfibrilador de entrenamiento de bajo costo con Python y Raspberry Pi - *Celia Cintas, Mirsha Quinto-Sanchez*
 - Visualización de datos geográficos con Basemap - *Celia Cintas*
 - Construyendo redes neuronales de forma fácil con Lasagne - *Celia Cintas*
-- PyTrack: Diagnóstico temprano de autismo por medio de seguimiento ocular - *Celia Cintas*
 
