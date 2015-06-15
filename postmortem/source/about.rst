@@ -5,7 +5,7 @@ Acerca de ...
 Licencia
 --------
 
-.. figure:: about/cc.png
+.. figure:: _static/about/cc.png
     :align: center
     :scale: 20 %
 

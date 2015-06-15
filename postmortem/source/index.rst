@@ -23,7 +23,7 @@ Contents:
     finance.rst
     feedback.rst
     close.rst
-    memos/memo.rst
+    memos/memos.rst
 
 
 Indices and tables

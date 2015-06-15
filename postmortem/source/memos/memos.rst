@@ -5,7 +5,7 @@ Solo dos reuniones se llevaron a cabo oficialmente, luego por problemas
 logísticos y de salud de quien les subscribe, se siguió coordinando por emails.
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 1
 
-    1_memo.rst
-    2_memo.rst
+    memo_1.rst
+    memo_2.rst
