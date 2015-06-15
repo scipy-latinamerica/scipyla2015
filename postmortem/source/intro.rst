@@ -28,6 +28,6 @@ Juan B Cabral
 
 .. image:: _static/intro/guarani.jpg
     :align: center
-    :scale: 10 %
+    :scale: 50 %
 
 
