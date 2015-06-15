@@ -13,11 +13,9 @@ la ciencia.
 
 Los siguientes años la conferencia no solo ya nos excede a los promotores
 originales y al país donde empezamos a jugar. Ahora le toca
-el turno a Brasil. Ojalá nos superen
+el turno a Brasil. Ojalá nos superen.
+
 
 
 Juan B Cabral
 
-Coordinador General
-
-SciPy Latin America 2015
