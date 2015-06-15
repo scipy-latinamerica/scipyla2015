@@ -7,7 +7,6 @@ Licencia
 
 .. figure:: _static/about/cc.png
     :align: center
-    :scale: 20 %
 
     SciPy Latin America 2015 - Post-Mortem por SciPyLa se
     encuentra bajo una licencia
@@ -22,7 +21,6 @@ Referencias
 - Pagina web del evento: http://www.scipyla.org/conf/2015/
 - SciPy Latin America: http://scipyla.org
 - Pycon Argentina 2012 - Post-Mortem: http://pyconar20012-postmortem.readthedocs.org
-- Free software and education - Fighting the digital divide: http://www.downes.ca/presentation/247
 
 
 Objetivo y estructura de este documento
@@ -41,9 +39,6 @@ siguientes criterios:
 - Factores críticos (proveedores)
 - Feedback (Todos los artículos relacionados con opiniones)
 
-La estructúra de "Lo Bueno, Lo Malo y Lo Feo" esta inspirada en el artículo
-*Free software and education - Fighting the digital divide*.
-
 Todas las referencias aquí citadas se encuentran debidamente enlazadas en el
 apartado *Referencias* de este mismo capítulo.
 
@@ -52,8 +47,8 @@ Staff
 -----
 
 SciPy Latin America es organizada por un grupo de voluntarios dedicados y con
-experiencia en la comunidad internacional de Python. El núcleo del comité de
-organización consiste en:
+experiencia en la comunidad internacional de Python Científico. El núcleo del
+comité de organización consiste en:
 
 - **Coordinador General:** Juan B. Cabral <jbc.develop@gmail.com>
 - **Coordinador de Charlas:** Damián Avila <damianavila@gmail.com>
