@@ -17,7 +17,7 @@ Licencia
 Referencias
 -----------
 
-- Este documento: |DOCUMENT_URL|
+- Este documento: http://scipyla2015.readthedocs.org
 - Fuentes de este documento: https://github.com/scipy-latinamerica/scipyla2015
 - Pagina web del evento: http://www.scipyla.org/conf/2015/
 - SciPy Latin America: http://scipyla.org
