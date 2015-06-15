@@ -48,24 +48,6 @@ Todas las referencias aquí citadas se encuentran debidamente enlazadas en el
 apartado *Referencias* de este mismo capítulo.
 
 
-Entendiendo "Lo Bueno, Lo Malo y lo Feo"
-----------------------------------------
-
-A lo largo de todo el documento vera que casi todo capitulo contiene un resumen
-dividido en "Lo Bueno, Lo Malo y lo Feo". Estos tres grupos de registros deben
-ser interpretados de la siguiente manera.
-
-- **Lo Bueno:** Son aciertos organizativos, comunitarios o de suerte que
-  favorecieron a la conferencia que, de ser posible, deben ser imitados a
-  futuro.
-- **Lo Malo:** Son desaciertos menores organizativos, comunitarios o de suerte
-  que, de ser posible, deben ser evitados a futuro.
-- **Lo Feo:** Son desaciertos mayores organizativos, comunitarios o de suerte
-  que ponen en riesgo aspectos críticos de la conferencia. En el futuro deben
-  ser tenidos en cuenta ya que no pueden bajo ninguna circunstancia suceder en
-  una SciPy Latin América.
-
-
 Staff
 -----
 
@@ -78,8 +60,6 @@ organización consiste en:
 - **Coordinador de Becas:** Nestor Navarro <nestornav@gmail.com>
 - **Responsable de Speakers Internacionales:** Celia Cintas <ccintas@gmail.com>
 - **Coordinador en UNQui:** Roberto Suenaga <rsuenaga@ugd.edu.ar>
-- **Revisores de Charlas:**
-
 - **Editor del Post-Mortem:** Juan B. Cabral <jbc.develop@gmail.com>
 - **Redactores del Post-Mortem:**
     - Juan B. Cabral <jbc.develop@gmail.com>
@@ -87,7 +67,7 @@ organización consiste en:
 Nuestro reconocimiento para los voluntarios y empresas que participan del
 evento colaborando con la organización:
 
-- **Logo:** Paula Lorca <>
+- **Logo:** Paula Lorca <paulalorca89@hotmail.comHo>
 - **Arte:** Salvador Bravo <ta3kaiserhotmail.com@gmail.com>
 - **Infraestructura y Redes:** Universidad Gastón Dachary
 
