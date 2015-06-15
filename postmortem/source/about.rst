@@ -59,7 +59,7 @@ organización consiste en:
 - **Coordinador de Charlas:** Damián Avila <damianavila@gmail.com>
 - **Coordinador de Becas:** Nestor Navarro <nestornav@gmail.com>
 - **Responsable de Speakers Internacionales:** Celia Cintas <ccintas@gmail.com>
-- **Coordinador en UNQui:** Roberto Suenaga <rsuenaga@ugd.edu.ar>
+- **Coordinador en UGD:** Roberto Suenaga <rsuenaga@ugd.edu.ar>
 - **Editor del Post-Mortem:** Juan B. Cabral <jbc.develop@gmail.com>
 - **Redactores del Post-Mortem:**
     - Juan B. Cabral <jbc.develop@gmail.com>
