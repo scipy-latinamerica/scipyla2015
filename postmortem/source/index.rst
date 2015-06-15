@@ -10,8 +10,8 @@
         :scale: 60 %
 
 
-SciPy Latin America 2015 Postmortem
-===================================
+Postmortem
+==========
 
 Contents:
 
