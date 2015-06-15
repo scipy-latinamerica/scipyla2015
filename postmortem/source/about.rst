@@ -2,15 +2,13 @@
 Acerca de ...
 =============
 
-Licencia
---------
-
-.. figure:: _static/about/cc.png
+.. image:: _static/about/cc.png
     :align: center
 
-    SciPy Latin America 2015 - Post-Mortem por SciPyLa se
-    encuentra bajo una licencia
-    `Creative Commons Atribución-SinDerivadas 3.0 Unported <http://creativecommons.org/licenses/by-nd/3.0/deed.es>`_.
+
+SciPy Latin America 2015 - Post-Mortem por SciPyLa se
+encuentra bajo una licencia
+`Creative Commons Atribución-SinDerivadas 3.0 Unported <http://creativecommons.org/licenses/by-nd/3.0/deed.es>`_.
 
 
 Referencias
