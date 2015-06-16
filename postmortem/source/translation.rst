@@ -19,49 +19,18 @@ Los principales trabajos desarrollados en los 3 idiomas fueron:
 * tours
 * travel_guide
 
-announcement
-------------
-En este tópico tuvimos la colaboración de Juan Cabral, Raniere Gaia, Filipe Saraiva y Ivan Ogasawara.
+Revisores y traductores
+-----------------------
 
-beca
-------------
-En este tópico tuvimos la colaboración de  ...
+El trabajo de traducción tuvo la colaboración de:
 
-call_for_papers
-------------
-En este tópico tuvimos la colaboración de  ...
-
-call_for_sedes
-------------
-En este tópico tuvimos la colaboración de  ...
-
-code_of_conduct
-------------
-En este tópico tuvimos la colaboración de  ...
-
-flyer
-------------
-En este tópico tuvimos la colaboración de  ...
-
-hotels
-------------
-En este tópico tuvimos la colaboración de  ...
-
-posadas_tourism
-------------
-En este tópico tuvimos la colaboración de  ...
-
-sponsor_prospectus
-------------
-En este tópico tuvimos la colaboración de  ...
-
-tours
-------------
-En este tópico tuvimos la colaboración de  ...
-
-travel_guide
-------------
-En este tópico tuvimos la colaboración de  ...
+* Damián Avila;
+* Ivan Ogasawara;
+* Juan Cabral;
+* Martín Gaitán;
+* Nahuel Defossé;
+* Nestor Navarro;
+* Raniere Gaia.
 
 Conclusión
 ------------
