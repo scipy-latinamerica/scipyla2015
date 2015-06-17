@@ -6,7 +6,7 @@ SciPy Latin America 2015, pudo realizarse gracias a...
 
     .. image:: _static/sponsors/sponsors.png
         :align: center
-        :scale: 25 %
+        :scale: 100 %
 
 .. only:: latex
 
