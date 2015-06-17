@@ -9,6 +9,7 @@
         :align: center
         :scale: 60 %
 
+        Build: |version|
 
 Postmortem
 ==========
@@ -24,6 +25,7 @@ Contents:
     objetivos.rst
     agenda.rst
     talks.rst
+    translation.rst
     trackteen.rst
     international_speakers.rst
     on_the_fly.rst
