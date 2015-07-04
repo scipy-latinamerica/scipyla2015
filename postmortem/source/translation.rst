@@ -32,5 +32,12 @@ El trabajo de traducción tuvo la colaboración de:
 * Nestor Navarro;
 * Raniere Gaia.
 
-Conclusión
-------------
+Recomendaciones
+---------------
+
+Se recomienda para futuros trabajos de traducción:
+
+* Evitar códigos HTML en los archivos *.md;
+* Escribir los textos sin salto de lineas (\n) en el medio de la frase;
+* Utilizar una herramienta de *translation memory* (por ejemplo el www.transifex.com).
+
